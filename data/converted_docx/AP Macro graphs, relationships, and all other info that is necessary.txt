@@ -1,0 +1,265 @@
+This guide will have each of the graphs, the necessary information behind them (mainly determinants) as well as any other information that is related to them. There will be descriptions on how certain aspects of the graph will affect other graphs, but there will be nothing on how other graphs affect it. For example, there will be examples of how price level from AS/AD affect other graphs like the money market, but there won’t be anything on how the money market affects the AS/AD.
+AS/AD: (does not matter what point it’s at) LRE:
+=
+Determinants that are highlighted in green affect LRAS
+Determinants of Demand:
+C (consumer expenditures):
+	•	Change in consumer wealth (assets)
+	•	Change in consumer income (unemployment)
+	•	Change in consumer expectations (recession expectations means that there will be less spending)
+	•	Change in consumer household debt (more debt means more spending)
+	•	Change in consumer taxes or subsidies
+
+I (investment spending):
+	•	Change in interest rates
+	•	Change in business expectations
+	•	Change in technology
+	•	Change in business taxes and subsidies
+
+G (government spending):
+	•	Change in government spending
+
+Xn (net exports):
+	•	 Change in national income abroad (if Mexico’s unemployment goes down, their income goes up, and demand for US goods will go up to because there is an increase in consumer wealth, and not all of it will go towards products in Mexico)
+	•	Change in exchange rates (if the US dollar is strong, that means that it takes more Mexican Pesos to buy a dollar, and the US goods are then relatively more expensive than before, so the aggregate demand goes down and vice versa)
+Determinants of Supply:
+	•	Change in price of inputs
+	•	Change in productivity
+	•	Change in taxes and subsidies
+	•	Change in government regulations
+
+Wage price stickiness: The concept that in the long run, wages and prices are flexible, though not necessarily in the short run. The concept of wage price stickiness is why there will be a long run shift in short run aggregate supply if there is no government action taken. Since the LRAS will not shift, the maximum sustainable quantity of output will remain constant, and wages and prices will be adjusted in the long run such that the economy will return to long run equilibrium.
+
+A change in the price level will affect the interest rates in the money market, and the loanable funds market. This can be thought of as since the price level is higher, more money is needed to purchase goods, so the demand for money goes up. In the loanable funds market, if the price level is higher, the government needs to get more loanable funds in order to fund their spending, so demand for loanable funds goes up.
+
+For the foreign exchange market, a change in national income will affect the exchange market. Since the change in national income means that there will be a higher demand for foreign goods, the supply of US dollars will go up, and the demand for the foreign currency goes up.
+
+The LRAS will affect the PPC, but nothing else shifting in the short run will affect the PPC.
+
+The Phillips curve reflects what happens in AS/AD, but there are no determinants for the Phillips curve.
+
+Loanable Funds Market:
+
+Supply Determinants:
+	•	Change in savings
+
+Demand Determinants:
+	•	Change in government spending (as increase in gov spending means they need to borrow more by issuing more bonds so demand for bonds goes up from government)
+	•	Change in demand for investment by firms
+
+	•	The interest rate in the loanable funds market will affect the aggregate demand. While a rise in price level usually indicates higher interest rates, higher interest rates lower aggregate demand and price level. Interest sensitive spending and investment spending go down as a result of higher interest rates, so AD shifts left.
+
+	•	Keep in mind that if the problem is asking about foreign exchange markets, a rise in Real Interest Rates increases Ig as other countries want to invest in countries with relatively higher interest rates for more returns. This increases Demand for this country’s money and increases Ig. 
+
+Please be careful, if the problem has nothing to do with foreign markets, go with the first explanation.
+
+Loanable funds is largely in part influenced by fiscal policy:
+
+Type
+Contactionary
+Expansionary
+Government spending
+Decreasing government spending
+Increasing government spending
+Taxes
+Increasing taxes
+Decreasing taxes
+Regulations (not as important)
+Increase in regulations
+Decrease in regulations
+
+For monetary policy, anything that decreases money supply is contractionary and vice versa.
+
+On questions asking about what happens with certain monetary policy actions, it is good to have an idea of the money market in your head to see what happens to Nominal Interest Rate when you increase or decrease money supply.
+
+The crowding out effect: The crowding out effect occurs when there is a “crowding out” of investments due to the increased interest rates in the loanable funds market. This happens as a result of increased government spending, raising the demand for loanable funds, and interest rates. The increased interest rates means that there is less interest 
+sensitive spending, and less investment in the economy as a result, stagnating long term economic growth.
+
+Policies that are implemented at the time an event occurs in the economy is known as a discretionary policy, while policies that are put into place when the event occurs without the need of government approval are known as automatic stabilizers. Automatic stabilizers include taxes because when the inflation rate goes up too much, taxes will automatically have people have to pay more money which mitigates the change in AD.
+
+Money Market:
+
+
+Demand determinants:
+	•	Change in transactional demand for money, as a medium of exchange
+	•	Change in the asset demand for money, as a store of value
+
+Transactional demand for money is likely to change by increasing as a result of the price level increasing as you now need more money in order to buy same amount of stuff
+
+Asset demand for money is likely to change as a result of fears of a recession, as it will be safer to physically hold the money as an asset rather than leaving it in a bank.
+
+
+
+
+
+
+
+Supply determinants:
+	•	Influenced by the fed:
+	•	Open Market Operations:
+	•	This is buying and selling bonds
+	•	Buying bonds will increase the money supply, and results in an increase in aggregate demand (interest sensitive investment spending)
+	•	Selling bonds decreases the money supply, and results in a decrease in aggregate demand
+	•	Discount rate:
+	•	Fed controls the discount rate
+	•	The discount rate is the rate at which central banks loan to other banks or financial institutions
+	•	A raise in the interest rate means that there is a lower amount of money that is loaned out, so supply of money goes down, and aggregate demand goes down
+	•	A lowering of the interest rate means that there  is a higher supply of money, so supply of money goes up and aggregate demand goes up too.
+	•	Reserve Requirement:
+	•	The reserve requirement is the percentage amount that banks are required to keep as reserves from demand deposits
+	•	Assuming that banks keep no excess reserves, a decrease in the reserve requirement increases the supply of money, as banks are able to loan out more money
+	•	An increase in the reserve requirement means that banks must keep more money as reserves and can’t loan out as much money, which decreases the supply of money, and the aggregate demand
+
+Federal Funds rate:Fed controls the discount rate
+	•	The discount rate is the rate at which central banks loan to other banks or financial institutions
+	•	A raise in the interest rate means that there is a lower amount of money that is loaned out, so supply of money goes down, and aggregate demand goes down
+	•	A lowering of the interest rate means that there  is a higher supply of money, so supply of money goes up and aggregate demand goes up too.
+
+
+
+
+
+
+
+
+Types of Money:
+ 
+
+Velocity of money is the rate at which money cycles through the hands of people in an economy.
+
+Remember equation: MV = PQ
+where M is the money supply, V is the velocity (number of times per year the average dollar is spent), P is the price of goods and services and Q is the quantity of goods and services
+
+The Money Market includes the nominal interest rate, which influences aggregate demand as mentioned earlier. The interest rates influence interest sensitive investment spending, meaning that an increase in the interest rates mean that aggregate demand lowers.
+
+The change in interest rates also affect the foreign exchange market. As the interest rates go up, then the demand for assets in the country increases since the speculative returns on the assets go up.
+
+There is frequently an inverse relationship between the interest rate and price of bonds. The theory is that if there is an increase in interest rates, bonds from before are now going to have a lower relative yield to the bonds now, so if you buy a bond off someone, you’ll buy it at a lower price than they paid for it.
+
+
+
+Foreign Exchange Market:
+
+
+
+Determinants of Demand:
+	•	Foreign demand for a countries goods or services
+	•	If Mexico wants more US goods, then they need US dollars to buy it, so demand for USD goes up
+	•	Foreign demand for a countries assets
+	•	Similar, but this is for the financial account
+	•	Fiscal policy
+	•	Impact on interest rates
+	•	Monetary policy
+	•	Impact on interest rates
+
+Determinants of Supply:
+	•	Domestic demand for another countries goods or services
+	•	If there is an increase in demand for US goods or services in Mexico, then they need to exchange their pesos for dollars, which increases the supply of pesos in the foreign exchange market
+	•	Domestic demand for another countries assets
+	•	Similar, but for the financial account
+	•	Protectionist policies
+	•	If there is an increase in the tariff for Mexican goods, then there is a lower demand for Mexican products, so there is a lower supply of US dollars in the foreign exchange market
+
+The foreign exchange market affects the aggregate supply and demand of an economy. If there is an appreciation in a currency relative to another as a result of a change in price level, then the demand for the goods of the country that appreciated will go down. This is because the goods are now relatively more expensive than before.
+
+AS/AD shifting as a result of monetary or fiscal policies also play a role in it. Both monetary and fiscal policy change interest rates, which can influence the demand for assets in another country.
+	•	If the government decides to intervene in the economy and increase government spending, the demand for loanable funds goes up, increasing the interest rate. This leads to more investment in foreign assets since speculative returns increase, which leads to an increase in the supply of loanable funds
+
+Balance of payments:
+Current Account: tracks net exports, money transfers, investment income, net unilateral transfers
+
+This includes:
+The purchase or sale of goods between countries
+Earning income from assets owned in another country (Canadian owns stock in the South Pacific Exchange)
+Sending or receiving income from another country
+
+NOT ALWAYS BALANCED
+
+Trade balance: net export
+
+Exports = credit, Exporting goods creates foreign demand for the currency, that’s why they’re a credit. If this demand is met, there is a increase of the supply of foreign currencies held by domestic banks and available to consumers.
+
+Imports = debit, Importing goods create a domestic demand for foreign currency, so they’re a debit. Fulfillment of this demand reduces supply of foreign currencies held by domestic banks and availability to customers.
+
+Exports > Imports = surplus
+
+Exports < Imports = deficit
+
+A trade deficit does not mean that there is 100% a deficit in the current account
+
+Capital & Financial Account: tracks balance of payments of assets between countries, and the financial capital transfers
+
+Includes: Purchasing or sale of CD’s (certificates of deposit), bonds, or other interest bearing assets.
+Foreign exchange money transactions
+Purchase or sale of physical assets
+Foreign direct investment
+
+CFA NOT ALWAYS BALANCED
+Financial capital going into a county (capital inflow) = surplus
+Financial capital going out of a country (capital outflow) = deficit
+
+Balance of Payments: Accounting system used to keep track of financial transactions between 2 countries. Includes the Current account and Capital & Financial account.
+
+Money going in = credit, money going out = debit.
+Sum of credit entries = sum of debit entries
+Increase in current account must be offset by decrease in CFA and vice versa
+This is because the balance of payments must = 0, and the balance of payments adds the current and capital & financial account balance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+PPF:
+
+Reflects the potential at long run equilibrium
+
+On a PPF curve, a curved curve means there is increasing opportunity cost for both sides. A straight line with a negative slope means there are constant opportunity costs. 
+
+1 is in a recession, 2 is impossible to achieve at a country's current level of output, 3 & 4 are possible at long run equilibrium and if you were to use all of your resources at maximum efficiency.
+
+No determinants
+
+
+
+
+Phillips curve:
+
+Only reflects the AS/AD, does not influence it
+
+Keep in mind Philips Curves can also be curved and also be shifted depending on what happens on AS/AD. Refer to previous exercises with Ms Johnson’s worksheets.
+
+ ←--- curvy
+
+Formulas:
+
+GDP Multipliers:
+MPC = 1- MPS
+MPC = Change in Consumption / Change in Income
+MPS = 1-MPC
+MPS = Change in Savings / Change in Income
+Spending Multiplier = Government Spending Multiplier = Investment Multiplier = 1 / (1-MPC) = 1 / MPS
+Tax Multiplier = MPC / (1-MPC) = MPC / MPS   (also 1 less than the spending multiplier)
+Balanced Budget Multiplier = 1
+
+​Inflation Formulas Inflation = Nominal % change – Real  % change Real % Change = Nominal % change – Inflation CPI = New Market Basket Value/Base Market Basket Value x 100 Deflator =  Nominal Value/Real Value x 100 Inflation rate = (New Index – Old Index) / Old Index x 100 Real value =  Nominal Value/Index x 100
+Banking Formulas Money Multiplier =  1 / Reserve Requirement Quantity of Money Theory: Nominal GDP=M x V = P x Q
+Time Value of Money Future Value = Present Value + (Present Value x Interest Rate) Present Value ≈ Future Value – (Future Value x Interest Rate)
+Comparative Advantage Formulas Absolute Advantage: The entity that can produce more units with the same amount of inputs or produce the same amount with fewer inputs has an absolute advantage. Comparative advantage: The entity that can produce a good or service at a lower opportunity cost.
+	•	Outputs (bikes, corn, etc): Other Over
+	•	Opportunity cost of A is B/A units of B
+	•	Inputs (hours, machines, land): It Over
+	•	Opportunity cost of A is A/B units of B
+Unemployment rate:
+Civilian labor force = employed + unemployed
+Unemployment rate = (number of unemployed/labor force) * 100
+Labor force participation rate = (Civilian labor force/Non institutionalized adult population) * 100
+Employment rate = (Employed/labor force) * 100
+Full employment is when there is only frictional and structural 

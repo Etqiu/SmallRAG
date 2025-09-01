@@ -1,0 +1,314 @@
+First Drafts
+BE SPECIFIC WITHIN THE ESSAYS: SPECIFIC MATH PROBLEMS, PEOPLE, AND SITUATIONS. NO SURFACE LEVEL STUFF!!
+
+
+Major: Neuroscience/CS (focused on brain study because of my interest in AI)
+
+
+Leadership: Coaching
+Creativity: Cooking/math
+	•	creativity:
+	•	going outside the box, not being generic, doing what you want and how you want
+	•	means to be yourself and not letting anyone else define you or your ideas
+	•	it requires one to stay focused on themselves and not on others
+Academic subject/take advantage: Mental health summer internship (NEURO/AI interest)
+
+Something academic: 
+	•	Either for piq 3: combine neuro internship with my ai project (tbd..) or seperate piq 3 and talk about piq 4 about that project but that might make piq 3 weak..
+	•	Then piq 4 could be about something completely different
+
+	•	Leadership: school club —> coaching (maybe focus more on specific day or solving a problem so could rewrite) 
+	•	Creativity: internship where you did something (neuro internship, ai project?)
+	•	Academic subject: specific math experience (math)
+	•	Take advantage:different subject experience (English, science) 
+
+
+
+	•	Leadership: Coaching
+	•	either change OVER time
+	•	or focus on a specific moment that i showcased my leadership
+	•	less of backstory
+	•	Creativity: Cooking —> chemistry/math ?, my hobby of collecting photocards, my love for organizing things idk, card making
+	•	drive for perfection in clipping nails (maybe could be a metaphor)
+	•	Hobby —> starting an instagram and TikTok account with ~ 1k followers, posting constantly with videos of packing trades for my collection, hosting group orders (aka managing people’s money and items, shipping them out myself), fulfilling orders when selling photocards, hosting a giveaway, designing packing aesthetics, investing money and time into materials to make people’s orders
+	•	Designign engaging instagram/tt content
+	•	Creating aesthetic packaging
+	•	HOsting giveaways, tracking orders, managing multiple trades at once
+	•	Creativity is both artistic and functional (MAKE SURE to tie in creativity into this one)
+	•	How it showed me into the world of entrepreneurial thinking, (as i helped my dad or local photographer design a website to sell his art, or helped him create/manage his photography content to reel in engaging users), sharpened my eye for design communication, and even pattern recognition, slowly learning about the online trading community like AI does (CS tie in)
+	•	Who wants what (supple/demand)
+	•	Release trends (what versions are rare/popular
+	•	Learning what types of account are reliable (seller/buying behavior)
+	•	shipping/set layout (matching pc to card to washi-tape for aesthetic purposes, because I realized from my experience when I received mail with nice packaging and freebies i wanted to buy again from them —> I started paying more attention and applying that to my account)
+	•	Packaging efficiency (how to protect cards while minimizing shipping bulk)
+	•	Noticing trends, making predictions, adapting a strategy. (Learning the average prices for certain photocards, gaining an eye for what is worth it and what is not all comes through trial and error like letting someone low-ball but realizing the mistake)
+	•	Recognizing which members cards are more sought after post comeback
+	•	Predicting demand based off teaser photos of version types, gathering data and information online to prepare for the comeback (machine learning algorithms, identifying trends in large data sets)
+	•	optimization: minimizing effort while maximing output (packing and shipping)
+	•	Noodles are creative because it showcases my own steps and my culture
+	•	noodles is a known dish and has been passed down, but creative because I tweak it, noodles = metaphor
+	•	creativity stems from intuition and intuition is built from trial and error, from the noodles
+	•	Academic subject: neuro/mental health internship sparking my interest in neuro/AI —> AI project (TBD) 
+	•	Take advantage OR overcome educational barrier: an experience with calculus (connect to something UNIQUE like dragon curve, or something in cs or another subject that helped me solve this cuz overcoming just integrals is so so boring)
+	•	ORRR maybe how i wasn’t really opened up about English until junior year AP Lang 
+	•	starting with my teacher getting semi-fired freshman year and having a sub for the whole year, then my sophomore teacher that only had us read like one book the whole year and mind you— i used to be a reader and writer, it was fun for me. So in junior year ap lang something changed
+	•	ORR my east coast trip!! How i was never really interested in history but the trip to all the famous places piqued my curiosity; though i hadn’t learned much or remembered much us history, i vaguely remembered some names from watching Hamilton, so i was able to understand what was being said on all tours. Hadn’t touched Hamilton in a hot minute and when i was younger i just watched it, not paying attention to the history behind it. I went back and actually listened to the lyrics, allowing me to learn the history in the form of an intruiging story. Perfect! Junior year came along and that was the year I learned US history, excited about history for once
+	•	ORR recursive fractal
+	•	start with being anxious about being in calculus bc, how i didn’t know anyone, being one of the few juniors in my class; also how i felt inferior to the other seniors in the class, as they were a whole year ahead of me and took a lot of the classes I already took (but this isnt really an educational barrier so prob don’t focus on this and instead focus on a time i was stumped by a question or topic but worked hard to understand it)
+	•	 Topics that could be interesting
+	•	FML Related Rates (how i saw it on a test TWO times but maybe the 2nd time about how it went better)
+	•	Optimization
+	•	Integrals being approximations of area under the curve: struggled with them because of the million ways to solve them, but slowly as I learned new techniques and practiced with it more I was able to see exactly how to crack one when given, was not longer scared about how to approach it and instead dived straight in
+	•	Volumes using calculus requiring me to visualize shapes in my head, something i had never done before in math
+	•	Series/Taylor series: before in algebra 2 i had learned about simple geometric series, and about how to prove convergent or divergent so i was somewhat confident that this unit in calculus wouldn’t be too bad. Turns out, geometric series test was probably the first thing and easiest test learned out of all of them. Just like integration, determining converge or divergence and proving it required official tests; tests I had to memorize and know when to apply… blablbal same story with integrals 
+
+
+	•	Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes, or contributed to group efforts over time.
+
+
+	•	coaching: shows adaptability, hard work, and leadership
+	•	Parallels between my 13s season to my coaching experience with a whistle (ref’s whistle) or when a coin flips (coin toss in volleyball)
+
+
+My heart was beating over 100 miles per hour, standing at the end line of a blue and red sport court within the Reno Sparks convention center. Volleyball in my hand, I bounced it around a few times, getting ready to serve. The ref’s whistle blew. I was brought back to my current reality: in the same convention center, but not on the court. This time, I was standing on the sideline, cheering on a 12-year-old team I was given the opportunity to coach.
+
+At the end of summer before my junior year of high school, I was approached by my volleyball club’s head director, who had also coached me before and had known me since I was five years old when I first started playing volleyball. He invited me to coach his 12-1 team, many being first-time players, he noted, alongside him and another assistant coach. I happily agreed, and the first few months of junior year rolled by, until it was time for club volleyball season. At first, warming up to the girls was tough. It felt as though I lacked authority even as an assistant coach and was just there to toss and serve balls. On a surprising, yet regular 5:30-7:30 PM Tuesday practice, however, the head coach sent me a text message that he was unable to make practice that night.
+
+Looking down at my phone, my palms began to sweat. The thought of managing over 12 players filled with energy made me slightly uneasy. I was filled with excitement and drive too, since this was my first real opportunity to work one-on-one with the players. 
+
+Soon, 5:30 PM approached, and I saw players slowly arriving, putting on their knee pads, Amber putting on her favorite hair tie, and Madison making sure her extra long socks reached her knee. We were scheduled to be on a middle court that day, which meant we were not given a normal court with a net, but instead the space between the two courts. The players didn’t particularly enjoy the fact we had to practice on a middle court, but the head coach believed practice on this court along with our time on normal courts on the weekend could ultimately improve ball control. 
+
+Despite concerns about what could be done on such a small area of court space, I devised a plan to ensure each player would be utilizing their time even without a net. After the players finished their stretching, I divided them into three groups, each group working on shuffle passing, where each player in the group would bump the ball to the next person and vice versa. I made this activity into a competition as well, allowing them to have fun whilst developing a fundamental skill of volleyball. After that drill, I focused more on individual passing with each player, through a typical serve receive drill. After each player passed the ball, I assessed how their platform was angled, or the way they moved. I observed their habits and remembered them. Alexa had a bad habit of moving her feet around too much before contacting the ball, while Jo would always react a second too late. After their water break, I gathered them and had the hitters work on the middle net I set up, and had some passers work with me. Noting Alexa’s and Jo’s passing in particular, I told them what was wrong with how they were passing and gave an example of how to have proper form when passing. Throughout the rest of practice, I continued to work with all the players, making sure to talk to them all individually to ask about specifics they wanted to learn or improve at. Some ambitious players, like Madison, directly asked me what I thought they needed to work on. I was straight up with her, telling her she needed to work on the mechanics of her swing.
+
+The following two practices were also led by me. After that first initial practice, I noted down what each player wanted to learn and what I believed would be in their best interest to work on. The following practices I worked on those exact skills. Throughout the rest of the season, the girls continued to grow their abilities, along with their confidence. With their hard work, they were even able to place 2nd in Northern California, earning a ticket to the yearly Junior National Championships held in Dallas, Texas.
+	•	Say your main point directly: You made sure all players were heard in what they wanted to work on and made sure that was implemented at practices, and the results show in JNC. 
+Through my first full-time coaching experience, I learned what it meant to lead a team. Adapting to each individual was something extremely important when it came to coaching—knowing how to talk to each player, and how to motivate them, not just when. They taught me that leading is not all about control or about being the loudest. Instead, I realized that it was about listening. Leadership is about understanding others, and creating an environment in which everyone can reach their full potential. 
+
+The girls that were once clueless to the world of volleyball now began to look like my own past, learning to love the sport and friendships that grew because of it. And with that, the whistle blew, and I was back on that sideline cheering on the people that allowed me to become a better listener.  
+
+(809) smtn like that
+
+2nd draft:
+	•	focus on being more direct and clear with ideas, especially for the ending of lessons learned
+	•	It needs to be detailed during parts that matter, not so much in the set up of the story
+	•	Work on cutting down unimportant or irrelevant parts 
+
+My heart was beating over 100 miles per hour, standing at the end line of a blue and red sport court within the Reno Sparks convention center. Volleyball in my hand, I bounced it around a few times, getting ready to serve. The ref’s whistle blew. I was brought back to my current reality: in the same convention center, but not on the court. This time, I was on the sideline, standing as a coach. 
+
+Before my junior year of high school, I approached my volleyball club’s head director in search of a coaching opportunity. He invited me to coach his 12-1 team alongside him and I happily agreed, as I felt ready to share my years of experience with the players. At first, warming up to the girls was tough. It felt as though I lacked authority even as an assistant coach and was just there to toss and serve balls. On a surprising Tuesday night practice, however, the head coach sent me a text message that he was unable to make it to practice. 
+
+Soon, I saw players slowly arriving, putting on their knee pads, Amber putting on her favorite hair tie, and Madison making sure her extra long socks reached her knee. We were scheduled to be on a middle court that day, which meant we were not given a normal court with a net, but instead the space between the two courts. 
+
+Despite concerns about what could be done on such a small area of court space, I devised a plan to ensure each player would be utilizing their time even without a net. After the players finished their stretching, I divided them into three groups, each group working on shuffle passing, where each player in the group would bump the ball to the next person and vice versa. I made this activity into a competition as well, allowing them to have fun whilst developing a fundamental skill of volleyball. After that drill, I focused more on individual passing with each player through a typical serve receive drill. After each player passed the ball, I assessed how their platform was angled, or the way they moved. I observed their habits and remembered them. Alexa had a bad habit of moving her feet around too much before contacting the ball, while Jo would always react a second too late. After their water break, I gathered them and had the hitters work on a small net I set up, and had some passers work with me. Noting Alexa’s and Jo’s passing in particular, I told them what was wrong with how they were passing and gave an example of how to have proper form when passing. Throughout the rest of practice, I continued to work with all the players, making sure to talk to them all individually to ask about specifics they wanted to learn or improve at. Some ambitious players, like Madison, directly asked me what I thought they needed to work on. I was clear with her, telling her she needed to work on the mechanics of her swing.
+
+The following practices were also led by me, as the head coach slowly became more absent due to commitments with his grandchildren. After that first initial practice, I noted down what each player wanted to learn and what I believed would be in their best interest to work on. I made sure all players were heard, and, along with feedback from me, made sure working on these skills were a priority at practices throughout the rest of the season. With their hard work, they were even able to place 2nd in Northern California, earning a ticket to the yearly Junior National Championships held in Dallas, Texas.
+
+Through my first full-time coaching experience, I learned what it meant to lead a team. Adapting to each individual was something extremely important when it came to coaching—knowing how to talk to each player, and how to motivate them, not just when. They taught me that leading is not all about control or about being the loudest. Instead, I realized that it was about listening. Leadership is about understanding others, and creating an environment in which everyone can reach their full potential. 
+
+The girls that were once clueless to the world of volleyball now began to look like my own past, learning to love the sport and friendships that grew because of it. And with that, the whistle blew, and I was back on that sideline cheering on the people that allowed me to become a better listener.  
+
+(757)
+
+3rd draft:
+
+My heart was pounding, the air was thin, and the voice in my head was drowned out by the sounds of blown whistles, squeaks from shoes, and the echoes from cheers throughout the Reno Sparks convention center. Yet, in this moment of commotion, my team is the only thing that matters. I stand at the end of a volleyball court, getting ready to serve. The ref’s whistle blew. I was brought back to my current reality: in the same convention center, but not on the court. This time, I was on the sideline, standing as a coach.
+
+Before my junior year of high school, I approached my volleyball club’s head director in search of a coaching opportunity. He invited me to coach his 12-1 team alongside him and I immediately agreed. Having played volleyball since I was five years old, I felt ready to share my years of experience with new players. Initially, warming up to the girls was tough. It felt as though I lacked authority as a mere assistant coach and was just there to toss balls. On an unexpected Tuesday night, however, the head coach sent me a text message that he was unable to make it to practice.
+
+5:30 PM quickly arrived, and I saw my players walk in one by one. Amber and Leto were eating their chips that they tried very hard to hide from me, while Madison was making sure her extra long socks reached her knees. I gathered all the girls and announced to them they would be practicing on the middle court: the small space between the two courts, leading to looks of confusion. 
+
+My players complained and wondered what could be done in such little room. I wasn’t worried though. I’d played on this exact same team before under the same head coach, so middle court practices were nothing strange to me. I simply asked the girls one question: “What do you guys want to work on today?” We went down the line, with each girl saying what she wanted to learn or improve on. Most players said basic serve receive passing. While the players stretched and warmed up their arms, I worked on a plan to incorporate the things the players wanted to learn with skills I thought needed growth. I had them start a serve receive drill involving a line of servers and a line of passers, and told the girls to focus on the movement of their feet and the angle of the platform. After a few rounds of passing, I took a pause to the drill. Though I told the girls to focus on their movement, I didn’t explicitly state how. Alexa was taking way too many steps before the ball even hit her platform, and Jo would always move her feet a second too late. Noting this, I told the girls two things: 1. Simply your movements. Just take the one or two steps necessary to get to the ball. And 2. Once you see where the ball is going towards, move your feet. Being a libero, a player that focuses purely on passing, I had one of the girls serve at me while I demonstrated a few passes for them. I had the girls continue the drill, making sure they were intentional with their feet. 
+
+Errors make up the game of volleyball, so naturally, the players didn’t always have the perfect movement. Though, through more practices, which were also led by me, the girls were able to practice this skill more. I wasn’t concerned with whether the pass was perfect— rather, I wanted to make sure their form was correct. When I felt the majority of girls, got more comfortable with getting to the ball, I added another layer of complexity to passing: platform angles. This skill isn’t talked about a lot for younger players, as it’s complicated to teach and can lead to bad habits. I still taught it to them though, starting with examples and easy balls requiring no movement. Despite facing your platform to the left, a ball could easily be pushed far to the right as long as an inside shoulder was dropped. This was the magic of angles. I worked on this skill with the girls for several practices, slowly progressing from high balls to faster serves. With their footwork down, their angles were the only things holding them back from getting a perfect pass. The rest of the season was designed to hone the connection between these two skills. The girls went from asking me what was wrong with their passing, to understanding themselves what went wrong and setting their own goal to fixing it. 
+
+With their hard work, the girls were able to place 2nd in Northern California, earning a ticket to the yearly Junior National Championships held in Dallas, Texas. 
+
+Being my first full-time coaching experience, I am beyond proud of what the girls have accomplished throughout their season. The outcome of doing well at tournaments shows proof of their discipline in mastering the fundamental skills of volleyball. Through this experience, I’ve grown as well. I learned what it truly means to lead a team. It requires being a listener and an observer. Answering players’ questions, revising drills, ensuring tactical practices, and knowing when to take a step back, allowing the girls to point out their own mistakes, provides each girl the tools necessary to grow. Noticing and understanding how to make individuals and the collective shine is leadership. 
+
+(911)
+
+
+1. Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes or contributed to group efforts over time.   Things to consider: A leadership role can mean more than just a title. It can mean being a mentor to others, acting as the person in charge of a specific task, or taking the lead role in organizing an event or project. Think about what you accomplished and what you learned from the experience. What were your responsibilities?
+Did you lead a team? How did your experience change your perspective on leading others? Did you help to resolve an important dispute at your school, church, in your community or an organization? And your leadership role doesn't necessarily have to be limited to school activities. For example, do you help out or take care of your family?
+
+Essay needs to have purpose, what do I want to show in this essay?
+	•	how was I a leader
+	•	Show how a dispute was resolved by me, and show how both the team and myself grew
+	•	Dispute: middle court situation that the head coach kept putting this team on created a lack of enthusiasm and love for the sport within these 12 year old girls
+	•	Their lack of confidence and resolve showed on the court. When they made one mistake, they looked to the bench in fear and annoyance
+	•	However, I wanted to fix this. I wanted them to enjoy the sport that they were playing. Firstly, by showing them mistakes make up the game and secondly through relaxed practices that weren’t so icy cold when the head coach was around. 
+	•	Finding the balance between coaching and being their friend was also a challenge for me, but I found my ground as a coach, finding authority amongst badgering parents through more practices with them
+	•	Resolution: I created effective and fun drills on the middle court, setting up the small net so they could utilize their time hitting while passers worked on passing. Through reps they were getting with my drills, along with critiques of what they should work on (ex: stopping a player after they pass, making sure they are aware of the mistake but knowing its ok to do), players gaining confidence and knowledge/awareness. They could identify what they were doing wrong without me having to tell them, no longer looking towards the bench in confusion whenever they made a mistake. They high-fived each other, cheered, and took accountability for their own mistakes, saying “That’s on me. I’ll get the next one.”
+	•	What I learned/did: I created a fun environment as a coach and friend. Why? Because this reminded me of how my coach was like before: on the sideline as a coach, but off as a friend. I respected her as a coach, but she was more like an older sister or role model to me. Whenever I made a mistake, she’d correct me, but also high five me, saying it was okay. In a young athlete’s mind, reassurance is all they need. Creating this environment for these 12 year olds helped them develop their love for volleyball and to help normalize that the sport is a game of mistakes. 
+	•	How this change my perspective on leading others/what I learned from this experience: Leadership is not about being the loudest in the room, about dictating everyone or assigning out tasks. It’s more about listening/observing (understanding player needs and wants, and seeing that players aren’t confident), adapting (to the unusual middle court practices), and creating a place for others to grow (by being a coach and friend). [Being a leader requires innovation and the ability to come up with quick solutions.] (sent maybe not necessary) By turning the dreaded middle court into a fun way to grow and through watching my players’ change in mindset throughout the season, I saw leadership as a way to inspire confidence.
+	•	Learend that wow, these girls really do build a bond with their coach. Your reactions and the way you decide to build an atmosphere really has a deep affect on them. Being a good leader means to understand that connection and thus focusing on creating an environment where people feel free and safe to grow, where people dont feel afraid to make mistakes and where they feel acknowledged when they succeed. Through innovation, by transforming the middle court, I discovered leadership isn’t about control, but about inspiring confidence. 
+
+My heart was pounding, the air was thin, and the voice in my head was drowned out by the sounds of blown whistles, squeaks from shoes, and the echoes from cheers throughout the Reno Sparks convention center. I stand at the end of a volleyball court, getting ready to serve. The ref’s whistle blew. I was brought back to my current reality: in the same convention center, but not on the court. This time, I was on the sideline, standing as a coach.
+
+Before my junior year of high school, I approached my volleyball club’s head director in search of a coaching opportunity. I was inspired to give the same experience of volleyball to new players, just like my previous coach did for me. My club director recognized my experience, not only with playing volleyball, but also with having previously coached part time and through weekly volunteer positions, ultimately prompting him to extend a coaching opportunity alongside him and his 12-1 team. 
+
+The first few practices I attended as a new coach involved a lot of observation from my end. I noticed the team was mainly assigned to the middle court where they weren’t given a court, but rather, had to use the space between the courts to practice. Every practice held on the middle court looked draining to the players: they all thought it was a waste of time. It created a lack of enthusiasm and love for the sport for these 12 year olds that was apparent in the way they played even when we did have a court, lacking confidence and afraid to make mistakes. 
+
+Reflecting on my time as a player, I remembered that the coach that impacted me the most was the one who allowed the team to have fun whilst honing our skills. I sought out to create the same environment for my new players. I started taking over more of the team’s practices as the head coach slowly became more absent due to family commitments. Still, the team was assigned to multiple practices a week on the middle court, so I began creating new drills for it. I started by setting up a small net so the players could practice hitting on it. I balanced the games and relays I had them do with drills aimed to fine-tune certain skills, like serve receive or target setting. After each player went through the drill a few times, I observed a few habits. Alexa had a bad habit of moving her feet around too much before contacting the ball, while Jo would always react a second too late. I pulled them aside before they attempted the drill again, letting them know what was wrong with their passing and giving physical examples through my own passing for proper form. Throughout practices across the season, I continued to work with all the players, making sure to talk to them all individually to ask about specifics they wanted to learn or improve at. 
+
+By transforming the middle court into fun and tactical practices, my girls began to smile more while playing. The numerous games I had the team play sparked not only competitiveness, but also friendships. Their newfound joy while playing volleyball perpetuated a wave of confidence throughout all the girls who were no longer looking to me in fear after a mistake. Instead, they high-fived each other, smiled, and took accountability saying, “That’s on me. I’ll get the next one.”
+
+With their hard work, they were even able to place 2nd in Northern California, earning a ticket to the yearly Junior National Championships held in Dallas, Texas. Coaching gave me a new perspective on leadership. I learned the depths to which a coach can impact a player. Reactions to a play and the type of atmosphere created deeply affects them. Being a good leader means to understand that connection and thus focusing on creating an environment where everyone, individually and as a collective, can succeed. By transforming the dreaded middle court, I discovered leadership isn’t about control, but about inspiring confidence. 
+
+
+
+
+
+
+
+
+
+	•	Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+	•	cooking —> math
+
+[Hook Ideas] The smell of comfort came wafting throughout my grandparents’ house—a smell that I associated with only one thing: my yeye’s (grandpa’s) bowl of noodles.
+
+
+My home’s kitchen and counters are lined up with …(messy… showing how much i experiment)
+
+STARTS HERE: Within the most sacred part of my room lies a treasure chest. Behind my clutter of photos, paintings, and pens, is a blue box decorated with my name containing index cards of recipes I had handwritten throughout my life. Among the various dessert recipes like typical cookies and crepes lies a recipe for a savory bowl of noodles: my yeye’s (grandpa’s) noodle soup. 
+
+I was twelve years old when I first attempted to mimic my yeye’s noodle soup. During the numerous times he came over to take care of me and my brother, I’d watch him, step by step, creating his masterpiece dish. I wrote down what I thought was the recipe and on days he wasn’t there, I would try making it. 
+
+Step 1: Fry egg(s) in a pan. Step 2: Use already boiled water and add to the pan. It is CRUCIAL to not use tap water. Step 3: Add noodles, chopped green onions, one scoop of “Better than Bouillon” seasoning, and any meat or veggies needed. Step 4: Eat!
+
+I thought following this recipe would be simple and autonomic. And it was. Looking back and forth from my small index card to my pan of boiling water and noodles was easy. I didn’t even have to worry about the taste of the noodles since following the recipe would guarantee its flavor. But this was an incorrect assumption. The noodles I made lacked an aspect and layer of depth that was usually there with my yeye’s. 
+
+The following days I remained stuck in the kitchen, each day testing out various ingredients and seasonings in hopes of creating my yeye’s bowl of noodles. Was it merely the seasonings that made it different, the way I cooked the noodles, or the toppings I added? I had so many questions I needed answered. I added black pepper and salt into the soup. Wrong, that wasn’t it. I added fish meat balls instead of beef meat balls. Definitely wrong. After countless attempts, I finally created my noodle soup: the one that I believed tasted the best, adding white pepper, fish sauce, and getting rid of green onions. 
+
+The next week, I asked my grandpa what his true recipe was. Unlike my expectations, the bowl I created did not match his. I wasn’t disappointed by this fact, however, because I ended up creating a bowl unique and catered to my own tastes, without following a recipe. I learned to be myself not only in the kitchen, but outside of it, even now in my math classes as I solve integrals without set steps. The ingredients I choose, whether it be u-sub, integration by part, trig-sub, or a combination, to crack an integral do not follow a recipe. Throughout my junior year Calculus class and throughout my future endeavors, I have and will continue to go beyond a recipe, using relentless trial and error to approach problems with creativity and persistence—viewing each challenge not through a fixed formula, but as an opportunity to discover patterns, explore unknowns, and innovate new definitions of knowledge. 
+
+(509) - def add more to the meaning and focus less on the cooking aspect, maybe add more to the math idk
+
+2nd draft:
+	•	add more meaning & overall message
+	•	focus less on cooking and add more to math
+	•	after: um this still is not good, needs to show how im creative not just the fact that i “go beyond a recipe” because thats so boring 
+	•	maybe I show creativity through relentless trial and error, or constant exploring through unknowns to figure out something because I’m creative when I come up with things that are unique to my ideas. Bruh idk
+	•	maybe write another one about math with one tiny element of cooking 
+
+
+Within the most sacred part of my room lies a treasure chest. Behind my clutter of photos, paintings, and pens, is a blue box decorated with my name containing index cards of recipes I had handwritten throughout my life. Among the various dessert recipes like typical cookies and crepes lies a recipe for a savory bowl of noodles: my yeye’s (grandpa’s) noodle soup. 
+
+I was twelve years old when I first attempted to mimic my yeye’s noodle soup. During the numerous times he came over to take care of me, I’d watch him, step by step, creating his masterpiece dish. I wrote down what I thought was the recipe and on days he wasn’t there, I would try making it. 
+
+Step 1: Fry egg(s) in a pan. Step 2: Use already boiled water and add to the pan. It is CRUCIAL to not use tap water. Step 3: Add noodles, chopped green onions, one scoop of “Better than Bouillon” seasoning, and any meat or veggies needed. Step 4: Eat!
+
+Following the recipe was straightforward as expected. I didn’t even worry about the taste of the noodles since following the recipe would guarantee its flavor. But this was an incorrect assumption, as the noodles I made lacked an aspect and layer of depth that was usually there with my yeye’s. 
+
+The following days I remained stuck in the kitchen, each day testing out various ingredients and seasonings in hopes of creating my yeye’s bowl of noodles. Was it merely the seasonings that made it different, the way I cooked the noodles, or the toppings I added? I had so many questions I needed answered. I added black pepper and salt into the soup. Wrong, that wasn’t it. I added fish meat balls instead of beef meat balls. Definitely wrong. After countless attempts, I finally created my noodle soup: the one that I believed tasted the best, adding white pepper, fish sauce, and getting rid of green onions. 
+
+The next week, I asked my grandpa what his true recipe was. Unlike my expectations, the bowl I created did not match his. I wasn’t disappointed by this fact, however, because I ended up creating a bowl unique and catered to my own tastes, without following a recipe. I learned to be myself not only in the kitchen, but outside of it, even now in my math classes as I solve integrals without set steps. I don’t follow a recipe when cracking an integral with different ingredients, whether it be u-sub, integration by part, trig-sub, or a combination. Throughout my junior year Calculus class and throughout my future endeavors, I have and will continue to go beyond a recipe, using relentless trial and error to approach problems with creativity and persistence—viewing each challenge not through a fixed formula, but as an opportunity to discover patterns, explore unknowns, and innovate new definitions of knowledge. 
+
+
+1st draft 2nd topic:
+	•	Hobby —> starting an instagram and TikTok account with ~ 1k followers, posting constantly with videos of packing trades for my collection, hosting group orders (aka managing people’s money and items, shipping them out myself), fulfilling orders when selling photocards, hosting a giveaway, designing packing aesthetics, investing money and time into materials to make people’s orders
+	•	Designign engaging instagram/tt content
+	•	Creating aesthetic packaging
+	•	HOsting giveaways, tracking orders, managing multiple trades at once
+	•	Creativity is both artistic and functional (MAKE SURE to tie in creativity into this one)
+	•	How it showed me into the world of entrepreneurial thinking, (as i helped my dad or local photographer design a website to sell his art, or helped him create/manage his photography content to reel in engaging users), sharpened my eye for design communication, and even pattern recognition, slowly learning about the online trading community like AI does (CS tie in)
+	•	Who wants what (supple/demand)
+	•	Release trends (what versions are rare/popular
+	•	Learning what types of account are reliable (seller/buying behavior)
+	•	shipping/set layout (matching pc to card to washi-tape for aesthetic purposes, because I realized from my experience when I received mail with nice packaging and freebies i wanted to buy again from them —> I started paying more attention and applying that to my account)
+	•	Packaging efficiency (how to protect cards while minimizing shipping bulk)
+	•	Noticing trends, making predictions, adapting a strategy. (Learning the average prices for certain photocards, gaining an eye for what is worth it and what is not all comes through trial and error like letting someone low-ball but realizing the mistake)
+	•	Recognizing which members cards are more sought after post comeback
+	•	Predicting demand based off teaser photos of version types, gathering data and information online to prepare for the comeback (machine learning algorithms, identifying trends in large data sets)
+	•	optimization: minimizing effort while maximing output (packing and shipping)
+
+Lining up in front of a K-pop store in 2021 changed my life. In the middle of my 8th grade year, I lined up in front of a brand new K-pop store because my friends at the time were huge fans. Though I had no previous interest in this genre, I bought an album filled with a singular song I liked. From that point on, an addiction began. 
+	I soon became fans of multiple groups, starting from a girl group, Stayc, to finding my favorite group, TXT. I began buying albums with money I’d earned from holidays and birthdays, even watching livestreams from the store to see what would be in stock for the week. When I finally received my very first phone at the end of 8th grade, I finally downloaded TikTok, and dove into the addicting world of social media. I soon became aware of the online K-pop photocard trading community that was mainly held on the social media app Instagram. I researched on multiple platforms about how this trading would work, finding relevant answers on TikTok, Reddit, and basic safari searches. During the summer before my freshman year, I created a K-pop trading account. 
+	As I learned more about the community, I began to become aware of trends—learning the average price of photo cards, which member’s merch would be the most popular, and predicting demand based off teaser photos of version types. Through consistent posting and gaining trust through proofs, I was able to reach 1,000 followers, which was even more followerers than my main account. Throughout the entire process, I made sure the design on my account was uniquely tailored to my likes and dislikes, ensuring that the aesthetic of my account and packaging of photo cards I sent out were consistent. I even reinvested what I earned from my account into buying newer, more aesthetic supplies to make sure people would want to continue trading and buying from me. As my account continued to grow and as I became more comfortable in the trading community, I began hosting group orders, which required managing roughly the money of 10-20 people along with their items. I hosted these group orders not to earn money, but purely because I wanted to help others acquire the items they sought after for a lower price. I hosted giveaways, tracked orders, and managed multiple trades at once whilst designing engaging instagram and TikTok content.
+	This simple hobby that started in 8th grade became a core part of my life, and a way to unwind after long days of school. It also introduced me into the world of entrepreneurial thinking. Through my reach in social media, I worked with a local San Francisco photographer, helping him grow his social media presence and followers through intricately designed videos to engage users. His platform was able to reach nearly 3,000 followers, which led me to design a website to allow him to sell his photography works. 
+	To me, creativity is making something out of nothing, like establishing a social media account, website, or growing something you love. …. So lining up in front of that store years ago did in fact change my life— it gave me an opportunity to look at things with a mind set to create and build things up. 
+
+
+2nd draft:
+
+Lining up in front of a K-pop store in 2021 changed my view on creativity. At the time, I wasn’t even a fan of the genre— I merely tagged along with my friends. Yet, that day led to the purchase of a singular album that inspired an unexpected curiosity and passion. 
+
+I soon became immersed in the genre along with its community online, becoming aware of its photocard trading community prevalent on Instagram. Interested in expanding my own collection, I created a trading account and dove into the new experience. 
+
+‘
+	As I learned more about the community, I began to become aware of trends—learning the average price of photo cards, which member’s merch would be the most popular, and predicting demand based off teaser photos of version types. Through consistent posting and gaining trust through proofs, I was able to reach 1,000 followers. Throughout the entire process, I made sure the design of my account was uniquely tailored to my likes and dislikes, ensuring that the aesthetic of my account and packaging of photo cards I sent out were consistent. I even reinvested what I earned from my account into buying newer, more aesthetic supplies to make sure people would want to continue trading and buying from me. 
+
+As my account continued to grow and as I became more comfortable in the trading community, I began hosting group orders, which required managing roughly the money of 10-20 people along with their items. I hosted these group orders not to earn money, but purely because I wanted to help others acquire the items they sought after for a lower price. I hosted giveaways, tracked orders, and managed multiple trades at once whilst designing engaging instagram and TikTok content.
+	This simple hobby that started in 8th grade became a core part of my life and a way to unwind after long days of school. It also introduced me into the world of entrepreneurial thinking. Through my reach in social media, I worked with a local San Francisco photographer, helping him grow his social media presence and followers through intricately designed videos to engage users. His platform was able to reach nearly 3,000 followers, which led me to design a website to allow him to sell his photography works. 
+	To me, creativity is making something out of nothing, making it bigger than yourself, and defying what you think is possible. My single purchase at the K-pop store years ago was beyond a monetary transaction. It changed my view on possibilities and limits, showing me that with curiosity, I can create communities and ideas from the ground up. 
+
+
+	•	Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.
+
+Two summers ago, I interned at a mental health internship partnered with OFA, a San Francisco organization. The internship, led by graduate students from UC Berkeley and Howard University, had one goal: to create a free resource for San Francisco residents struggling with mental health disorders.
+
+The basis of the program involved deep research and learning, where my mentors started off by teaching the structure and functions of the human brain. Throughout the next few weeks, my peers and I dove deeper, specifically learning about mental health disorders. We researched their formation, effects, treatment, and read numerous case studies in an attempt to gain an understanding of the complicated nature of the brain.
+
+Throughout my six-week experience, I developed a burning curiosity to answer the exact question: Why do our brains work the way they do? My love for logic and reasoning made me so heavily driven to determine the correct answer to this question. In math classes I sincerely enjoy, or even when learning a new piano piece, there has always been one set answer, whether it be 2+2=4 or that C sharp equals D flat.
+ 
+I needed an answer— a logical one. Thus, outside of my internship, I dove into even more research about the brain, checking out books at the library about brain function, and even attending a lecture by Dr. Zina Besirevic, a former psychology professor at UC Berkeley and current AI-based neuroscience architect at Stanford. I did not find a correct answer to my question, as I came to realize that the brain sometimes follows no pattern as it learns, grows, and adapts without a set reason why. Through my extended studies, I began thinking about my previous class, AP Computer Science Principles, where I learned about AI machine learning and neural networks. I noticed that this technology attempted to mimic human brain function, specifically through the inspiration of artificial neural networks being biological neurons. Other similarities, as I researched, including weighted connections, pattern recognition, and distributed processing, all made me even more curious and investigative about the connection between the brain and current technology. 
+
+After creating informational brochures and a San Francisco map containing free mental health tools and services, we distributed these resources to SF residents and wrapped up our internship. I, however, was not done learning about the brain. Just knowing how the structure of the brain and how basic functions work simply weren’t enough for me. 
+
+Discovering the growing potential of current artificial intelligence showed me that we needed to uncover more about the human brain if we want to continue to replicate it. The capabilities of this technology, if we were to fully understand the brain, could be limitless, and this simple fact that could very much be the future constantly motivates me to be curious about the brain, pushing beyond my drive to find one “correct” solution.
+
+
+
+2nd draft:
+
+Two summers ago, I interned at a mental health internship partnered with OFA, a San Francisco organization. The internship, led by graduate students from UC Berkeley and Howard University, had one goal: to create a free resource for San Francisco residents struggling with mental health disorders.
+
+The basis of the program involved deep research and learning, where my mentors started off by teaching the structure and functions of the human brain. Throughout the next few weeks, my peers and I dove deeper, specifically learning about mental health disorders. We researched their formation, effects, treatment, and read numerous case studies in an attempt to gain an understanding of the complicated nature of the brain.
+
+Throughout my six-week experience, I developed a burning curiosity to answer the exact question: Why do our brains work the way they do? My love for logic and reasoning made me so heavily driven to determine the correct solution to this question. 
+I needed an answer— a logical one. Thus, outside of my internship, I dove into even more research about the brain, checking out books at the library about brain function, and even attending a lecture by Dr. Zina Besirevic, a former psychology professor at UC Berkeley and current AI-based neuroscience architect at Stanford. I came to realize that the brain sometimes follows no pattern as it learns, grows, and adapts without a set reason why. Through my extended studies, I began thinking about my previous class, AP Computer Science Principles, where I learned about AI machine learning and neural networks. I noticed that this technology attempted to mimic human brain function, specifically through the inspiration of artificial neural networks being biological neurons. Other similarities, as I researched, including weighted connections, pattern recognition, and distributed processing, all made me even more curious and investigative about the connection between the brain and current technology. 
+
+The conclusion of my summer internship involved a final research poster presentation where we presented our research on cognitive therapies to San Francisco residents. Along with this, we designed specialized San Francisco maps containing mental health resources to be displayed on SF Munis. 
+
+My motivation to learn more about the links between brains and technology did not end there. The following school year, I decided to enroll in AP Computer Science A and AP Calculus, where I expanded my knowledge on current technology and mathematics. I was inspired to make my own neural network, studying them in my own time.  
+Throughout my junior year, I worked outside of school building my neural network, looking for online resources and understanding the math behind the specific processes of each step. I wanted to create a basic model to classify the MINST dataset, which included thousands of handwritten numbers. I used Python with libraries with only numPy and Pandas for large operations that the neural network would perform. I started with forward propagation, passing a vector of information encoded information through layers in which matrix operations were performed. I turned to backpropation, the more difficult process in which I spent countless hours attempting to understand the math and also debug my code. [AHA moment].
+
+
+Discovering the growing potential of current artificial intelligence showed me that we needed to uncover more about the human brain if we want to continue to replicate it. The capabilities of this technology, if we were to fully understand the brain, could be limitless, and this simple fact that could very much be the future constantly motivates me to be curious about the brain, pushing beyond my drive to find one “correct” solution.
+
+Discovering the growing potential of current artificial intelligence showed me that we needed to uncover more about the human brain if we want to continue to replicate it. The capabilities of this technology, if we were to fully understand the brain, could be limitless. I am motivated by this simple fact  to be curious about the brain, pushing beyond my drip to find one “correct” solution. 
+
+
+	•	Expand on theme of AHA moment = getting rid of my straightforward, logical, and only seeing one answer brain —> limitless potential of the brain and learning
+	•	Not always one solution
+	•	But still main focus is on an academic subject that inspires you
+	•	Neuroscience inspires me because of its limitless potential and fuzzy boundaries within the brain. It intrigues me to learn more and dive deeper, more than any subject I’ve ever learned in school. 
+
+
+
+
+	•	Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced. 
+
+
+	•	Take advantage OR overcome educational barrier: an experience with calculus
+	•	start with being anxious about being in calculus bc, how i didn’t know anyone, being one of the few juniors in my class; also how i felt inferior to the other seniors in the class, as they were a whole year ahead of me and took a lot of the classes I already took (but this isnt really an educational barrier so prob don’t focus on this and instead focus on a time i was stumped by a question or topic but worked hard to understand it)
+	•	 Topics that could be interesting
+	•	FML Related Rates (how i saw it on a test TWO times but maybe the 2nd time about how it went better)
+	•	Optimization
+	•	Integrals being approximations of area under the curve: struggled with them because of the million ways to solve them, but slowly as I learned new techniques and practiced with it more I was able to see exactly how to crack one when given, was not longer scared about how to approach it and instead dived straight in
+	•	Volumes using calculus requiring me to visualize shapes in my head, something i had never done before in math
+	•	Series/Taylor series: before in algebra 2 i had learned about simple geometric series, and about how to prove convergent or divergent so i was somewhat confident that this unit in calculus wouldn’t be too bad. Turns out, geometric series test was probably the first thing and easiest test learned out of all of them. Just like integration, determining converge or divergence and proving it required official tests; tests I had to memorize and know when to apply… blablbal same story with integrals 
+
+Walking into AP Calculus BC on the first day of my junior year was daunting. In a classroom full of a majority of seniors, I felt alone and inferior in capability to my peers. My teacher tried to scare some students away with a “Are you ready for Calculus?” test within the first week of school, knowing most of us didn’t do anything math related over the summer. Luckily, I had been studying prior to taking the class, making sure to review my Algebra 2 knowledge as I had just completed taking Pre-calculus over the summer. With all this knowledge freshly in my brain, I was able to do well on the diagnostic test, while I watched a few others in the class drop out. 
+
+A few weeks into the class gave me a feel of how the entire year would be like, starting with going over homework, followed by a lesson. On Wednesdays, our longer 90-minute classes, we would be given half sheets of paper that contained difficult problems that would go along with the lecture for the day. The first semester flew by quickly, starting from derivatives and ending with an introduction to integration. By the second semester, I had really started feeling comfortable in the class, feeling as though I’d somewhat “earned” my place in class as a student amongst the seniors. 
+Despite breezing through derivatives and learning to understand related rates, I faced struggles my first time in Calculus BC when learning about volumes. The topic itself seemed simple enough on the outside— I looked at the weekly agenda and always saw what we were learning next and when I saw “Volumes Unit” written on the white board, I assumed it would be simple. I thought it would just be normal volumes like length times width times height, but just with a little bit of calculus. 
+However, this topic really stumped me. Unlike usual 3D objects, the ones I learned about lay on a coordinate plane, requiring me to visualize the object from different angles in order to assess its bounds. Doing the homework the first night after learning about it was a mess. It took me around two hours just to do just a few questions. After each attempt, I would look in my textbook, look at my lecture notes, or even watch YouTube videos to find a logical explanation and step-by-step of how to do each problem. Despite my desperate searches for answers, my brain still couldn’t wrap around what was going on. 
+I refused to give up. The next day in class, I made sure to pay extra attention during the lecture, particularly with the washer method that confused me the most. With the help of my teacher and other resources like my table mates and textbooks, I started to picture these shapes inside my head. Seeing just two lines in my homework problems began to turn into shapes full of thickness and depth. Learning math this way, through picturing problems and solving through a different lense had never happened to me prior to Calculus. I was just a plug and chug type of person, always wanting answers to be simple and straightforward, like in Algebra 1 or 2. The volumes unit really changed my mind on this, though. It required unique thinking, and didn’t have set steps to solve each question like in Algebra (1. Constants on one side, 2. Isolate variables). Through constant practice and forced visualizations, I was able to think in a way that allowed me to answer problems from my own perspective. Through this learning experience, I was not only able to take on any volume problem, but continue to learn in a way that pushed my brain past previous limits. Reminding myself that through consistent practice, motivation, and by looking at things from multiple perspectives, I could tackle any problem whether it be in the classroom or in my daily life. 
+
+
+
+
+
+

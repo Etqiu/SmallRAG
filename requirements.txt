@@ -1,0 +1,10 @@
+# Minimal dependencies for LDA + DOCX support + visualization
+numpy
+pandas
+scikit-learn
+gensim
+nltk
+matplotlib
+seaborn
+plotly
+python-docx 

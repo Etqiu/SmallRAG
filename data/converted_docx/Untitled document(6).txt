@@ -1,0 +1,11 @@
+select startYear, primaryTitle, titleType from Title 
+    where titleType == 'movie' 
+    order by startYear, primaryTitle 
+limit 10
+
+select startYear, count(*) as total 
+from Title 
+where titleType == 'movie' 
+group by startYear
+order by startYear
+

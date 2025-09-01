@@ -1,0 +1,30 @@
+Quadratics 2 7/28
+
+Solve using square roots. 
+1) x2 = 169				2) 16x2 = 25			3) x2 = 10000
+
+
+
+
+
+4) 625 = 49x2				5) 4 - 81x2 = 0			6) 49x2 + 1 = 170
+
+
+
+
+
+7) 2x2 - 10 = 64			8) (x + 7)2 =1			9) (2x + 1)2 = 25
+
+
+
+
+
+10) A ball is dropped from the roof of a 600ft skyscraper. The height of the ball above the ground is given by h = -16t2 + 600 where t is the time in seconds. How long will it take the ball to reach the ground?
+
+
+
+
+
+
+11) For the equation x2 = a, describe the values of a that will result in each of the following:
+	•	Two solutions			b. One solution		c. no solution

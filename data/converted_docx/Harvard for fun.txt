@@ -1,0 +1,45 @@
+
+All 200
+Harvard has long recognized the importance of enrolling a diverse student body. How will the life experiences that shape who you are today enable you to contribute to Harvard?*
+
+My journey into the world of investing and economics began with a pivotal moment—my mother's decision to open a Roth IRA for me. Witnessing her take this step to secure my financial future sparked a keen interest in me. The notion that strategic financial planning could lead to long-term security and growth captivated my attention, and gave me hope during a financial instability caused by the pandemic. 
+
+Inspired by my mother's foresight, I delved deeper into the realm of investing, devouring books, such as “The Intelligent Investor”, attending seminars in person and online, and absorbing insights from my peers and upperclassmen. The desire to share this knowledge and create a collaborative space for learning led to the founding of Investment Club. Through this experience, I not only honed my analytical and decision-making skills but also cultivated a passion for financial literacy and investment strategies.
+
+My mother's initiative became an inspiration for my journey into the world of investing, inspiring me to establish an Investment Club that fosters collaborative learning and empowers individuals to make informed financial choices. This trajectory reflects my commitment to Harvard, through financial education and my passion for economics. 
+
+
+Briefly describe an intellectual experience that was important to you.
+
+While working at Dumpling Depot, I encountered the practical problem of streamlining back-office operations. Recognizing an opportunity to combine my programming skills with data management, I developed a solution that would save time and streamline the process. I created a program that employed Optical Character Recognition (OCR) to convert scanned invoices into legible data. As a result, the piles of paper vanished, and the cumbersome metal filing cabinets were removed, freeing up valuable office space. This hands-on experience kindled my interest in Statistics and Data Science.
+
+I also had the privilege of serving as a Teacher Assistant at the University of Washington for Data Science and Financial Modeling last summer. I worked closely with professors in facilitating discussions, grading assignments, and helping fellow students navigate the intricacies of data analysis. Using prior knowledge of inferential and descriptive statistics, regression analysis, I was able to dive deeper into this course’s concepts on financial data science and business databases. Learning how to build technical indicators and gathering data through python code through libraries such as yfinance and finta, I worked side-by-side with other students to create engaging and insightful data sets to showcase the applications of data science in the financial sector. 
+
+
+Briefly describe any of your extracurricular activities, employment experience, travel, or family responsibilities that have shaped who you are
+
+As a summer camp counselor for three years, I embarked on a journey that transformed me from a timid freshman to a confident leader. Leading icebreakers on my first day marked a heart-pounding challenge, a stark contrast to my eight years as a camper.
+
+I didn’t do well. 
+
+At the next team debriefing, I was given advice like make eye contact with the crowd before speaking, check my breathing, and talk to the person furthest away. I received tips and was told “there’s nothing to worry about”, “we’re here for you”, and “my first time was worse”.
+
+Having a supportive team willing to give me a second chance was refreshing. Everyone helped each other by sharing their knowledge and experiences, allowing all of us to learn and build a sense of community. When my next turn to lead my own activity came a couple weeks later, I felt more confident. I utilized the tips I was given, and I knew that I greatly improved.
+
+When I established the Investment Club, I was prepared. I overcame obstacles, such as finding a suitable sponsor and collaboration with other financial clubs. This experience fortified my leadership skills in guiding groups toward innovative solutions.
+
+
+How do you hope to use your Harvard education in the future?
+
+I aspire to use my Harvard education as a catalyst for transformative change in the intersection of finance and education. Armed with the analytical skills honed through my investment club and the experiences of collaborative problem-solving, I aim to pioneer innovative financial education initiatives. 
+
+Financial literacy has the potential to benefit people inside and outside the world of business. I see this firsthand when my mom talks about her day at work as a forensic accountant, how she keeps people safe by doing everything from exposing fraud to auditing businesses. Ultimately, I envision using my Harvard education to bridge gaps in financial understanding, fostering a more equitable and informed society through strategic financial planning and education.  Beyond my major, I aspire to extend the transformative impact I've had on my community at Dumpling Depot to society at large. My aim is to also help small businesses thrive by simplifying operations, streamlining management, and reducing reliance on expensive third-party services. My journey through Harvard towards the future is a deliberate and strategic trajectory towards financial innovation, making a meaningful impact on society.
+
+
+Top 3 things your roommates might like to know about you
+
+Number 1: I love reading books to also find the most random words. I keep a collection of vocabulary words that I sometimes use. Sesquipedalian and cohort are two of my favorite annoying words. Once I say it, it means nothing to everyone else around me. We might share this hobby which could be fun. Imagine: a “Random word of the day” with my roommate as an inside joke.
+
+Number 2: I will always bring a magnetic chess board around. As secretary of my school’s chess club, I would regularly be challenged by my friends and club members on my off-blocks and lunch hours.
+
+Number 3: I usually choose to run on a treadmill to train! I’m just used to it at my local gym, but usually a workout on a treadmill on an incline makes a real race when I run marathons and 5k’s, a lot smoother, even if my cross country teammates and dragonboat teammates disagree with me. If you like to run, I’ll be in the gym lifting and running! 

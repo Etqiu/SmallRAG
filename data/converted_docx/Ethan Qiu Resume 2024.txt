@@ -1,0 +1,47 @@
+ETHAN QIU
+San Francisco, CA   |   (415) 769-7405   |   ethanqiu.sf@gmail.com   | https://etqiu.github.io
+
+EDUCATION													
+University of California, Berkeley 									   Berkeley, CA
+Bachelor of Arts in Data Science								        Expected Jun 2028
+GPA: 3.925 
+	•	Relevant Coursework: Data 100, CS61A (Structure of Computer Programs in Python), CS61B (Data Structures in Java), Linear Algebra, Intro to Data Science, Multivariable Calculus
+	•	Tools and Languages: Python, Java, Git, GitHub, Vim, Pandas, SQL, Tensorflow, scikit-learn, NLTK, NumPy, Matplotlib, Jupyter
+Lowell High School, San Francisco	San Francisco, CA
+GPA: 4.45/4.00	Aug 2020 - May 2024
+	•	Activities: Investment Club, Lowell Project Code, Lowell Dragon Boat, Chess Club
+	•	Relevant Coursework: AP Calculus BC, AP Statistics, AP Computer Science A, AP Physics C
+WORK & PROFESSIONAL EXPERIENCE								
+Dumpling Depot Restaurant	Sunnyvale, CA
+Office Assistant	Jun 2022–Aug 2022
+	•	Redesigned a new catering website via Java-script and on wix.com, and created a new menu option on the website. 
+	•	Prepared invoices weekly to upload to OneDrive in chronological order and organized miscellaneous invoices. 
+	•	Created a new invoice management system on OCR through Java.
+	•	Increased website monthly sales by 10% through catering extension.
+AP Calculus BC Tutor	Berkeley, CA
+Independent - Part-time	Jan 2025–Present
+	•	Provided 1 on 1 online tutoring to high school students, focused on topics such as integration and differential equations.
+	•	Utilized various teaching methods and online resources to enhance student understanding and engagement.
+BIG Summer Day Camp	San Francisco, CA
+Camp Counselor	Jun–Aug 2020–2024 
+	•	Led activities that encouraged collaboration and confidence to ensure campers were engaged creatively and cooperatively 
+	•	Practiced conciseness, projection and confident body language while speaking publicly and giving instructions.
+LEADERSHIP & EXTRA CURRICULAR EXPERIENCE						 
+Lowell High School Investment Club	San Francisco, CA
+Founder, President	Sep 2021 – May 2024
+	•	Spearheaded the club creation by running petitions, assembling a board, finding sponsors, writing a mission statement
+	•	Researched and presented bi-weekly on investment topics to increase the financial literacy of high school students
+	•	Hosted investment competition as a culminating project testing financial skills gained over the year with a cash prize
+	•	Connected with other San Francisco public school Investment Clubs to share online learning resources
+Lowell Dragon Boat 	San Francisco, CA
+Conditioning leader 	Aug 2023 – Sep 2023
+	•	Led mandatory workouts from MWF, in between water practices, encouraging consistency among team members. 
+	•	Organized conditioning groups and workouts with other conditioning leaders including perging/machine workouts 
+	•	Communicated with coaches to organize schedules for water practices and attendance management 
+Lowell Project Code	San Francisco, CA
+Secretary	Sep 2023 – May 2024 
+	•	Facilitated meaningful discussions on upcoming projects, competitions and general coding concepts/advice. 
+	•	Organized hackathons fostering a dynamic environment of knowledge-sharing and skill development among members
+HONORS & INTERESTS									
+	•	Honors: AP Scholar with Distinction (2022, 2023), CSF Tutoring Honor Society Sash and Ribbon (2022, 2023), CM Lvl 8, 9 and Advanced State Convention (2021-2023)
+	•	Interests: Running, Sandbox games, Weight lifting, Film, backdoor coding for video games, piano

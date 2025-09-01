@@ -1,0 +1,43 @@
+Factoring 4 7/23
+
+1) What is the value of c2 - d2 if c + d = 7 and c - d = -2?
+	•	-14
+	•	-5
+	•	5
+	•	14
+	•	45
+
+2) Which of the following is the complete factorization of 6a3b + 3a2b3?
+	•	6a3b3
+	•	9a5b4
+	•	3ab(2a2 + ab2)
+	•	3a2b(2a + b2)
+	•	(6a3b)(3a2b3)
+
+3) Which of the following is a factor of x2 + 3x - 18?
+	•	X + 2
+	•	X + 3
+	•	X + 6
+	•	X + 9
+	•	X + 18
+
+4) The binomial x - 3 is NOT a factor of which of the following trinomials?
+	•	2x2 - x - 3
+	•	2x2 - 5x - 3
+	•	2x2 -  8x + 6
+	•	3x2 - 6x - 9
+	•	3x,2 - 10x + 3
+
+5) For what value of n is 4x2 + 20x + n2 = (2x + n)2 true for any real number x?
+	•	4
+	•	5
+	•	8
+	•	10
+	•	25
+
+6) What is the factored form  of x2 + 2/3x + 1/2x + 2/6?
+	•	(x + ⅓)(x + ½)
+	•	(x + ½)(x + ⅔)
+	•	(x + ⅔)(x + ⅙)
+	•	(x + 2)(x + ⅓)
+	•	(x + ⅓)(x + ⅔)

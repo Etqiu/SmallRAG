@@ -1,0 +1,46 @@
+Exponential Functions 8/3
+
+Graph the following exponential functions
+
+1) y=3x						2) y=5x					3) y=10(3)x
+
+
+
+
+
+4) 5(2)x						5) y=-2(3)x				6) y=-4(2)x
+
+
+
+
+
+7)If a golf ball is dropped from a height of 27 feet, the function f(x) = 27(⅔)x gives the height in feet of each bounce, where x is the bounce number. What will be the height of the 4th bounce?
+
+
+
+
+
+8) Suppose the depth of a lake can be described by the function y=334(0.976)x, where x represents the number of weeks from today. Today, the depth of the lake is 334ft. What will the depth be in 6 weeks? Round your answer to the nearest whole number.
+
+
+
+
+
+9) A ball rolling down a slope travels continuously faster. Suppose the function y=1.3(1.41)x describes the speed of the ball in inches per minute. How fast will the ball be rolling in 15 minutes? Round your answer to the nearest hundredth.
+
+
+
+
+
+10) Your employer offers 2 salary plans. With plan A, your salary is f(x)=10,000(2x), where x is the number of years you have worked for the company. With plan B, your salary is g(x)=10,000(2)x. Which plan would you choose? Why?
+
+
+
+
+
+11) Look at the pattern. How many squares will there be in the 50th stage? Write an equation to show how you found your answer.
+
+
+
+
+

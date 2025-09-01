@@ -1,0 +1,37 @@
+Factoring 1 7/20
+
+Factor the following expressions:
+1) x2 - 6x - 27				2) x2 + 11x + 18			3) x2 + 5x - 24
+
+
+
+
+
+4) x2 - 10x + 21			5) -x2 - 10x - 9				6) 2x2 - 4x - 20
+
+
+
+
+
+7) Write the polynomial modeled then factor.
+a) 					b) 
+
+
+7) Find all possible values if b so that x2 + bx + 6 can be factored into binomial factors.
+
+
+
+
+
+8) The area of a rectangular fountain is (x2 + 12x + 20) ft2. The width is (x + 2) ft.
+	•	Find the length of the fountain.
+
+
+
+
+	•	A 2-foot walkway is built around the fountain. Find the dimensions of the outside border of the walkway.
+
+
+
+
+	•	Find the total area covered by the fountain and walkway.

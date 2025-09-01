@@ -1,0 +1,34 @@
+Polynomials 2 7/15
+
+Factor each polynomial.
+1) 12h4 + 8h2 -6h			2) 10g3 - 5g				3) 21c2 + 14c	
+
+
+
+
+
+4) 2a3 - 8a2 + 3a - 12			5) 6f3 - 8f2 + 20 - 15f			6) b3 - 2b - 8 + 4b2
+
+
+
+
+
+Find the missing part of each factorization
+7) 16v + 12v2 = 4v(4 + ___)				8) -x - 10 = -1(___ + 10)		
+
+
+
+
+
+9) ___ - 24k2 = -8k2(2k + 3)				10) __x3 + 2x + 21x2 + 6 = (x+3)(7x2 + 2)
+
+
+
+
+
+
+11) The area of a rectangle is represented by the polynomial x2 + 3x - 6x - 18. Which of the following could represent the length and width of the rectangle?
+	•	Length: x + 3; Width: x + 6
+	•	Length: x - 3; Width: x - 6
+	•	Length: x + 3; Width: x - 6
+	•	Length: x - 3; Width: x + 6

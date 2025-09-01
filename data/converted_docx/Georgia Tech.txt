@@ -1,0 +1,37 @@
+One essay: Why do you want to study your chosen major specifically at Georgia Tech?* (300)
+  
+
+My interest in Computer Science was ignited working at  Dumpling Depot, a local restaurant where I optimized operations by developing an Optical Character Recognition (OCR) program to convert scanned invoices into legible data. This helped streamline the management process, eliminating paper clutter and filing cabinets. 
+
+I also served as a TA at the University of Washington for Data Science and Financial Modeling last summer. I worked closely with professor Peter Lou in facilitating discussions, grading assignments, and helping students navigate the intricacies of data analysis. Using prior knowledge of inferential, descriptive statistics, and regression analysis, I was able to dive deeper into this course’s concepts on financial data science and business databases. Learning how to build technical indicators and gathering data through python code through libraries such as yfinance and finta, I worked with other students to create insightful data sets to showcase the applications of data science in the financial sector. 
+
+I also admire Professor Merrick Furst who runs undergraduate programs through GT’s renowned College of Computing and School of Mathematics, with research at the Algorithms, Combinatorics and Optimization (ACO) program and Algorithms and Randomness Center (ARC). At the Institute for Data Engineering and Science Research Program, which ACO and ARC are under, I am eager to delve into innovative projects that align with my passion for streamlining operations through data-driven solutions. The intersection of other research opportunities that share the same data-center at Tech, such as Sustainability with Smart Cities and Machine Learning provides an ideal platform for me to collaborate with faculty and peers to contribute to advancements in the field of Computer Science. 
+
+As a student at GT, I’d be excited to spearhead impactful projects and research developments with esteemed faculty and peers, and I hope to contribute to the ever-evolving ACO and ACR research programs. 
+
+
+
+My journey through GT towards the future is a deliberate and strategic trajectory towards innovation and collaboration, making a meaningful impact on society.
+
+
+https://catalog.gatech.edu/programs/computer-science-bs/#:~:text=Bachelor%20of%20Science%20in%20Computer%20Science%20with%20Threads&text=The%20curriculum%20builds%20on%20a,of%20computing%20paths%20in%20depth.
+
+https://arc.gatech.edu/faculty
+
+https://www.scs.gatech.edu/people/merrick-furst
+
+
+Mention favorite 2 threads + faculty connect to department/mentor (but also ARC)
+(339)
+
+
+I am excited about the prospect of collaborating with esteemed faculty and peers, bringing a unique blend of hands-on expertise and theoretical knowledge to contribute meaningfully to the institute's research programs.
+
+
+
+
+
+
+
+
+

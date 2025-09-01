@@ -1,0 +1,103 @@
+Wowza a lot of effort was put into Investment Club. I’m sure its a hearty institution with a healthy following for years to come. 
+
+First Week Intro: Why is investing important? (Why is this club important for the future?)
+->> long term goals, short, or any time
+- retirement funds
+- compound money, basically money making money.
+- you don’t want your money to sit around, you want your money to basically make more money. 
+- If you let money sit in a bank, it will start losing in value due to the increasing inflation 
+- Lets you be financially secure in the present or in the future. 
+-Passive income in the future just for holding the same investment.
+
+Example:
+Say you have 200$ that your grandparents give you for a christmas gift, and you have 50$ every month you put into investment (in the same thing, stocks, bonds, etc), and you continue to do that for 10 years, and the return (meaning what you gain) is 8% per year, how much money would you think you would by year 10?
+
+9,100$ in 10 years.
+28,000$ in 20 years.
+353,000 in 50 years.
+
+Even if you only invest 50$ a month into the same stock, the same bond, you will have a lot of money and be financially stable. 
+
+Is it possible to gain 8% every year?
+
+Yes it is, as the S and P average return for 10 years is about 13.55%
+
+Say you have the same idea, with a base of 200$ and 50$ every month, but with the SNP return rates of 13.55%, how much wealth would you gain then? In 50 years?
+
+2.8 million in 50 years. 
+
+This means even if you sacrifice 50$, some drinks or video games, the outcome will be much larger over the many years of investment. And you don’t need to invest in only one thing, which means your return rates could be much higher than the average of 13.55%
+
+Investment calculator  that will be used.
+
+So now that we know why investing is so important, how do we invest? How do we start out? (I think I need more information on this)
+Online apps? How do you get into investing? Online websites?
+jason where are the text boxes lmao whatever its fine
+- Creating a brokerage account, online, or in a brokerage firm, needed birth certificate, parent/guardian needs to sign you off. Many people already have this since their parents created the account for you. 
+- Choosing the investing options, bonds, stocks, virtual currency. 
+Bonds- You pay a loan to the government/ a company, and bonds will pay back over a certain time. Average returns for government bonds that are long term are around 5% in annual returns. 
+Stocks and virtual currency- basically you can make a profit when you trade and sell these.
+-Choosing your goal, retirement plan, college, being financially stable, long term or short term.
+-Investing small amounts at a time, deciding how much you want to invest, example of the starting 50$ again.
+
+“Compounding allows your account balance to snowball over time”
+
+Example questions from people/some type of game?
+
+
+Week 3: Low-risk Investments
+There are many different ways to invest, stocks, bonds, virtual coins, etc. How are you going to do that? What is the easiest way to invest right now?  We are going to talk about a relatively easier way to invest for highschool students.
+
+The easiest way to start investing without too much risk involved: https://investor.vanguard.com/etf/etf-vs-mutual-fund
+https://www.investopedia.com/articles/exchangetradedfunds/08/etf-mutual-fund-difference.asp
+
+Students don’t have much time in choosing what to invest in individual stocks, so investing in Mutual funds or an ETF should be an easier way without spending too much time. 
+->>Mutual funds and ETF
+->What is a Mutual fund
+Summary- Mutual funds are basket stocks that a fund manager chooses to invest for you instead of investing or trading stocks yourself. 
+- only can be bought at the end of a trading day (stock market closed)
+- The choice of stock you want is based on what your fund manager chooses, but you can choose yourself if you want to.
+- Some taxes may need to be paid as your fund manager might want to sell some stocks. Some types of bonds do not need tax to be paid for. 
+- Mutual funds are more active, and are meant to help investors profit 
+-Higher minimum investment requirements then an ETF. 
+Ex: Mutual Fund
+Basket of fruits: Apple, orange, kiwi, etc., you know what's inside, but you don’t know the price. Until the end of the day, trading hours. It's at the end of the day because the fund manager needs to calculate the apple, orange, kiwi, etc. individually, and that the prices of these could go up or down throughout the day. The fund manager calculates the end prices and adds these up. 
+When buying mutual funds, you are buying the basket and the items itself, and you should know what's inside the basket you are investing in. 
+The fund manager can choose to sell and buy your individual stocks. 
+You can buy more mutual funds at the end of the trading period.
+-ETFs are not riskier than Mutual Funds	
+->What is ETF
+Exchange trade fund is also another basket of stocks, but instead you buy 1 of each, no matter if you like it or not. 
+- Passively managed, can be sold or bought if you want to. 
+-You manage the stocks. 
+-A example of what is different from an ETF to mutual funds is that you can control an ETF by being able to trade or buy at any time, whenever you want. While Mutual Funds can only be bought at the end of the day.
+
+Etfs, according to nerd wallet are very popular right now due to robo advisors
+
+Robo advisors are software programs that give investment options based on pre-set algorithms. You can decide to have an ETF managed by a robo advisor, or you could exchange on your own. 
+
+Generally mutual funds are run by humans, and human managers.  
+
+
+When should you use a mutual fund? Or when should you use an ETF?
+
+https://www.investopedia.com/terms/e/etf.asp
+
+A game here/kahoot here
+
+
+Week 5: Risk Management/ Budgeting 
+
+What is Risk Tolerance?
+
+Examples: 
+
+
+
+What is Risk Management in terms of investing?
+
+
+
+Game: http://playspent.org/
+
+Week 7: Roth Ira, Traditional Ira. 

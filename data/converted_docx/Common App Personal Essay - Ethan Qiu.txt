@@ -1,0 +1,75 @@
+Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more? 
+
+Or 
+
+Some students have a background, identity, interest, or talent that is so meaningful they believe their application would be incomplete without it. If this sounds like you, then please share your story. 
+
+
+The journey through mathematics and the world of coding has been a mesmerizing pursuit for me. From the early days of exploring geometry to the intricate challenges of computer programming, I've found myself immersed in these subjects, losing all track of time as I grapple with their complexities.
+
+My fascination with mathematics began during my freshman year when I delved into geometry. It was in this class that I first encountered the beauty of logical reasoning and problem-solving. Completing the textbook was just the beginning, and it was the concept of Locus that offered a tantalizing glimpse into the wonders of conic sections and differentiation. The allure of logical reasoning and problem-solving became apparent, and I was captivated.
+
+My sophomore year brought with it a new adventure in the form of AP Computer Science, a course that introduced me to the enchanting world of fractals. These infinitely self-similar shapes, such as the intricate "Dragon Curve," piqued my curiosity. I vividly remember my teacher folding a slip of paper, creating a 90-degree angle, and then recursively folding it further to reveal the dragon's form. It was a mind-boggling concept, and I was determined to translate its elegance into code.
+
+The journey began with a blank screen and the desire to create a digital representation of this fascinating concept. An hour into the coding process, I found myself stumped, staring at just two lines on the screen. The intricacies of angle calculations and coordinate adjustments had me in a bind. Suddenly, I realized the formula for calculating the next coordinate of each line and angle were not adjusted properly after each iteration, causing the segments to overlap chaotically.
+
+I divided the logic of the code and implemented an angle adjustment mechanism, which successfully tamed the once-chaotic fractal. It was a moment of triumph, and I approached the remaining mathematical challenges in the code with newfound confidence.
+
+As I gazed upon the "Dragon Curve" now elegantly displayed on my screen, I felt an overwhelming sense of accomplishment. The translation of mathematical knowledge into a tangible achievement was a gratifying experience, one that made me appreciate the power of problem-solving and precision. This moment laid the foundation for my further explorations in the world of mathematics and programming.
+
+Just as I deciphered the intricacies of the "Dragon Curve" through mathematical principles, I carried this meticulous approach with me into the world of coding during a summer internship at my local restaurant, Dumpling Depot. 
+
+The same passion that fueled my fractal adventure now drives me to analyze and visualize data, extracting meaningful insights and patterns from the chaos. While solving a range of issues, it was the problematic piles of chaotic invoices that caught my attention. Manual organization and filing were time-consuming and error-prone, and I once again was determined to find a solution.
+
+I embarked on a quest to streamline the process. I explored databases, like Printwriter and Bufferedreader, and ventured into the realm of Optical Character Recognition (OCR). 
+
+This is where I would spend hours discovering coding databases, new techniques huddled around a computer, pondering logistical ideas and solutions. I would turn to the internet, my much more experienced friends and my parents whenever I wanted to find a better solution. Everyday, I grew to love the work and learning more until it felt like more than just a job. 
+
+I fused what I learned into a mosaic of code, creating a prototype that transformed scanned invoices into legible numbers, sorted chronologically. It was a significant achievement, but it was not without its challenges. 
+
+These experiences were a testament to my belief in the power of creativity. I had discovered a new resource, computer programming, and it opened up a world of possibilities. I learned to tinker with programs in entirely new programming languages and databases, even mastering HttpClient to download songs off websites quickly. 
+
+In both the realm of mathematics and the world of coding, I have found myself utterly captivated. Whether it's the elegance of a mathematical concept or the satisfaction of solving a complex problem with code, my passion for creativity, mathematics, and coding continues to drive me forward. When I seek to learn more, I turn to the endless resources and challenges that these fields offer, forever captivating my imagination.
+
+(word count: 711)
+Ideas:
+	•	More imagery of losing track of time, how?
+	•	Learning through videos, tutorials, 
+	•	Calls with friend/almost mentor - the intricacies of coding discussions(?)
+	•	expand : How was mathematics used in dumpling depot
+	•	File management system needed logical reasoning through code and relatively simple “math” - more logic
+	•	Who did i turn to when i wanted to learn more, what = internet resources but who
+	•	Mentor/friend who was more interested in game design rather than data analysis and organization.
+
+Or the other prompt
+
+
+Suggestions for cutting to <650:
+
+My journey through mathematics and the world of coding has been a mesmerizing pursuit. From early days exploring geometry to the challenges of computer programming, I've immersed myself in these subjects, losing all track of time as I grapple with their complexities.
+
+My fascination with mathematics began freshman year as I delved into geometry, and first encountered the beauty of logical reasoning and problem-solving. Completing the textbook was just the beginning: the concepts of Locus offered me a tantalizing glimpse into the wonders of conic sections and differentiation.
+
+Sophomore year, I continued this adventure in AP Computer Science, which introduced me to the enchanting world of fractals. These infinitely self-similar shapes, such as the intricate "Dragon Curve," piqued my curiosity. I vividly remember my teacher folding a slip of paper, creating a 90-degree angle, and then recursively folding it further to reveal the dragon's form. It was a mind-boggling concept, and I was determined to translate its elegance into code.
+
+The journey began with a blank screen and the desire to create a digital representation of this fascinating concept. An hour into the coding process, I found myself stumped, staring at just two lines on the screen. The intricacies of angle calculations and coordinate adjustments had me in a bind. Suddenly, I realized the formula for calculating the next coordinate of each line and angle were not adjusted properly after each iteration, causing the segments to overlap chaotically.
+
+I divided the logic of the code and implemented an angle adjustment mechanism, which successfully tamed the once-chaotic fractal. It was a moment of triumph, and I approached the remaining mathematical challenges in the code with newfound confidence.
+
+As I gazed upon the "Dragon Curve" now elegantly displayed on my screen, I felt an overwhelming sense of accomplishment. The translation of mathematical knowledge into a tangible achievement was a gratifying experience, one that made me appreciate the power of problem-solving and precision. This moment laid the foundation for my further explorations in the world of mathematics and programming.
+
+Just as I deciphered the intricacies of the "Dragon Curve" through mathematical principles, I carried this meticulous approach with me into the world of coding during a summer internship at my local restaurant, Dumpling Depot. The same passion that fueled my fractal adventure now drove me to analyze and visualize data, extracting meaningful insights and patterns from the chaos. While solving a range of issues, it was the problematic piles of chaotic invoices that caught my attention. Manual organization and filing were time-consuming and error-prone, and I once again was determined to find a solution.
+
+I embarked on a quest to streamline the process. I explored databases, like Printwriter and Bufferedreader, and ventured into the realm of Optical Character Recognition (OCR). This is where I would spend hours discovering coding databases, new techniques huddled around a computer, pondering logistical ideas and solutions. I would turn to the internet, my much more experienced friends and my parents whenever I wanted to find a better solution. Everyday, I grew to love the work and learning more until it felt like more than just a job. 
+
+I fused what I learned into a mosaic of code, creating a prototype that transformed scanned invoices into legible numbers, sorted chronologically. I had discovered a new resource, computer programming, and it opened up a world of possibilities. I learned to tinker with programs in entirely new programming languages and databases, even mastering HttpClient to download songs off websites quickly. 
+
+In both the realm of mathematics and the world of coding, I have found myself utterly captivated. Whether it's the elegance of a mathematical concept or the satisfaction of solving a complex problem with code, my passion for creativity, mathematics, and coding continues to drive me forward. When I seek to learn more, I turn to the endless resources and challenges that these fields offer, forever captivating my imagination.
+
+(648)
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+Compound Interest 8/5
+
+Write a compound interest function to model each situation. Then find the balance after the given number of years.
+
+1) $1500 invested at a rate of 3.5% compounded annually; 4 years
+
+
+
+
+
+2) $4200 invested at a rate of 2.8% compounded quarterly; 6 years
+
+
+
+
+
+3) $28,000 invested at a rate of 4% compounded annually; 5 years
+
+
+
+
+
+4) $7000 invested at a rate of 3% compounded quarterly; 10 years
+
+
+
+
+
+5) $3500 invested at a rate of 1.8% compounded monthly; 4 years
+
+
+
+
+
+6) $12,000 invested at a rate of 2.6% compounded annually; 15 years

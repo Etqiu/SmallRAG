@@ -1,0 +1,91 @@
+My earliest memory involving math was my parents drilling the multiplication table into me. Six year old me, who after returning home with an unsatisfactory diagnostic test from my third grade teacher, felt a mix of disappointment and confusion. I watched as my mom wrote equations down for me to solve, only allowing me to watch television after getting ten consecutive questions correct. After not knowing how to multiply for hours, staring at a notebook with multiple pages filled with writing, it dawned on me that multiplication was simply repeated addition. I achieved my goal at last: access to television, accompanied by an unexpectedly overwhelming sense of achievement.
+
+This feeling inspired me through rigorous practice of algebra in middle school and allowing me to skip into sophomore geometry class my freshman year. This immersive journey into geometry not only fueled my passion for mathematics but also instilled in me a deep appreciation for the beauty of logical reasoning and problem-solving.
+
+Come the end of my sophomore year, I was reintroduced to trigonometry during my Advanced Placement Computer Science class through intricate geometric figures called fractals. My teacher introduced me to the “Dragon’s curve” through folding pieces of paper, and I was determined to bring that simple idea to a more complex level through code.
+
+An hour in, I got stumped, staring at two lines drawn on the screen, wrestling with the intricacies of angle calculations in my code. Suddenly, I realized my formula for calculating the next coordinate of each line and angle were not properly being adjusted after each iteration, causing the segments to overlap chaotically. Meticulously, I divided the logic of the code, implementing an angle adjustment mechanism which successfully tamed the once chaotic fractal. Motivated by this victory, I approached the rest of the mathematical challenges in this code with newfound confidence. 
+
+At the end of every complicated math problem, I experience a feeling of accomplishment. 
+As I gazed upon the “Dragon curve” that now appeared before me as a result of problem solving and hard work, I was satisfied in knowing that I was able to translate my knowledge of mathematics into a tangible achievement.
+
+
+After a couple successful essays with my sophomore English teacher on ‘1984’ and ‘Persepolis’; books which I had genuinely enjoyed, I felt ready for the next step of my English education. I was warned by upperclassmen not to take AP Language and Composition due to the high amount of pressure, but I trudged forward. 
+
+To prepare, I became obsessed with increasing my vocabulary. I pre-read in-class books such as Brave New World and Devil in the White City, creating documents with pages of words that I tracked down in a trance-like fervor. 
+
+I hijacked our family trip forcing us to attend Ashland, Oregon’s famed Shakespeare Festival while utilizing every second of my spare time to read and jot down interesting words.  
+
+To my dismay, I didn’t understand The Tempest very well. I recognized many words recently added to my lexicon, but still had trouble appreciating the subtleties of the play. I began to realize that a vast vocabulary wasn’t the answer to all of my linguistic challenges. 
+
+After understanding the problem, I wanted to change my perspective on English. I realized that it was not the vocabulary or the grade for the class that I needed to grasp, but the appreciation of literature and the improvement of comprehension. I read other books without even thinking about adding to my vocabulary list, starting with Lord of the Flies. As I delved deeper, I began to appreciate the power of storytelling to convey profound messages about the human condition. The imagery of the island, the symbolism of the conch shell, and the haunting presence of the ‘Lord of the Flies’ all took on deeper significance as I sought to understand the underlying commentary on society and human nature.
+
+When the time came to begin the dreaded AP Lang, I rose to the occasion. While the pace of some in-class essays overwhelmed me, my preparation had equipped me with the tools I needed to successfully grasp the context, strategies, tone and message of important authors like Ralph Ellison and Franz Kafka. I prospered in the dreaded course and learned to love even timed writing challenges, my every pen stroke exuding my love of the literary arts.
+(Previous piqs) 
+
+
+	•	Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes, or contributed to group efforts over time.
+
+(It was the summer of my freshman year, right after the pandemic. I was quiet and always soft spoken, yet I had landed a job at a summer camp where I was required to lead and step out of my comfort zone with campers. I initially had trouble raising my taut-sounding voice, but throughout the weeks of camp I learned from and grew by observing my older co-workers who have had a lot more experience than me in leading. After this summer's camp had ended, I was determined to make a mark on the school grounds that could utilize what I had learned in my first year. ) could be another essay about church not part of it
+
+
+After witnessing the financial market instability during the epidemic and finally being able to set up a parental-brokerage account with my family, I wanted to share my passion for business and promote financial literacy. I founded an Investment Club and invited one of my previous co-workers to work with me as vice-president, who was a senior with an energetic energy I aspired to have. 
+
+I started planning weeks before school started. We created a team and assigned responsibilities. I drafted a list of potential club sponsors, a mission statement, and a logo, as well as agenda items for the first few meetings. As the school year started, our club was forming well and gained a healthy membership with eager listeners. Our first informational meeting was co-led by me and my vice-president, and I began to speak louder than ever, being able to raise my voice and bring attention to the crowd that had gathered in our club room. 
+
+After a few weeks, with our club running smoothly, I began to notice other finance clubs appear on fliers. One specific club named ‘The Intelligent Investors’ had a suspiciously similar design and flier as ours, concerning me and my cofounder. We took an opportunity to visit them and realized that their club wanted to teach an in-depth analysis on potential stocks on the stock market, whilst our club dealt with more broader topics for a more general audience. We reached a mutual agreement with the officers to stay within our specific range of topics and decided to stay in contact. 
+
+
+My mind was put at ease with the resolution of this potential dispute. The rest of the year went by without any other bumps. I gained invaluable experience in leading officers and my leadership skills for larger groups, being able to apply that to my future endeavors. I felt glad to be able to share my knowledge about business and finance with seniors and underclassmen.
+
+ 
+
+
+	•	Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+
+439 word count
+
+During my sophomore summer, I had been working at a local restaurant as their invoice manager and had redesigned their website to take on a new modern look while also serving as a way to open up their catering services for online use. I was overwhelmed by the sheer piles and piles of invoices that needed to be managed. My desk was inundated by the unscanned documents that I needed to manually organize and I was determined to find a way to find a faster way to progress in my work.  In order to expedite the process of managing the files, I decided to sort each document by month after physically scanning all of them through my printer. My initial thought was to use my prior AP computer science knowledge, which had taught me the basics of Java, but nothing practical in real scenarios. However, by browsing the internet with tutorials, online coding forums such as stackoverflow and learning about other programming language databases Printwriter and Bufferedreader, I found that I could use an OCR, named Tesseract – an optical character recognition module– in conjunction with newfound knowledge to streamline the process. I created a procedure: starting with executing commands through command prompt through code, which was how the OCR was required to work, and creating new folders based on the multiple text files the OCR would output, moving the final documents to their destination. On paper this idea would work, but I encountered other problems that I did not foresee. 
+
+ Unfortunately, what I coded did not account for what type of file I was inputting into the OCR. The OCR only allowed the form of png photos to be inputed, and the files that were scanned were always in batches of PDFs, because they were in the highest resolution. To circumvent this, I added another helper called Ghostscript, which was conceptually similar to the OCR by taking in command prompt lines while outputting new files. It allowed me to unpackage large PDFs in singular png images and after repackage each folder into a singular PDF. I was proud to see my program work, and it felt as if I had outsmarted my job.   By analyzing and learning to apply new information to overcome obstacles, I was able to optimize my time over the summer by being able to intermittently study or work out while doing my job in the background. As junior year kicked in, I felt relieved that I was able to finish my job on time, sidestepping what could have been an insurmountable manual process. 
+
+[333 word bad]
+[Conclusion or whatever]  Jimmy poggers words: “To me, creativity means using all my resources to overcome obstacles I encounter”   Uc cosmos app below(terrible) 
+
+I am deeply passionate about the field of computer science and the application of logical thinking in problem-solving.
+
+After taking AP Computer Science in my sophomore year, I took a summer job at a restaurant managing their physical invoices and paperwork. I was tasked with organizing files into separate folders on the cloud based on their date. I took the opportunity to automate this task using Java by implementing an OCR (optical character recognition) to convert each file into a text file and then sort the files appropriately into OneDrive. This experience further solidified my passion for computer science and the technology’s potential to streamline and improve various processes.
+
+ 
+	•	What would you say is your greatest talent or skill? How have you developed and demonstrated that talent over time?
+
+	•	Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.  I was not new to the concept of literary analysis in English classes, as I had written a multitude of essays over the course of my middle school to high school years. I was given time to delve into a plethora of books and come up with cohesive plans to tackle them, one by one. I was given resources during the writing processes which came in the form of peers and teacher office hours. After a couple successful essays with my sophomore English teacher on ‘1984 and Persepolis’; books which I had genuinely enjoyed, I felt ready for the next step of my English education. I was warned by my upperclassmen – who have succeeded with getting good scores on their essays and tests–to not take AP Language and Composition due to the high amount of pressure I would take, but I trudged forward anyway. Near the end of the school year and over the summer I became obsessed with increasing my vocabulary, inspired by my older peers who have also succeeded. I read their in-class books such as Brave-New World and Devil in the White city, creating documents with pages of words that I would track down almost in a trance-like state. I believed that this was the only way to achieve high praise among my peers and parents.  
+ A few weeks later, I went on a road trip where I read while frantically writing down interesting words that I thought would eventually become useful in AP Lang. A few weeks later I went on a family trip, utilizing every second of spare time to read and jot down interesting words. We had eventually stumbled on a Shakespearean Festival in Oregon, and my family decided to buy tickets for a play seeing that I became infatuated with reading.   To my dismay, I did not understand anything at all. I was able to recognize words that I had learned over the few weeks, but was not able to appreciate the play that was happening in front of me. Not being able to understand the archaic syntax at all, I realized that a vast vocabulary was not the answer to my problems, but rather the skill to understand the context and apply intuition, with the right vocabulary, to my surrounding situation was another important factor of English. 
+
+I struggled to stay afloat in AP Lang, barely scratching to an A in the first semester. I was completely overwhelmed with the speed of the essays. I was so focused on the grade I was getting on each assignment that I realized that I was becoming more and more methodical with my writing, attempting to almost solve it just like my vocabulary. For the second time, I realized that once again I needed to apply more context to certain situations, such as the author’s rhetorical strategies, tone, and the overarching message. I felt excited for the first time as we hopped onto our final in-class essay, caring for each of the requirements, but also being confident with every stroke of my pen. The semester ended as fast as the test did, and I had barely realized the improvement in my overall grade from last semester. 
+
+
+	•	Describe the most significant challenge you have faced and the steps you have taken to overcome this challenge. How has this challenge affected your academic achievement?
+
+Before joining dragon-boat, I was barely in shape and could not manage a single      push-up, even at times faking them for zoom meetings for physical education. In my sophomore year, I had started making friends and occasionally saw them join some type of run afterschool. Intrigued, I joined them in an off-season workout which was way out of my comfort zone: doing ten of the push-ups in which I could not do one at all, a one mile run, jump squats and a deluge of other exercises, all for a warm-up. I struggled to keep up with the group, falling behind at times, but I managed to pick myself up every time and try again. I familiarized myself with the routine and began making progress. I was able to do the ten warm-up push-ups with correct form, run faster than I have ever before and before I knew it, on-season try-outs had started. 
+
+The try-outs included three days of intense work and it was a seemingly insurmountable task to take. My calves, arms, and chest were inundated by the constant switch between physical tasks and cardiovascular. Every day would consist of a sprint, a hill sprint, wind-sprints – which were the flatter, but longer distanced sprints – and suicides, as well as a set of pushups and jump squats. I had dots in my eyes from the lack of hydration and found myself once again struggling exactly like I had restarted again. My breath was heavy as I struggled indefatigable for every repetition of push-up; every set of hill-sprints that came after. Eventually, I was selected as one of the twenty(20-25? Twenty works) who had also made it. 
+
+
+
+The initial euphoria caused me to plateau in my work ethic, in turn my dedication to the team. I dealt with clubs and grades, without focusing about the sport I was s
+
+—-
+
+My standing in the dragonboat dropped as Junior year kicked in. I plateaued in making a mark on the team and leading my team in conditioning, as I became mentally weak from an overwhelming workload from leading other clubs and AP classes. I struggled with getting on time to practices even on school days because my Pre-calculus Honors lengthened classes as I ran carrying backpacks towards the lake. I decided I would focus my time on studying, and dragonboat in second. As a result, I was placed in their second boat, not being able to compete at the highest level and solidifying my position in the team. I felt disappointment in the lack of effort I had put in, realizing that the reason I was selected into my school’s team, was not strength during the try-outs, but the dedication I put in even before I was on the team. 
+
+Before school ended, I decided to visit the weight room, attempting to find a benchmark in my strength. I found one of the dragon boat members there who recently joined, but had incredible strength and speed. Attempting to follow, I decided to start a running journey of two or more miles a day, at first starting slow and usually on wet sand. I consistently pushed myself faster, by a few seconds each time. I also consistently worked out at home, buying a pull-up bar as another benchmark tester. I started with only a few, but eventually racked up until ten. I felt like I hit another plateau in running though, as I started getting the same times for a few weeks.   I met people who wanted to run with me at church, and I slowly began regularly running with them. I realized that maybe my plateau in exercise was not because I was dedicated enough, but that I had no teammates to actively compete in, side by side. As the weeks flew by,  I genuinely began to enjoy running even after long days of volunteering at church, or even outside of my city during vacation in Chicago. (result of this training…)
+
+	•	Think about an academic subject that inspires you. Describe how you have furthered this 
+interest inside and/or outside of the classroom.
+
+	•	What have you done to make your school or your community a better place?
+
+	•	Beyond what has already been shared in your application, what do you believe makes you a strong candidate for admissions to the University of California?
+
+

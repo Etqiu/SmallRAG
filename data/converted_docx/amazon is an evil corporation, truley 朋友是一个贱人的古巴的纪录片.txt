@@ -1,0 +1,11 @@
+  At Amazon, we have 16 leadership principles that we use to drive our business. Every engineer is expected to “think big” and demonstrate “customer obsession”. To demonstrate your ability to think big and have customer obsession, pick a big problem in your school or your community that you think could be solved with the help of computer science, robotics, or hardware engineering. Describe the problem, the impact it has, and describe your “think big” solution that uses engineering tools. (1000 character limit including spaces)
+
+ . During my internship at Dumpling Depot, I confronted back-office inefficiencies, notably the disorderly invoicing system. Armed with Java and APCS skills, I devised an OCR solution. However, a compatibility snag emerged as the OCR only accepted PNG images, while invoices were scanned in PDF batches.
+
+Persistently problem-solving, I integrated Ghostscript to convert PDFs to PNG, harmonizing with the OCR. The outcome: a refined program that not only eradicated paper clutter but also reclaimed office space by discarding bulky filing cabinets.
+
+This OCR endeavor spurred a passion for coding, exploring new languages and databases, mastering tools like HttpClient, . Creativity, to me, involves leveraging diverse resources to surmount challenges.
+
+At Dumpling Depot, I embodied "customer obsession," enhancing operational efficiency. The think-big resolution? The fusion of OCR and data tools – a testament to an engineer's capacity to resolve tangible issues.
+
+	•	

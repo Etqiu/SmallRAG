@@ -1,0 +1,16 @@
+Dear UCLA Admissions Committee,
+
+With each passing day, my desire to become a part of the remarkable community at UCLA grows stronger. As I patiently await a decision on my waitlist status, I am compelled to reaffirm my unwavering commitment, and I would happily attend if accepted. 
+
+Since applying to UCLA, I have continued my passion for running and statistics by doing both Dragonboat and track. With the increase in the number of time trials or track meets, I have created trend graphs comparing the time of said trial with conditions such as time of day, or temperature of the surrounding area. Although a small project, it highlights my continued passion for both sports and data collection. I have also improved my overall 1600 and 3200 times from the start of the season from 6:02 to now 5:44, and the latter from 13:00 to 12:49, as I continue to be dedicated to my passion for running.
+
+Additionally, my passion for computer programming has moved to the sector of video games, as I attempt to create bots or automated macros with the goal of better understanding game mechanics and optimizing gameplay. This endeavor has allowed me to develop skills with syntax and a deeper appreciation for the intricate design of video game systems. I have become familiar with command-line syntax like "adb devices" and "adb shell" from the Android Debug Bridge allowing me to automate processes such as launching the initial game, recording gameplay footage, and injecting custom scripts or modifications into the games I am working on. Additionally, I have explored syntax for tools like Frida, which allows me to look into running processes and monitor or alter game behavior at runtime.
+
+Furthermore, I remain dedicated to personal growth and community involvement. I plan to continue volunteering and leading at my local church over this summer, offering my experiences to younger counselors and contributing my time and efforts to initiatives that positively impact the lives of those around me. 
+
+As someone who is deeply passionate about using technology to solve problems and push the boundaries of what's possible, I believe UCLA would be the perfect fit for me. The university's renowned programs in computing and engineering would provide me with the resources and opportunities to further develop my technical skills and pursue my interest in statistics and data science. I am eager to immerse myself in the vibrant campus community, collaborate with talented peers, and learn from the distinguished faculty. With my background in programming, data analysis, and community service, I am confident that I can make meaningful contributions to UCLA as well as thrive in the academic environment.
+
+Thank you for your time and consideration.
+
+
+

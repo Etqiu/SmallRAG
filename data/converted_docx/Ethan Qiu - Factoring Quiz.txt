@@ -1,0 +1,21 @@
+Factoring Quiz
+
+1) x2 - y2				2) x2 - 3x - 28				3) x2 + 6x + 9
+
+
+
+
+
+4) (y - 1)2 - (x + 2)2			5) 3x2 + 8x + 4				6) 7x4 + 41x2 + 30	
+
+
+
+
+
+7) (x - 2)2 + 12x(x - 2) + 20		8) 6x3 - 9x2 - 12 + 8x
+
+
+
+
+
+The length of Bob’s rectangular garden was two times the width w. Bob increased the length and width of the garden so that the area of the new garden is (2w2 + 7w + 6) square yards. By how much did Bob increase the length and the width?

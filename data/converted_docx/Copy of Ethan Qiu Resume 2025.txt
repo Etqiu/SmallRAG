@@ -1,0 +1,49 @@
+ETHAN QIU
+San Francisco, CA   |   (415) 769-7405   |   ethanqiu.sf@gmail.com   | https://etqiu.github.io
+
+EDUCATION													
+University of California, Berkeley 									   Berkeley, CA
+Bachelor of Arts in Data Science								        Expected Jun 2028
+GPA: 3.961 
+	•	Relevant Coursework: Data Science, Data Engineering, Probability Theory, CS61B (Data Structures in Java), Linear Algebra, Multivariable Calculus
+	•	Tools and Languages: Python, R, Java, Git, GitHub, Vim, Pandas, PyTorch, SQL, Tensorflow, scikit-learn, NLTK, NumPy, Matplotlib, Seaborn, Jupyter, AWS
+Lowell High School, San Francisco	San Francisco, CA
+GPA: 4.45/4.00	Aug 2020 - May 2024
+	•	Relevant Coursework: AP Calculus BC, AP Statistics, AP Computer Science A, AP Physics C
+WORK & PROFESSIONAL EXPERIENCE								
+Structure Therapeutics	South San Francisco, CA
+ Data Science Intern	May 2025 – Aug 2025
+	•	Leveraged R to maintain and validate new features for clinical trial internal visualization and analysis tools.
+	•	Improved backend performance for internal apps using caching and memoization, speeding up runtime ~80 seconds.
+	•	Applied data science techniques and optimized an LSTM neural network pipeline to internally predict clinical trial success using patient metrics. 
+	•	Collaborated with clinical scientists and medical affairs teams for feature selection and data handling/ evaluation.
+Kurma AI	San Francisco, CA
+Data Analyst Intern	Feb 2025 – May 2025
+	•	Performed preprocessing data analysis on research papers and pdfs using Python, RegEx, and pymupdf4llm. 
+	•	Assisted in developing and maintaining databases and other strategies that optimize statistical efficiency and quality.
+	•	Helping interpret data, analyze results using statistical techniques, and prepare ongoing reports. 
+Dumpling Depot Restaurant	Sunnyvale, CA
+Office Assistant	Jun 2022–Aug 2022
+	•	Redesigned a new catering website via Java-script and on wix.com, and created a new menu option on the website. 
+	•	Prepared invoices weekly to upload to OneDrive in chronological order and organized miscellaneous invoices. 
+	•	Created an invoice management system (OCR) and increased website monthly sales by ~10% through catering extension.
+AP Calculus BC Tutor	Berkeley, CA
+Independent - Part-time	Jan 2025–Present
+	•	Provided 1 on 1 online tutoring to high school students, focused on topics such as integration and differential equations.
+	•	Utilized various teaching methods and online resources to enhance student understanding and engagement.
+LEADERSHIP & EXTRA CURRICULAR EXPERIENCE						 
+BIG Summer Day Camp	San Francisco, CA
+Camp Counselor	Jun–Aug 2020–2024 
+	•	Led activities that encouraged collaboration and confidence to ensure campers were engaged creatively and cooperatively 
+	•	Practiced conciseness, projection and confident body language while speaking publicly and giving instructions.
+Lowell Project Code	San Francisco, CA
+Secretary	Sep 2023 – May 2024 
+	•	Facilitated meaningful discussions on upcoming projects, competitions and general coding concepts/advice. 
+	•	Organized hackathons fostering a dynamic environment of knowledge-sharing and skill development among members
+PROJECTS													 
+Credit Card Fraud Analysis | (Machine Learning, Scikit-Learn, Hypothesis Testing, EDA) 		 Feb – May 2025 
+	•	Studied correlations with other undergrads between certain features and the amount of fraud-transactions per country
+	•	Currently creating ML models to classify fraudulent transaction based on feature engineering and hypothesis testing
+Sequential Neural Network from Scratch | (NumPy, Python, Pandas, Kaggle) 			  Jan – Feb 2025 
+	•	Created a 2 hidden layer sequential neural network from scratch using NumPy on the MNIST dataset in csv form 
+	•	Applied ReLU and SoftMax activation functions in forward and back propagation in order to train the model. 

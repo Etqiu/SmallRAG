@@ -1,0 +1,278 @@
+EMPIRES: The Unofficial Minecraft Minigame Rules/Guide (Version 1.12+)
+
+
+
+The Game
+	•	What is the objective of the game?
+	•	Be the last remaining Empire in the game. Utilize your economic and military infrastructure to reach that goal.
+Gameplay Mechanics
+	•	Starting the game
+	•	2-16 Players (6 or more recommended).
+	•	Estimated Average Play Time: ~2 hours or more
+	•	Inventory: Stained Glass & Concrete of your Empire’s color, Emerald Block, Diamond Block, Oak & Birch Log, Dark Prismarine, Gold Block, Redstone Block, Sign (optional, but helpful for marking).
+	•	Other recommended materials: Calculator, 6 Dice/Random Number Generator.
+	•	Turn-Based Game
+	•	During a Round, players will perform mandatory and voluntary actions; one Round is completed after all players have completed their actions.
+	•	It is recommended to make an easy way to keep track of each player’s turns. One way of doing so is for each player to say “Done (round #)” when they have finished all of their actions for the round.
+	•	Actions during a round
+	•	Players earn their respective income. Players indicate their respective incomes with Emerald Blocks each representing 1 E$. It is recommended to keep track of all sources of income using signs. 
+	•	Spawn respective Troops in cities with a Military Base and available capacity in the group occupying each City.
+	•	Players may spend their E$ to:
+	•	Purchase unoccupied territory
+	•	Purchase city/cities
+	•	Purchase [more] infrastructure
+	•	Move any amount of Groups to their desired locations.
+	•	(If at War) Attack enemy Troops/Capture Cities.
+	•	Players cannot begin another turn until the Round has been completed.
+	•	Empires
+	•	Each player owns an Empire. All Empires start with a Capital City and 10 E$, of which they can use at their own expense.
+	•	Empires are to be differentiated by a set of uniform colored blocks.
+	•	Territory: marked with Colored Stained Glass.
+	•	Troops: marked with Colored Concrete.
+	•	Railroads: marked with Colored Stained Glass Pane.
+	•	You may choose any color. However, you cannot choose the same color that another player has chosen.
+	•	Game Modes
+	•	Original
+	•	Default Rules
+	•	A square of up to 9 blocks of land, a 1 block radius from your Capital City. If your Capital City is founded adjacent to water, then you cannot claim the water.
+	•	0 Regular Cities, only Capital City. Capital Cities start with a Treasury and 2 Troops. Maintenance cost of 1 E$ for every 2 cities per round applies.
+	•	Start with 10 E$. Default Income.
+	•	War Bounty
+	•	New Rules
+	•	300 blocks of contiguous land
+	•	5 cities(including capital), Capital Cities do not start with a Treasury and 2 Troops. Maintenance cost of 1 E$ for every 2 cities per round does not apply.
+	•	30 troops(6 in each city)
+	•	1 Naval Base, 1 Transport Infrastructure
+	•	Start with 0 E$. Land does not earn you money, and you cannot purchase Treasuries in this mode. 
+	•	How to earn E$:
+	•	Defeat enemy troops: 2 E$ per each troop
+	•	All troops of an Empire: 50 E$
+	•	Occupy a city of an Empire: 50 E$ each
+	•	Defeat an Empire: 300 E$
+	•	(All official prices remain the same.) Use earnt E$ to buy:
+	•	Railroads
+	•	Cities and infrastructure(excluding Treasuries)
+	•	Land
+	•	Alliances in War Bounty*
+	•	When an alliance has defeated all of its opposition, the alliance is immediately broken, regardless of the alliance duration. From this point on, no alliances are allowed to be formed.
+	•	A maximum of 3 people can form one alliance.
+	•	When in an alliance, E$ is earnt for the whole alliance, and wealth distribution may be negotiated by the alliance members. (TIP: An alliance may not always be the best choice, as earning wealth from an alliance may be less than earning wealth by yourself.)
+
+Warfare Mechanics
+	•	Troops
+	•	The maximum number of Troops allowed in one Group is 6.
+	•	See Military Bases for Spawning
+	•	Traversing Water
+	•	Water cannot be traversed by Troops unless they have the Naval Base bonuses.
+	•	A Troop cannot traverse any more blocks if it has reembarked on the same round.
+	•	A troop cannot traverse any more blocks if it has traversed land before embarking on the same round.
+	•	Traversing Land
+	•	Default Properties
+	•	Grass/Plains can be traversed by Troops at a maximum 10 non-diagonal blocks per round.
+	•	Rock/Mountain can be traversed by Troops at a maximum 8 non-diagonal blocks per round.
+	•	Sand/Beach/Desert can be traversed by Troops at a maximum 8 non-diagonal blocks per round.
+	•	Snow can be traversed by Troops at a maximum 6 non-diagonal blocks per round.
+	•	When terrain type changes during Troop movement, Troops retain their maximum mobility.
+	•	Ex: Troops traversing from snow(max 6) to grass(max 10) may only still travel 6 blocks from their starting point unless the new terrain type has a lower maximum mobility. 
+	•	Troops can negate the default properties using the Transport Infrastructure bonuses.
+	•	Troops can also negate the default properties by  moving in your Empire’s territory. In your territory, they can disregard land terrain penalties and can traverse all terrain at a maximum of 12 blocks per round.
+	•	Combat
+	•	Two opposing Troops of Empires at War must be adjacent to each other in order to initiate a battle. Attacking a Troop of an Empire you are not at war with will initiate a war with that Empire, regardless of alliances.
+	•	When initiating a battle, the Attacker must choose the number of Troops to participate in that battle and the Defender must choose the number of Troops to fight and/or Retreat*. The maximum number of Troops that can participate for each combatant is 6.
+	•	Retreating: The Defender may choose to pull Troops back one block before the battle begins.
+	•	The combat system is based on dice rolls. 
+	•	Each combatant receives a number of dice equal to the number of troops participating in that battle(3 Troops = 3 dice).
+	•	The total score for each combatant is the sum of their dice rolled.
+	•	The Attacker rolls the dice first.
+	•	The player with the highest score wins. The losing player’s participating troops are lost.
+	•	If the scores are tied, both combatants lose half of their participating troops, rounded down to the nearest whole number.
+	•	Amphibious Attacks*: When initiating an amphibious attack, the Attacker loses 1 on their dice roll per attacking Troop. 
+	•	Capturing Cities
+	•	Attacking Troops must occupy the City Center for 2 consecutive rounds in order to successfully capture it.
+	•	The Attacker must defeat all Defending troops in the city during that Round in order to count as a successful round of occupation. If defending troops remain after the round of battle, it is not counted as a successful round of occupation, and the count resets.
+	•	When captured, all Infrastructure already built in the City remains intact, and the occupier can use it.
+	•	Military Bases in the occupied City spawn Troops for the defending owner of the City for the 2 rounds after an Attacker has occupied the City. If successfully captured, the Military Base will spawn Troops for the occupier.
+	•	Exception: If a Peace Treaty is signed before the 2 rounds are over, the Military Base will not spawn any troops for the remaining rounds.*
+	•	Treasuries will cease to operate for the defending owner for 2 rounds after the Attacker has occupied the City. If successfully captured, the Treasury will operate for the occupier.
+	•	(Defender) Destroying City Infrastructure
+	•	1 round before an Attacker can successfully capture a City, the Defender has the option to destroy the City’s infrastructure, at the cost of 100 E$. This may be used to prevent the Attacker from possibly exploiting the infrastructure.
+	•	Capitulation
+	•	Once an Empire capitulates, that Empire is no longer in the game. Any wars with that Empire automatically end.
+	•	Upon capitulation, Troops of that Empire are deleted.
+	•	Upon capitulation, all E$ of that Empire are given to the player who captured the Capital City.
+	•	An Empire capitulates when their Capital City and 4 of their Regular Cities have been captured by another/other Empire(s), for a total of 5 Cities to capture. 
+	•	If an Empire has less than 5 Cities total, then all of the Empire’s Cities have to be captured in order to capitulate.
+	•	If multiple Empires are at war with the capitulated Empire, each Empire retains the land and cities they occupy when the Empire capitulates.
+	•	Empires may agree to split territory in such a way that unnecessary enclaves/exclaves are not created after capitulation.
+
+Cities & Infrastructure
+	•	City Placement
+	•	City Placement Restrictions
+	•	Cities cannot be founded on bodies of water.
+	•	Cities can only be founded in territory your Empire owns.
+Exception: Capital City can be founded on any land not occupied by another Empire. This is where you will start your Empire.
+	•	Cities cannot be founded within 5 non-diagonal blocks of another city. This does not include the block of the City Center.
+	•	Capital City (Gold Block)
+	•	Your Capital City must be founded by the first round following the City Placement Restrictions.
+	•	The Capital City starts with a Treasury and 2 Troops.
+	•	Territory in a one-block radius of your Capital City is now owned by your Empire. The block your Capital City occupies is also your Empire’s territory.
+	•	Regular Cities (Redstone Block)
+(Purchasing)
+	•	Regular Cities must follow City Placement Restrictions.
+	•	A maximum of 1 Regular City may be purchased per round.
+	•	Every 2 Regular Cities contribute to a maintenance cost of 1 E$ per round.
+	•	Military Base (Oak Log) (Purchasing)
+	•	Spawns 1 Troop per Round per every Military Base in each City.
+	•	Troops begin spawning the round after the Military Base is purchased. 
+	•	When a Group in your City with a Military Base is at maximum capacity(6 troops), Troop spawning will be halted in that City, until the Group has capacity for more Troops or moves out of that City.
+	•	Up to 2 Military Bases can be built in each city.
+	•	2 Military Bases in 1 City = 2 Troops spawned in that City per round.
+	•	Transport Infrastructure (Birch Log)
+(Purchasing)
+	•	Troops spawned and/or start their round in a City with Transport Infrastructure can traverse all land at a maximum of 12 non-diagonal blocks per round.
+	•	Combining a Group without the Transport bonus with a Group with the Transport bonus will not grant the former Group the bonus.
+	•	Troops with the Transport bonus may be indicated for the player’s reference.
+	•	Only 1 Transport Infrastructure may be built in each city. Bonuses do not stack.
+	•	Naval Base (Dark Prismarine)
+	(Purchasing)
+	•	Troops spawned and/or start their round in a city housing a Naval Base may embark and traverse bodies of water at a maximum of 12 non-diagonal blocks per round.
+	•	Combining a Group without the Naval bonus with a Group with the Naval bonus will not grant the former Group the bonus.
+	•	Troops with the Naval bonus may be indicated for the player’s reference.
+	•	Naval Bases can only be built in cities adjacent to water.
+	•	Only 1 Naval Base can be built in each Coastal City.
+	•	Treasury (Diamond Block)
+(Purchasing)
+	•	See Income for Treasury details.
+	•	Only 1 Treasury can be built in each city.
+	•	Railroads (Stained Glass Pane) (Purchasing)
+	•	Cities owned by your Empire can be connected by Railroad. Two Cities are connected by Railroad if:
+	•	Railroads are directly touching a City Center; 
+	•	All Railroad pieces between the City Centers are directly touching each other: the line of glass panes are 100% connected and do not contain gaps.
+	•	Troops can move between two Cities connected by Railroads instantaneously regardless of maximum block movement.
+	•	Railroads may be built over your Empire’s territory, unoccupied territory, and bodies of water. 
+	•	Railroads cannot be built over Enemy territory.
+	•	Railroads should not change in block elevation.
+	•	A maximum of 4 unique Railroad lines may touch one City, with each line protruding from each side of the block representing the City.
+	•	Two of your own different Railroad lines are not allowed to directly touch each other. However, you are allowed to create a Railroad directly touching an enemy Railroad.
+	•	You are not allowed to use an enemy Railroad.
+	•	If there are Railroads previously built from an enemy Empire’s City to another City of that Empire that you are currently capturing, that Railroad can only be used by the enemy Empire.
+	•	If you capture two Cities previously owned by an enemy Empire, and are connected by enemy Railroads, then you are allowed to use the Railroads between both captured Cities.
+	•	Moving Troops from a City to another City using the Railroads will be counted as a turn. You cannot move Troops between more than 2 Cities using the Railroads in one turn.
+	•	Stacking a Group that has expended a turn using the Railroads with another Group that has not expended a turn using the Railroads will not reset the Group’s expended turn.
+	•	After 30 rounds of the game, Empires will be able to purchase Railroads.
+
+Currency (E$)
+	•	The E$ & Income
+	•	1 E$ is valued at 1 emerald block. These are earnt every round from the Treasuries or from territory in your Empire.
+	•	Income from your Empire’s Treasuries is earned at an exponential rate. Every round, your Empire earns E$ equal to the square product of the total number of Treasuries in your Empire.
+	•	Equation: i = t 2 (i = income; t = total number of Treasuries)
+	•	After 10 rounds of the game, Empires will receive 1 E$ per 10 blocks of territory every round thereafter.
+	•	Purchasing Territory
+	•	Purchasing two blocks of territory costs 1 E$.
+	•	Land already claimed by another player cannot be purchased.
+	•	Bodies of water cannot be purchased by any player.
+	•	Non-contiguous land(land that your Capital City does not reside in) can only be purchased once a Naval Base has been built in your Empire.
+	•	Purchasing Infrastructure
+	•	Regular City = 10 E$
+	•	Each Regular City in your Empire increases the purchase price of your next Regular City by 10 E$
+	•	Equation for next purchase cost: c = 10n+10 
+(c = next purchase cost; n = current number of Regular Cities)
+	•	Military Base = 20 E$
+	•	Purchasing a second Military Base for a City costs 25 E$
+	•	Transport Infrastructure = 40 E$
+	•	Naval Base = 50 E$
+	•	Treasury = 20 E$
+	•	Each Treasury in your Empire increases the purchase price of your next Treasury by 5 E$.
+	•	Equation for next purchase cost: c = 5n+20
+(c = next purchase cost; n = current number of purchased Treasuries)
+	•	Railroads = 40 E$ for 5 pieces
+	•	You can only purchase a minimum of 5 pieces, or any multiple of 5(i.e. 80 E$ for 10 pieces, 120 E$ for 15 pieces).
+
+Definitions
+	•	Group: Multiple troops occupying 1 space; can move as 1 unit; maximum 6 troops per.
+	•	Coastal City: A city adjacent to any body of water (lake, oasis, or ocean).
+	•	Embarking/Reembarking: Transition of a Group between land and water.
+	•	Attacker: Player initiating a battle; must choose Troops to participate in battle.
+	•	Defender: Player being attacked; must choose Troops to defend and/or Troops to Retreat. 
+	•	Enemy: An Empire that you/your Empire is at War with.
+	•	Negotiable/Sellable: The denoted item/Agreement is tradeable with other Empires (including the use of E$ in trade)
+	•	Round: A full cycle in which every player has performed/completed all desired actions.
+	•	Amphibious Attack: An attack from water onto land or land onto water.
+	•	Turn: One player’s actions during a Round.
+
+* These features are optional and for experimental gameplay.
+Future Development Ideas Page
+	•	Trading of territory & others
+	•	Troop Types (Cavalry, Infantry, AT Crew. etc.)
+	•	Amphibious Attack Modifiers
+	•	Make game in roblox?????
+
+Feedback: Problems & Solutions
+
+	•	Movement Problem
+	•	Smaller map
+	•	Faster troops
+	•	Double movement values
+	•	Early Game
+	•	Buff Treasury start amount to 5, nerf stack rate to t 2 
+	•	Push late round options(Railroads, Land income) to 10 and 20
+	•	“Got bored”
+	•	Multiple game modes
+	•	LAND GAME: during the whole game, land earns you money, no treasuries; start with 50 blocks of contiguous land, E$ first round at 5 E$
+	•	WAR BOUNTY: 300 blocks of contiguous land, 5 cities(including capital), 30 troops, 1 naval, 1 transport, 0 E$. Land does not earn you money, and there are no Treasuries in this mode. You can only earn money by defeating an enemy's troops, Cities, or their entire Empire. May the last Empire win.
+	•	How to earn E$:
+	•	Defeat enemy troops: 2 E$ per each troop
+	•	All troops of an Empire: 50 E$
+	•	Occupy a city of an Empire: 50 E$ each
+	•	Defeat an Empire: 300 E$
+	•	(All official prices remain the same.) Use earnt E$ to buy:
+	•	Railroads
+	•	Cities and infrastructure(excluding Treasuries)
+	•	Land
+	•	Alliances in WAR BOUNTY
+	•	When an alliance has defeated all of its opposition, the alliance is immediately broken, regardless of the alliance duration. From this point on, no alliances are allowed to be formed.
+	•	Max 3 people
+	•	When in an alliance, E$ is earnt for the whole alliance, and wealth distribution may be negotiated by the alliance members. (TIP: An alliance may not always be the best choice, as earning wealth from an alliance may be less than earning wealth by yourself.)
+	•	Declarations Of War*
+	•	Declarations of War must be known by all players.
+	•	Empires at war may use troops to attack each other or occupy enemy lands.
+	•	Troops inside enemy territory when War is declared are automatically moved to the nearest neutral or owned land tile outside enemy borders.
+	•	Open Border Agreements with the Empire you are at war with are cancelled.
+	•	Peace Treaties*
+	•	Peace Treaties can be signed between any Empires at war with each other. Peace Treaties end the War between signing Empires.
+	•	Players must negotiate the terms of the Peace Treaty
+	•	Territory: Territory may be ceded through a Peace Treaty. If occupied territory is not ceded through the Peace Treaty, that territory is returned to the owner of that territory at the beginning of the war.
+	•	Cities: Cities may be ceded through a Peace Treaty. If occupied Cities are not ceded through the Peace Treaty, that territory is returned to the owner of that territory at the beginning of the war. The territory in a one-block radius of a City ceded through a Peace Treaty is given to the new owner of the City.
+	•	Open Border Agreements*
+	•	An Open Border Agreement may be formed between any two Empires. 
+	•	The Agreement can be for either of the following:
+	•	One Empire is allowed to move troops through the other’s territory, not vice versa.
+	•	Both Empires are allowed to move troops through the other’s territory.
+	•	Both Agreements are Negotiable and/or Sellable
+	•	Open Border Agreements cannot be cancelled and last 10 rounds.
+	•	Alliances*
+	•	Empires in an Alliance cannot Declare War on each other.
+	•	Empires in an Alliance are not at War with each other.
+	•	Territory bonuses apply in allied territory, if any.
+	•	Empires in an Alliance with each other automatically have an Open Border Agreement with the Allied Empire for the duration of the Alliance.
+	•	The duration of an Alliance is 10 rounds and is renewable after that duration.
+	•	Withdrawing from an Alliance early results in a penalty of 15 E$, paid to each of the other member(s) of the Alliance.
+	•	Upon a Declaration of War, Alliance Members automatically are at war with the target of the Declaration of War.
+	•	Troops don’t spawn in automatically
+	•	Troop cost to spawn in city (choice to spawn in)
+	•	How take territory
+	•	
+	•	
+	•	
+	•	
+
+Developer’s log
+mm/dd/yyyy
+Information
+04/06/2021
+Minor tweaks; visited the document due to nostalgia
+10/21/2021
+More minor tweaks (Purchasing railroads)
+5/20/2022
+Page breaks
+

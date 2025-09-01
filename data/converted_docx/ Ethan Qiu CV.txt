@@ -1,0 +1,30 @@
+ETHAN QIU
+San Francisco, CA   |   (415) 769-7405   |   ethanqiu.sf@gmail.com   | 
+
+EDUCATION													
+University of California, Berkeley 							    	     Berkeley, CA
+Bachelor of Arts in Data Science								          Expected Jun 2028
+GPA: 3.925
+	•	Relevant Coursework: CS61A (Structure of Computer Programs in Python), CS61B (Data Structures in Java), Linear Algebra, Intro to Data Science
+Lowell High School, San Francisco	San Francisco, CA
+GPA: 4.49/4.00	
+	•	Activities: Investment Club, Lowell Project Code, Lowell Dragon Boat, Chess Club
+	•	Relevant Coursework: AP Calculus BC, AP Statistics, AP Computer Science A, AP Physics C
+TECHNICAL SKILLS								
+	•	Languages and skills: Python, Java , Javascript,  SQL, Vim 
+	•	Data management: Pandas, Data Analysis, NumPy, Data visualization (Matplotlib)
+	•	Machine Learning: Tensorflow, scikit-learn, Keras, Tesseract OCR 
+WORK & LEADERSHIP EXPERIENCE								
+Dumpling Depot Restaurant	Sunnyvale, CA
+Office Assistant	Jun 2022–Aug 2022
+	•	Redesigned a new catering website via Java-script and on wix.com, and created a new menu option on the website. 
+	•	Prepared invoices weekly to upload to OneDrive in chronological order and organized miscellaneous invoices. 
+	•	Created a new invoice management system on OCR through Eclipse and Java.
+	•	Increased website monthly sales by 10% through catering extension. 
+BIG Summer Day Camp	San Francisco, CA
+Camp Counselor	Jun 2020 – Aug 2020, Jun 2021–Aug 2021, Jun - Aug 2023
+	•	Led activities that encouraged collaboration and confidence to ensure campers were engaged creatively and cooperatively. 
+	•	Practices conciseness, projection and confident body language while speaking publicly and giving instructions
+HONORS & INTERESTS									
+	•	Honors: AP Scholar with Distinction (2022, 2023), CSF Tutoring Honor Society Sash and Ribbon (2022, 2023), CM Lvl 8, 9 and Advanced State Convention (2021-2023)
+	•	Interests: Running, Sandbox games, Weight lifting, Film, backdoor coding for video games, piano.

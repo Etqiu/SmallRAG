@@ -1,0 +1,40 @@
+Exponential Decay 8/5
+
+Write an exponential decay function to model each situation. Then find the value of the function after the given amount of time.
+
+1) The value of a car is $18,000 and is depreciating at a rate of 12% per year; 10 years.
+
+
+
+
+
+2) The amount (to the nearest hundredth) of a 10-mg does of a certain antibiotic decreases in your bloodstream at a rate of 16% per hour; 4 hours.
+
+
+
+
+
+3) Bismuth-214 has a half-life of approximately 20 minutes. Find the amount of bismuth-214 left from a 30-gram sample after 1 hour.
+
+
+
+
+
+4) Mendelevium-258 has a half-life of approximately 52 days. Find the amount of mendelevium-258 left from a 44-gram sample after 156 days.
+
+
+
+
+
+5) The population of a town ins 18,000 and is decreasing at a rate of 2% per year; 6 years.
+
+
+
+
+
+6) The value of a book is $58 and decreases at a rate of 10% per year; 8 years.
+
+
+
+
+7) The half-life of bromine-82 is approximately 36 hours. Find the amount of bromine-82 left from an 80-gram sample after 6 days.

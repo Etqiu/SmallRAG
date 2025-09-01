@@ -1,0 +1,22 @@
+Fall Courses:
+Lowell High School, AP Calculus BC, Final Grade = A
+Lowell High School, AP Physics C Mechanics, Final Grade = A
+Lowell High School, AP English Literature, Final Grade = A
+Lowell High School, AP Art History, Final Grade = A
+Lowell High School, AP Microeconomics, Final Grade = A
+Lowell High School, American Democracy, Final Grade = A
+Lowell High School, Student Teacher Assistant, Final Grade = A
+
+Spring Courses:
+Lowell High School, AP Calculus BC, Final Grade = IP
+Lowell High School, AP Physics C Electricity and Magnetism, Final Grade = IP
+Lowell High School, AP English Literature, Final Grade = IP
+Lowell High School, AP Art History, Final Grade = IP
+Lowell High School, AP Macroeconomics, Final Grade = IP
+Lowell High School, Student Teacher Assistant, Final Grade = IP
+
+
+
+
+
+

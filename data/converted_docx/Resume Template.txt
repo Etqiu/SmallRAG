@@ -1,0 +1,39 @@
+FIRSTNAME LASTNAME
+City, State | (###) ###-#### | youremail@domain.com | LinkedIn_link
+EDUCATION													
+School Name	City, State
+Major(s)/Minor(s)	Expected Mmm 20XX
+	•	GPA: #.##/4.00
+	•	Relevant Coursework: CourseTopic1, CourseTopic2, …
+	•	Activities: Activity1 (Mmm 20XX - Mmm 20XX), Activity2 (Mmm 20XX - Mmm 20XX), …
+	•	Awards: Award1, Award2, …
+EXPERIENCE									
+CompanyName	City, State
+PositionTitle	Mmm 20XX – Present
+	•	
+	•	
+	•	
+CompanyName	City, State
+PositionTitle	Mmm 20XX – Mmm 20XX
+	•	
+	•	
+	•	
+LEADERSHIP									
+OrganizationName	City, State
+PositionTitle	Mmm 20XX – Present
+	•	
+	•	
+	•	
+OrganizationName	City, State
+PositionTitle	Mmm 20XX – Present
+	•	
+	•	
+	•	
+PositionTitle	Mmm 20XX – Mmm 20XX
+	•	
+	•	
+	•	
+SKILLS/INTERESTS												
+	•	Technical Skills: Skill1, Skill2, …
+	•	Languages: Language1 (ProficiencyLevel), Language2 (ProficiencyLevel), …
+	•	Interests: Interest1, Interest2, …

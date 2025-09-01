@@ -1,0 +1,40 @@
+Function Notation 7/9
+
+Evaluate  each function for the given input values:
+1) For f(x) = 7x + 2, find f(0) and f(1)
+
+
+
+
+
+2) For g(x) = 4x - 9, find g(3) and g(5)
+
+
+
+
+
+3) For h(t) = ⅓ t - 10, find h(27) and h(-15)
+
+
+
+
+
+4) For f(x) = 2x-8 Find the value of x from which f(x)=4
+
+
+
+
+
+5) Is x = y^2 a function? Explain
+
+
+
+
+
+6) What value is not part of the domain of the function f(x) = 1/(x-6)? Why? Explain completely.
+
+
+
+
+
+

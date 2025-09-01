@@ -1,0 +1,74 @@
+Purdue: Briefly discuss your reasons for pursuing the major you have selected. (Respond in 250 words or fewer.)*
+ Uiuc: Explain, in detail, an experience you've had in the past 3 to 4 years related to your first-choice major. This can be an experience from an extracurricular activity, in a class you’ve taken, or through something else. (150)
+
+
+While working at Dumpling Depot, I encountered the practical problem of streamlining back-office operations. Recognizing an opportunity to combine my programming skills with data management, I developed a solution that would save time and streamline the process. I created a program that employed Optical Character Recognition (OCR) to convert scanned invoices into legible data. As a result, the piles of paper vanished, and the cumbersome metal filing cabinets were removed, freeing up valuable office space. This hands-on experience kindled my interest in Statistics and Data Science.
+
+I also had the privilege of serving as a Teacher Assistant at the University of Washington for Data Science and Financial Modeling last summer. I worked closely with professors in facilitating discussions, grading assignments, and helping fellow students navigate the intricacies of data analysis. Using prior knowledge of inferential and descriptive statistics, regression analysis, I was able to dive deeper into this course’s concepts on financial data science and business databases. Learning how to build technical indicators and gathering data through python code through libraries such as yfinance and finta, I worked side-by-side with other students to create engaging and insightful data sets to showcase the real-world applications of data science in the financial sector.   This experience deepened my understanding of data science and reinforced my passion for teaching and sharing knowledge. As a Statistics and Data Science Major at Purdue, I look forward to broadening my horizons and taking on new projects that delve into various data analysis challenges and techniques. (248)
+
+(256)
+—
+
+At Dumpling Depot, a local restaurant, I optimized back-office operations by developing an Optical Character Recognition (OCR) program to convert scanned invoices into legible data. This helped streamline the management process, eliminating paper clutter and redundant filing cabinets, kindling my interest in Statistics and Data Science.
+
+I also served as a Teacher Assistant at University of Washington Data Science and Financial Modeling last summer. I worked closely with professor Peter Lou in facilitating discussions, grading assignments, and helping fellow students navigate the intricacies of data analysis. I used regression analysis to dive deep into this course’s concepts on financial data science and business databases. Learning how to build technical indicators and gathering data through python code through libraries such as yfinance and finta, I worked side-by-side with other students to create engaging and insightful data sets to showcase the applications of data science in the financial sector. (145)
+
+
+  How will opportunities at Purdue support your interests, both in and out of the classroom? (Respond in 250 words or fewer.)*
+
+
+
+In my college journey, I am driven by a passion for innovation, envisioning a successful experience as a blend of exploring data science and collaborating with researchers, particularly facilitated by the esteemed faculty at Purdue.
+
+I admire Professor William Cleveland, whose research revolves around statistics and machine learning for network data, encompassing exploratory data analysis and data visualization. Collaborating on research, I'll focus on utilizing Delta-Rho's capabilities to develop statistical models for optimizing data analysis processes. This involves the R programming language and Delta-Rho datadr package, while executing key commands like div, ana, and rec, enhancing the efficiency of complex data analysis through simplifying the programing process. I want to innovate and make an impact on the world, and through my college experiences, I can find the answers to the unknowns through research opportunities that are only available at Purdue.
+
+Beyond my major, I aspire to extend the transformative impact I've had on my community at Dumpling Depot to society at large. Purdue allows me to pursue research related to my personal goals through unique labs such as Autonomous & Intelligent Multi-agent Systems (AIM), which aims to optimize networks and management, aligning with helping small businesses thrive by simplifying operations, streamlining data management, and reducing reliance on expensive third-party services. My journey through Purdue towards the future is a deliberate and strategic trajectory towards innovation, entrepreneurship, making a meaningful impact on society. (231)
+
+
+Describe your personal and/or career goals after graduating from UIUC and how your selected first-choice major will help you achieve them.* (150 words)
+
+
+I aim to engage in groundbreaking data science research at UIUC, collaborating and interning with Data Science Research Services (DSRS), as well as exploring opportunities with the National Center for Supercomputing Applications (NCSA). NCSA at UIUC is renowned for its cutting-edge research in high-performance computing and data analytics, providing a unique platform to delve into innovative projects. Leveraging the resources and expertise at NCSA, I am excited to contribute to impactful research initiatives that align with my interests in streamlining operations, optimizing efficiency, and exploring novel applications of data science in business and finance. 
+
+Beyond my major, I aspire to extend the transformative impact I've had on my community at Dumpling Depot to society at large. My personal aim is to help small businesses thrive by simplifying operations, streamlining management, and reducing reliance on expensive third-party services. My journey through UIUC towards the future is a deliberate and strategic trajectory towards innovation, entrepreneurship, making a meaningful impact on society. (160)
+
+
+Purdue: Briefly discuss your reasons for pursuing the alternate major you have selected. (Respond in 250 words or fewer.)* UIUC: 150
+
+This year, I took the hardest physics course (AP Physics C Mechanics) offered by my school without any prior “physics-knowledge” as my new teacher would say. 
+
+It was not surprising that I was already behind on the material on day one.
+
+I decided to self-study through lib.gen, scrolling through online textbooks and teaching myself some of the concepts needed to catch up in the class. I spent countless nights grappling with complex equations and taking note of the textbook to grasp the practical applications of the concepts. One I particularly liked was finding the needed velocity of a car to maintain its position on an inclined ramp. As the weeks passed, I found a rhythm, and my dedication started paying off. Surprisingly, my teacher noticed my efforts and offered extra guidance, impressed by my determination.
+
+In electrical engineering, I saw an opportunity to delve deeper into the fundamental principles that govern the behavior of electrical systems. Just as I conquered the complexities of physics, I am eager to unravel the mysteries of circuits, electromagnetism, and signal processing. My journey from being a novice in physics to excelling in a demanding course fueled my confidence to tackle the challenges of electrical engineering. It is not just a major for me; it is a continuation of the resilience and determination that define my academic journey, propelling me towards a future where I can innovate and contribute to the ever-evolving field of technology. (241)
+
+
+By the end of the semester, I not only caught up with the class but prospered on the final, almost acing the free-response portion of the test. This experience not only shaped my academic journey but also instilled in me the belief that embracing challenges head-on can lead to unexpected triumphs. As I moved forward, I carried this lesson with me, knowing that the pursuit of knowledge is a journey filled with both struggles and victories.
+
+
+UIUC 150 cut:
+My decision to study Electrical Engineering was cemented when I took AP Physics C Mechanics without any prior Physics coursework. 
+ It was not surprising I was behind on the material on day one.
+
+I self-studied extensively, teaching myself the concepts and grappling with complex equations. I particularly liked finding the velocity required to maintain a car’s position on an incline. As weeks passed, I found a rhythm, and my dedication started paying off.
+
+Electrical Engineering thrills me the opportunity to delve deeper into electrical systems. I’m eager to unravel the mysteries of circuits, electromagnetism, and signal processing. My journey from being a novice in physics to excelling in a demanding course fueled my confidence to tackle these challenges. It is not just a major, but a continuation of the determination that defines my academic journey, propelling me towards a future where I can innovate and contribute to the ever-evolving field. 
+
+(149)
+
+
+Notes:
+https://grainger.illinois.edu/research/institutes-centers
+
+
+https://datascience.illinois.edu/academics
+A semester study-abroad with at one or more courses focused on discovery while attending the international institution.
+A multi-semester capstone experience within the student’s area of specialization.
+A semester co-op experience outside of the Champaign-Urbana area focused within the student’s area of specialization.
+A multi-semester undergraduate research experience under the direction of faculty.
+A summer REU program focused within the student's area of specialization.
+
+https://datascience.illinois.edu/
+https://las.illinois.edu/news/2018-08-30/campus-plans-new-data-science-center-near-main-quad
+internship agreements and alumni who work at Fortune 500 firms across the state and beyond

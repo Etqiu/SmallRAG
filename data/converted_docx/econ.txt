@@ -1,0 +1,13 @@
+	•	The correct letter answer is A. Raise taxes by more than $100 billion.
+	•	The concept needed to grasp is the impact of expansionary and contractionary fiscal policies on aggregate demand and inflation at the level of full employment.
+	•	It is correct because raising taxes by more than $100 billion would be a contractionary fiscal policy measure that exceeds the expansionary effect of the $100 billion increase in government spending, counteracting potential inflationary pressures and maintaining price stability in the short run. Also the tax multiplier is one less than the spending multiplier so you would need to increase it more than its spending. 
+	•	The correct letter answer is d. decrease in government spending and an increase in taxes.
+	•	The concept needed to grasp is the impact of fiscal policy measures on aggregate demand and inflation during an inflationary gap.
+	•	It is correct because decreasing government spending reduces aggregate demand directly, while increasing taxes reduces disposable income and consumption, creating a contractionary effect that helps reduce inflationary pressures associated with an inflationary gap.
+	•	The correct letter answer is e. Zero.
+	•	The concept needed is understanding what happens when the economy is operating at full employment on the vertical portion of the aggregate supply curve.
+	•	It is correct because when aggregate demand intersects aggregate supply in the vertical range, the economy is at full employment and full production capacity. Any increase in aggregate demand from higher government spending will be fully absorbed by rising prices/inflation, with no increase in real output. Since the MPC is irrelevant in this situation, the $200 billion increase in government spending will result in zero increase in real output.
+
+
+
+

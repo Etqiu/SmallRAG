@@ -1,0 +1,64 @@
+AP Java Sorting Worksheet  1                    Name_______________
+For parts A - F: Put lists in ascending order. List the elements in order after each pass. 
+
+A. Bubble Sort
+UNSORTED LIST 
+7 9 8 4 5 1
+__  __  __  __  __  __    after one pass
+__  __  __  __  __  __    after two passes
+__  __  __  __  __  __    after three passes
+__  __  __  __  __  __    after four passes
+__  __  __  __  __  __    after five passes		
+
+
+C. Selection Sort
+UNSORTED LIST
+7 9 8 4 5 1
+__  __  __  __  __  __    after one pass
+__  __  __  __  __  __    after two passes
+__  __  __  __  __  __    after three passes
+__  __  __  __  __  __    after four passes
+__  __  __  __  __  __    after five passes
+
+
+
+E. Insertion Sort
+UNSORTED LIST
+7 9 8 4 5 1
+__  __  __  __  __  __    after one pass
+__  __  __  __  __  __    after two passes
+__  __  __  __  __  __    after three passes
+__  __  __  __  __  __    after four passes
+__  __  __  __  __  __    after five passes 
+B. Bubble Sort
+UNSORTED LIST
+8 6 1 4 3 5 2
+__  __  __  __  __  __  __   after one pass
+__  __  __  __  __  __  __   after two passes
+__  __  __  __  __  __  __   after three passes
+__  __  __  __  __  __  __   after four passes
+__  __  __  __  __  __  __   after five passes
+__  __  __  __  __  __  __   after six passes
+
+
+D. Selection Sort
+UNSORTED LIST
+8 6 1 4 3 5 2
+__  __  __  __  __  __  __   after one pass
+__  __  __  __  __  __  __   after two passes
+__  __  __  __  __  __  __   after three passes
+__  __  __  __  __  __  __   after four passes
+__  __  __  __  __  __  __   after five passes
+__  __  __  __  __  __  __   after six passess
+
+
+F. Insertion Sort
+UNSORTED LIST
+8 6 1 4 3 5 2
+__  __  __  __  __  __  __   after one pass
+__  __  __  __  __  __  __   after two passes
+__  __  __  __  __  __  __   after three passes
+__  __  __  __  __  __  __   after four passes
+__  __  __  __  __  __  __   after five passes
+__  __  __  __  __  __  __   after six passes
+

@@ -1,0 +1,19 @@
+# Test DOCX Support
+
+This is a test document to verify that DOCX support is working correctly.
+
+## Features Tested:
+- Text extraction from DOCX files
+- Paragraph handling
+- Special characters
+- Multiple paragraphs
+
+## Expected Results:
+When you run the LDA analysis, this document should be processed along with other text files.
+
+The system should now support:
+- .txt files
+- .md files  
+- .docx files
+
+This makes it easy to work with documents from Google Docs, Microsoft Word, and other sources. 

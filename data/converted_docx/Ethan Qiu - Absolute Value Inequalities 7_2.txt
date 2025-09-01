@@ -1,0 +1,29 @@
+Absolute Value Inequalities 7/2
+
+Directions: Solve each inequality and graph the solutions
+1) l x l + 6 ≤ 10			2) l x - 3 l < 1				3) l x - 2 l - 8 ≤ -3
+
+
+
+
+
+4) l 5x l < 15				5) l x - 2.4 l + 4 ≤ 6.4			6) 4 + l x + 3 l < 7
+
+
+
+
+
+7) l x - 1 l > 2				8) 6 l x l ≥ 60 				9) l x - 4 l + 3 > 8
+
+
+
+
+
+10) 2 l x + 2 l ≥ 16			11) 3 + l x - 4 l > 4			12) l x - ½ l + 9 > 10½
+
+
+
+
+
+13) The thermostat for my house is set to 65℉, but the actual temperature of my house varies by as much as 7℉. Write and solve an absolute-value inequality to find the range of possible temperatures. 
+

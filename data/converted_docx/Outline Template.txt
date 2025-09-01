@@ -1,0 +1,33 @@
+	•	Personal Contact Information
+	•	Name
+	•	Address (City)
+	•	Phone Number
+	•	Professional Email Address 
+	•	Introduction/Objective
+	•	Current position (Ex. Student)
+	•	Major
+	•	Main Strength(s)/Skill(s)
+	•	What you’re seeking 
+	•	Educational Background
+	•	Current School
+	•	Past relevant classes
+	•	Major (Don’t have to fill this in. Just for your information)
+	•	Degree obtained (Don’t have to fill this in. Just for your information) 
+	•	Work History (Current and Past)
+	•	Job positions 
+	•	Brief bullet points of tasks
+	•	Internships
+	•	Brief bullet points of tasks
+	•	Volunteer Experiences
+	•	Brief bullet points of tasks 
+	•	Skills/Achievements
+	•	Skills
+	•	Skill 1
+	•	Skill 2
+	•	…
+	•	Achievements
+	•	Achievement 1
+	•	Achievement 2
+	•	...
+
+

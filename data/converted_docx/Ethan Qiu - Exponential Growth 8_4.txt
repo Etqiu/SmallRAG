@@ -1,0 +1,39 @@
+Exponential Growth 8/4
+
+Write an exponential growth function model each situation. Then find the value of the function after the given amount of time.
+
+1) The cost of tuition at a college is $12,000 and is increasing at a rate of 6% per year; 4 years.
+
+
+
+
+
+2) The number of student-athletes at a local high school is 300 and is increasing at a rate of 8% per year; 5 years.
+
+
+
+
+
+3) Annual sales for a company are $149,000 and are increasing at a rate of 6% per year; 7 years.
+
+
+
+
+
+4) The population of a small town is 1600 and is increasing at a rate of 3% per year; 10 years
+
+
+
+
+
+5) A new savings account starts at $700 and increases at 1.2% yearly; 8 years.
+
+
+
+
+
+6) Membership of a local club grows at a rate of 7.8% yearly and currently has 30 members; 6 years.
+
+
+
+

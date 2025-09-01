@@ -1,0 +1,29 @@
+Describe how you plan to pursue your academic interests and why you want to explore them at USC specifically. Please feel free to address your first- and second-choice major selections. (Approximately 250 words)  In my college journey, I am driven by a passion for innovation, envisioning a successful experience as a blend of exploring Computer Science Business Administration and collaborating with researchers, particularly facilitated by the esteemed faculty at USC.
+
+I highly admire Professor Leo Adleman, whose research revolves around cryptography and algorithmic number theory. His groundbreaking work, including the invention of DNA computing, exemplifies the intersection of computer science and innovative problem-solving. Exploring his research, I am inspired by the potential applications of theoretical concepts to solve complex algorithms from DNA computations and real-word scenarios, such as his research paper on the applications of raw computational power on cryptocurrencies and cryptography. This unique opportunity at USC allows me to explore the full potential of computational engineering to make impactful contributions to the field. I want to innovate and make an impact on the world, and through my college experiences, I can find the answers to the unknowns through research opportunities that are only available at USC.
+
+I also aspire to extend the transformative impact I've had on my community at Dumpling Depot to society at large. My aim is to help small businesses thrive by simplifying operations, protecting their invoice data, and reducing reliance on expensive third-party services. My journey through USC towards the future is a deliberate and strategic trajectory towards innovation and entrepreneurship, making a meaningful impact on society. (229)
+
+The student body at the USC Viterbi School of Engineering is a diverse group of unique engineers and computer scientists who work together to engineer a better world for all humanity. Describe how your contributions to the USC Viterbi student body may be distinct from others. Please feel free to touch on any part of your background, traits, 
+skills, experiences, challenges, and/or personality in helping us better understand you.
+
+
+As an aspiring engineer at the USC Viterbi School, my distinct contributions lie in my diverse background and entrepreneurial spirit. Growing up in a family of small business owners at Dumpling Depot, I developed a keen understanding of operational challenges and the significance of technology in addressing them. This unique perspective fuels my passion for engineering solutions that not only tackle technical problems but also have a meaningful impact on real-world scenarios.
+
+My entrepreneurial ventures, including founding an investment club and streamlining back-office operations at the local restaurant, showcase my proactive approach and ability to translate theoretical knowledge into practical outcomes. These experiences have honed my problem-solving skills, emphasizing the application of engineering principles to optimize processes and drive efficiency.
+
+Moreover, my commitment to community engagement and mentorship, demonstrated through my role as a church camp counselor, reflects my belief in the transformative power of collaboration. I aim to foster a sense of unity and inclusion within the Viterbi student body, drawing on my experiences overcoming challenges and supporting others in their journey. I’d love to continue my commitment to faith-based service through opportunities like the Trojans Serve Organization with USC’s Volunteer Center and other nonprofits. Given my 3 years working with young people and my community of counselors, I am well-prepared to actively contribute to USC Viterbi’s community by applying my dedication to mentorship and community support, promoting an environment of strength and unity. (235)
+
+
+
+
+
+The Engineering Grand Challenges
+The National Academy of Engineering (NAE) and their 14 Grand Challenges go hand-in-hand with our vision to engineer a better world for all humanity. Engineers and computer scientists are challenged to solve these problems in order to improve life on the planet. Learn more about the NAE Grand Challenges at http://engineeringchallenges.org and tell us which challenge is most important to you, and why.
+
+
+The NAE Grand Challenge that resonates most profoundly with me is "Securing Cyberspace." Growing up in a rapidly advancing technological landscape, my identity has become intrinsically linked with the digital realm. I see this firsthand when my dad talks about his day as a computer analyst for the Federal Reserve Bank, where he helps maintain critical systems that are directly related to the nation's financial infrastructure. I see this in my work at Dumpling Depot where I audit invoices through automated systems and secure physical documents to the cloud, helping keep up-to-date financial records so that this local business can continue to run and thrive. These experiences highlight the critical need to address challenges related to cybersecurity, as our lives become increasingly intertwined with the digital domain. 
+
+My commitment to this Grand Challenge stems not only from my personal connection to technology but also from the broader perspective of contributing to a safer and more secure digital future. I aim to leverage my skills in data science and programming to actively engage in initiatives that fortify cyberspace against threats, ensuring the integrity of personal and organizational data and to contribute meaningfully to the broader goal of engineering a better world. This Grand Challenge of not just “Securing Cyberspace”, but protecting the community around us, encapsulates not just a technical problem but a fundamental aspect of our interconnected society that demands attention, innovation, and creative solutions.  (235)
+
+

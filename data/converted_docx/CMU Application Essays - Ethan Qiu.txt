@@ -1,0 +1,60 @@
+Most students choose their intended major or area of study based on a passion or inspiration that’s developed over time – what passion or inspiration led you to choose this area of study?
+(300 word maximum)*
+
+My interest in the field of Statistics and Data Science was ignited while working at Dumpling Depot. I encountered the practical problem of organizing invoices. Recognizing an opportunity to combine my programming skills with data management, I developed a solution that would save time and streamline the process. I created a program that employed OCR to convert scanned invoices into legible data. As a result, the piles of paper vanished, and the cumbersome metal filing cabinets were removed, freeing up valuable office space. 
+
+This experience -- a combination of data analysis and implementation of computer programming -- exposed me to the power of data-driven solutions and ignited my interest in the field of Data Science. 
+
+I also had the privilege of serving as a Teacher Assistant at the University of Washington for Data Science and Financial Modeling last summer. I worked closely with professor Peter Lou in facilitating discussions, grading assignments, and helping fellow students navigate the intricacies of data analysis. Using prior knowledge of inferential, descriptive statistics and regression analysis, I was able to dive deeper into this course’s concepts on financial data science and business databases. Learning how to build technical indicators and gathering data through python code through libraries such as yfinance and finta, I worked side-by-side with other students to create engaging and insightful data sets to showcase the applications of data science in the financial sector. We also utilized various data visualization tools, such as mplfinance and seaborn, to bring our findings to life. This experience deepened my understanding of data science and reinforced my passion for teaching and sharing knowledge.
+
+As a CMU Statistics and Data Science student, I'm excited to spearhead impactful projects, including the Novartis collaboration on CAR-T treatments, under distinguished faculty guidance, pushing the boundaries of data science innovation.
+
+ (292)
+
+
+———
+
+
+
+
+Many students pursue college for a specific degree, career opportunity or personal goal. Whichever it may be, learning will be critical to achieve your ultimate goal. As you think ahead to the process of learning during your college years, how will you define a successful college experience?
+(300 word maximum)* 
+In my college journey, I am driven by a passion for innovation, envisioning a successful experience as a blend of exploring data science and collaborating with researchers, particularly facilitated by the esteemed faculty at CMU.
+
+I admire Professor Joel Greenhouse, whose research revolves around statistics and machine learning for network data, encompassing exploratory data analysis, community detection, and causal inference within the realm of social network effects. His STAMPS Lab group provides a platform to cultivate collaborative relationships with researchers and professionals in the physical sciences, giving me insight into applications of statistical methods outside of the world of traditional data science. 
+
+ I’d join his research in collaboration with Novartis, on CAR-T, a groundbreaking new personalized cancer treatment. I would study and develop statistical models on the success of cancer therapy over the stages of the application of the treatment. I want to innovate and make an impact on the world, and through my college experiences, I can find the answers to the unknowns through research and data that is only available at CMU. 
+
+Another example of CMU's unique opportunities are your renowned innovation and technology incubators. These programs, such as the CREATE Lab and the Project Olympus Startup Accelerator, would enable me to collaborate with fellow students and faculty to develop groundbreaking projects that combine data science with cutting-edge technology, similar to CAR-T, ultimately driving innovation in my time at CMU. Similarly in interest, the Swartz Center for Entrepreneurship at CMU offers me an invaluable platform to nurture my interest in innovation and bring my ideas to life. Through programs like the VentureBridge Program, I can learn the skills to identify market opportunities, avoid common startup pitfalls, and ultimately create tangible, impactful products.
+
+Beyond my major, I aspire to extend the transformative impact I've had on my community at Dumpling Depot to society at large. My aim is to help small businesses thrive by simplifying operations, streamlining management, and reducing reliance on expensive third-party services. My journey through CMU towards the future is a deliberate and strategic trajectory towards innovation, entrepreneurship, making a meaningful impact on society.
+
+
+
+
+
+I could also gain a deeper understanding of statistical methods and graphical displays in Statistical Graphics and Visualization (36-315) at CMU.
+
+
+
+
+——
+
+Edited <300
+
+Consider your application as a whole. What do you personally want to emphasize about your application for the admission committee’s consideration? Highlight something that’s important to you or something you haven’t had a chance to share. Tell us, don’t show us (no websites please).
+(300 word maximum)*
+
+
+
+My feet beat the pavement, my heart pounds and I feel the wind in my hair. For me, running transforms the physical realm. It becomes a personal journey, an exploration of my limits and an avenue to discover the remarkable intersection of running and statistics.
+
+My curiosity led me to design a small statistical study. I wanted to understand the impact of the beats per minute of music on running performance and I decided to correlate it with runners' body weights. I first chose randomly from a playlist of 70s-90s music from Spotify's relatively “slow” music genre with BPMs of 74-90 Beatles “Now and Then” and “Hey Jude”. Then I chose from a different playlist more speedy BPMs of 160-180 from the same time period such as “Mr. Blue Sky” and “I’m Still Standing”. I gave these treatments randomly selected per pair and tested 34 people over the year. 
+
+I collected data on running times for a distance of 1 mile, each volunteer from my team, both with and without music at a specific BPM, creating paired measurements. Using a paired t-test with significance of .05, I analyzed the differences in running performance. The test assessed whether the mean difference in performance was statistically significant or likely due to chance. 
+
+The results were fascinating. With a p value that was less than .05, it turned out that music had a significant impact on running performance, because subjects were volunteers and not randomized. 
+
+This journey has enhanced my passion for running and ignited my interest in the powerful fusion of sports and statistics. Whether it's on the track, the trail, or in a lab, this intersection continues to intrigue me, and I look forward to exploring it further in my academic and athletic pursuits. (296)
+
+

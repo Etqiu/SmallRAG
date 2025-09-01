@@ -1,0 +1,101 @@
+
+
+	•	Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes, or contributed to group efforts over time.
+More clear and more specific, no passion or excitement, 
+
+I stared at the drill boring into a metal bar. Metal shavings and coolant went flying and the room filled with a roar of noise. I glanced at the clock: 4:47 PM. School closed in thirteen minutes. There was no way I could finish the bar before tomorrow. This moment was when I realized that I needed to recruit more members for the mill subteam. At this rate, we wouldn't be able to build a robot. Mill team carved pieces for robots, and I was its leader. Entrusted with this responsibility in my robotics team, which I loved, I wanted to give it my best.
+
+I stepped out of my comfort zone to approach unfamiliar members. I gave them spiels about the mill team, attempting to convince them to join. Though nerve-racking at first, doing so became easier with practice. Each additional member brought a feeling of accomplishment.
+
+I manufactured assigned parts with my team for training. In the beginning, my progress was slow due to not having much experience, but with trial and error along with guidance from past team members, I steadily gained confidence in my abilities. Pretty soon, I could practically teach the machinery in my sleep, easily showing how to start our CNC machine, how to insert the metal stock, and how to create and run the operation to cut the piece.
+
+With more members, I was able to keep up with the schedule much better. Later, we were able to finish sculpting twenty-four metal bars into parts, which new team members used to assemble practice robots, long before they were needed. By training members, I also ensured that there was a solid foundation for the subteam after I left for college.
+
+I learned to take responsibility as a leader. Realizing that I was falling behind schedule, I knew that I needed to step up and force myself out of my comfort zone to train members. By training members, I hope to give them the same chance to grow and learn to take responsibility through managing the training of yet newer members.
+
+
+	•	Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+Things to consider: What does creativity mean to you? Do you have a creative skill that is important to you? What have you been able to do with that skill? If you used creativity to solve a problem, what was your solution? What are the steps you took to solve the problem?
+During quarantine, I developed an obsession with a text-based adventure game called Epic RPG. By inputting phrases, such as "/hunt" or "/chop," I could subdue monsters or axe trees for rewards of coins or wood. Using those prizes, I fought fearsome dragons. I lived to defeat dragons, but each command could only be repeated after a certain time period. I had to sit there forever typing those phrases to make progress.
+
+To expedite the process, I decided to use Java to automate the game for me. I got stuck right away, not knowing how to time or give commands. However, by browsing accessible Internet resources and learning about the programming language databases Robot and Timer, I was able to create a program that typed the phrases while waiting for their cooldowns.
+
+Unfortunately, the game had a system to prevent miscreants like me from automating commands. Periodically, a question was asked, one that must be answered correctly, lest I be sent to an in-game jail. To circumvent this, I learned new code techniques to connect my program to the platform the game was on. By carefully going through documentation, video tutorials, and Internet examples, I made the program successfully process and answer those questions correctly, evading prosecution. Seeing my program work was satisfying, and it felt as if I had outsmarted the game.
+
+By analyzing and learning to apply new information to overcome obstacles, I was able to make a working program. With the program, I was able to optimize my time by fulfilling my daily goals, like studying, while slaying dragons in the background. Inspired by my success, I created programs with entirely new programming language databases to solve other inconveniences I encountered, including learning HttpClient to code a program to quickly download songs off websites.
+
+To me, creativity means using all my resources to overcome obstacles I encounter. These experiences introduced me to a new resource, computer programming. Utilizing new information I saw on the Internet was far from easy, but through practice, I learned to better apply it to further my creative side: problem-solving.
+
+
+
+
+
+This experience taught me to use my resources effectively if I encountered a problem. I gained experience as I learned to comprehend and utilize new information, which I used to further express my creative side: through problem solving.
+
+
+
+This experience taught me to use all my resources if I encountered a problem. Now when new challenges come my way, I approach them like I would the program, drawing from resources I have to create a solution. 
+
+325
+Just like the first essay, make sure to elaborate more and provide more detail. Otherwise I think this essay is pretty good, definitely one of your stronger ones! Loved reading it :D
+
+
+Maybe delete: 
+This skill has helped me in other areas, like robotics. When a machine I often used refused to turn on, I went through every resource I had to fix it, including going through the manual, contacting previous team members and a mentor who had a similar machine.
+
+
+
+
+
+
+	•	Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.
+My earliest memory involving math was my dad drilling the multiplication table into me. Four-year-old me, who was sitting with my back against a giant poster of the multiplication table hung on the living room wall, was so eager to watch television but was only allowed to after getting ten consecutive problems correct. After not knowing how to multiply for hours, suffering without television, eventually it dawned on me that multiplication was simply repeated addition. I finally got what I was looking for: television access and unexpectedly, a huge feeling of accomplishment.
+
+This feeling inspired me to learn math by myself, which was followed by my entering my first mathematics competition in sixth grade. The difficulty of the problems and the creative ways to apply concepts to create solutions roped me into competitions, and I've been doing them since.
+
+Come November of my junior year, I was competing for the third time in the American Mathematics Competition. I had spent countless hours each day for the past two summers studying previous competition problems and timing myself to prepare for this moment.
+
+Half an hour in, I got stumped, staring at a triangle, getting nowhere and feeling dejected. Suddenly, realizing that I knew the length of all the sides, my heart skipped a beat. It hit me that I could use Heron's formula to find its area. Quickly applying it and getting the answer, I easily got an additional six points in the competition. Motivated by this victory, I approached the rest of the competition with renewed confidence.
+
+At the end of every complicated math problem, I experience a feeling of accomplishment. Seeing the answer I worked so hard for among the answer choices made me satisfied in knowing that I was able to accomplish something with what I had learned.
+
+
+
+	•	What have you done to make your school or your community a better place?
+Think of community as a term that can encompass a group, team or a place — like your high school, hometown or home. You can define community as you see fit, just make sure you talk about your role in that community. Was there a problem that you wanted to fix in your community? 
+Why were you inspired to act? What did you learn from your effort? How did your actions benefit others, the wider community or both? Did you work alone or with others to initiate change in your community?
+
+
+Eighth grade night, 2022, I was in my chemistry classroom demonstrating science experiments to prospective students for extra credit. Initially, I was apprehensive of this event because middle schoolers, so chaotic, scared me. But in the dimly lit classroom, filled with the bustle of students, where a boy was jumping up and down, flapping his arms in rhythm, my doubts faded away.
+
+"How much longer?" the boy huffed out. "Ten more seconds," I replied as he continued hopping away. Soon enough, he stopped, took a straw, blew through it into a cup of blue liquid, and watched eagerly as it gradually became more yellow with each exhalation. "Wow!" he exclaimed.
+
+Shaking his head after I asked if he knew why that happened, he stared in wide-eyed wonder, nodding enthusiastically as I explained that the carbon dioxide he blew into the cup made it more acidic, causing the pH indicator inside to change color from blue to yellow.
+
+Seeing him listen to my explanation felt rewarding. I had given someone a positive experience - possibly even inspiring an interest - regarding a subject I felt passionate about. Many others participated in that activity throughout the event, and seeing their faces light up, I felt rewarded knowing I had an impact on them.
+
+What I originally did for extra credit turned out to be something I unexpectedly enjoyed.
+This event taught me that I found interacting with people that had similar interests and sharing my knowledge with them fulfilling.
+
+I looked for more opportunities to introduce children to science. In my local library, I built LEGO robots with children. At my school, I helped middle school students build Rube Goldberg machines to learn about the transfer of energy.
+
+Each time I bring a smile to someone's face, see someone focus intently on an activity, or ask eager questions, I am motivated to keep participating in such events. Each experience serves as a reminder of the gratification that comes from raising and sharing interest in things I'm passionate about.
+
+
+Each experience , and served as a reminder of the good that can come from trying things out of my comfort zone. In the future, I would like to continue participating in these events. 
+
+
+
+357
+
+
+
+
+
+
+
+	•	Beyond what has already been shared in your application, what do you believe makes you a strong candidate for admissions to the University of California? 
+
+
+
+

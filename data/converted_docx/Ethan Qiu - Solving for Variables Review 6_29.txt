@@ -1,0 +1,38 @@
+Solving for Variables Review 6/29
+Solve for x. 
+1) 6x + 9 = x + 6			2) 6 - 4x = -4x +9		          3) -2x + 2/3 = -x + 4x/3	
+x=-⅗                			6 = 9 					x = 2/3
+NO SOLUTION                                                  
+
+
+
+
+
+4) -5/3 + 3x/5 = -1/5 - 2x		5) -5x = 2 - 3(x - 2)		        6) 4x - (x - 1) = 2(x + 3)
+ X = 22/39					x = -4				x = 5
+
+
+
+
+7) Bob’s daily pill subscription costs $1.25 per pill. Joe’s daily pill subscription costs $1.50 per pill, but she received her first 2 pill free. Write an equation that can be used to find the number of days which Bob and Joe will have paid the same amount.
+	
+1.25x + 0 = 1.50 + 2
+
+
+
+Directions: Solve for the indicated variable:
+8) S = 180n - 360 for n		9) x/5 - g = a for x			10) y = 3x + 3b for b 
+										B = y-3x/3
+N = s+ 360/180			x=5a+5g
+
+
+
+11) y = mx + b for x			12) v2 = u2 + 2as for s			13) PV = nRT for T
+
+X = y-b/m					s = v- u /a                                  T=PV - nR
+
+
+
+14) The formula S = (HWFT)/35,000 gives the approximate size in kilobytes (Kb) of a compressed video. The variables H and W represent the height and width of the frame measured in pixels, F is the number of frames per second (fps) the video plays, and T is the time the video plays in seconds. Estimate the time a move trailer will play if it has a frame height of 320 pixels, has a frame width of 144 pixels, plays at 15 fps, and has a size of 2360 Kb.
+-T * - = (320*320*144*15-2360/35,000)* - 
+T = 221183999.933

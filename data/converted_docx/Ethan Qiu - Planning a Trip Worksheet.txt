@@ -1,0 +1,22 @@
+Destination:____Reno________________________________________________
+Including the costs for each item:
+
+Travel cost (Round Trip)
+Gasoline: miles of trip/mpg * price of gas
+	Choice  ___Shell_____  (___4.66$______/________) * ___226 miles_____ =  $___1053.16______
+Lodging: number of nights at motel * cost per night * number of room 
+Choice  __One trip, no stops______  _________*__________ * _________ =  $_________
+Meals: number of days * cost per day * number of persons
+Choice  __One trip, no stops______  _________*__________ * _________ =  $_________
+
+Destination Resort Costs
+Hotel: number of nights *  cost per night * number of rooms
+Choice _Peppermill_______  __3______ * ___111______ * ____1_____ = $___333________
+Admissions: cost * number of persons
+Choice _Circus Circus_______  ____5_____ * __5_______ = $____25_______
+Meals: number of days * cost per day * number of persons
+Choice ___Land Ocean______  ____115____ * __6_______ * _________ = $____690_______
+
+Adding both subtotals will equal the total cost of your vacation
+___1053.16______ + __1048______ = ____2101_____
+Subtotal	Subtotal	Total	

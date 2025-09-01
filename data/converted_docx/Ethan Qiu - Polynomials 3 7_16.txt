@@ -1,0 +1,60 @@
+Polynomials 3 7/16
+1) 
+	•	Write a polynomial that represents the area of the triangle.
+ 
+
+
+
+	•	Find the area when x = 4.5 in.
+
+
+
+
+2) If ( x + 1)(x + 4) - (x - 1)(x - 2) = 0, what is the value of x?
+
+
+
+
+3) What is the area of a rectangle with a length of x - a and a width of x + b
+
+
+
+
+4) For integers greater than 0, define the following operations. 
+a☐b=2a2 + 3b
+a△b=5a2 - 2b
+What is (a☐b)-(a△b)?
+
+
+
+
+5) Ron is making an ice sculpture. The block of ice is in the shape of a rectangular prism with a length of (x + 2) inches, a width of (x - 2) inches, and a height of 2x inches.
+	•	Write and simplify a polynomial expression for the volume of the block of ice.
+
+
+
+
+	•	The final volume of the ice sculpture is (x3 + 4x2 -10x + 1) cubic inches. Write an expression for the volume of ice that Ron carved away.
+6) Look at the pentagon.
+
+	•	Write and simplify an expression that represents the area of the pentagon. Show your work or explain your answer.
+
+
+
+
+	•	Show one method of checking that your expression in part A is correct.
+
+
+
+
+	•	The triangular part of the pentagon can be rearranged to form a square. Write the area of this square as the square of a binomial.
+
+
+
+
+	•	Expand the product that you wrote in part C. What type of polynomial is this?
+
+
+
+
+	•	Is the square of a binomial ever a binomial?

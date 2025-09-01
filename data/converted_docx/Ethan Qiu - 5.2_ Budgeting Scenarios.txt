@@ -1,0 +1,331 @@
+Example Scenario: You are planning your friend's surprise birthday party, which will be hosted at their house (with their parents’ permission, of course). Around 30 people will be invited, including close friends and family members. Your budget is $500, how will you make this the best birthday of your friend’s life? 
+
+Budget: $500
+
+Things to consider:
+	•	Invitations
+	•	Decorations
+	•	Food & Drinks/Catering
+	•	Plates & Utensils
+	•	Gifts
+	•	Entertainment
+	•	Music
+
+Purchases:
+	•	Evites (email invitations): $0
+	•	Rainbow Birthday Cake: $69.95
+	•	Birthday Candles: $3.79
+	•	Happy Birthday Banner: $3.99 
+	•	8ct Baby Shark Cone Party Hats: $2.894 = $11.56
+	•	Party Poppers: $8.73
+	•	Party Streamers: $9.99
+	•	Balloons: $4.99
+	•	154ct Paper Plates: $7.69
+	•	54ct Paper Cups: $2.99
+	•	150ct Plastic Utensils: $9.19
+	•	300ct Napkins: $4.92
+	•	Catering-Grilled Hamburgers: $255
+	•	Side Dish-Garlic Bread: $65
+	•	Soda-2L Coca Cola: $1.674 = $6.68
+	•	Smart Speaker: $34.99 
+
+Total Spent: $499.46
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Scenario 1: Congrats, you’re getting married! Your wedding is in 4 months. You have $20,000 to spend on everything you need.
+
+Budget: $20,000
+
+Things to consider:
+	•	Venue
+	•	Wedding Rings
+	•	Wedding Dress & Suit
+	•	Invitations
+	•	Decorations
+	•	Food & Drinks/Catering
+	•	Wedding Cake
+	•	Plates & Utensils
+	•	Music
+
+Purchases:
+
+
+Total Spent: 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 2: You just moved into a new apartment/house. You need to furnish the entire house. (Stove, Refrigerator, Cabinets, Bathtub, and things like such are already in the house)
+
+Budget: $50,000 
+
+Things to consider:
+	•	How big your house is (Is it very big? Does it have a pool? Does it have a backyard?)
+	•	Chairs
+	•	Tables/Desks
+	•	Beds
+	•	Sofa
+	•	Pillows
+	•	Shelves
+	•	Cabinets
+	•	Lamps
+	•	Kitchen Appliances (microwave, stove, refrigerator, etc)
+	•	Electronics (TV, PC, etc.)
+	•	Etc.
+
+Purchases:
+	•	
+
+Total Spent: 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 3: You take out a $100,000 loan from your bank to start a business.
+
+Budget: $100,000 
+
+Things to consider:
+	•	What kind of business 
+	•	What positions will be available in your business 
+	•	How much will you pay your workers
+	•	Location (rents are different in different places) 
+	•	Internet 
+	•	Water 
+	•	Electricity 
+	•	What is the expected net income each month for your business? 
+
+Purchases:
+	•	
+
+Total Spent: 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 4: Your family (family of 4) is going on vacation this summer. They gave you a $6000 budget and put you in charge of planning everything, including where to go! How exciting! 
+
+Budget: $6000
+
+Things to consider:
+	•	Plane tickets (Don’t forget: you need to get there and back)
+	•	Hotel
+	•	Attraction Fees
+	•	Local Transportation 
+	•	Souvenirs/Gifts
+	•	Food
+
+Purchases:
+	•	Tickets to Las Vegas 150$*4 =600$
+	•	The Venetian Hotel Cost 2543$
+	•	Hoover Dam Mini Tour 70*4=280$
+	•	Grand Canyon Rim Tour 99*4=396$
+	•	Rental Car to drive 489$
+	•	Lunch, Dinner, and Breakfast - In the hotel or in Chinatown = 200$-250$ a day = 1.6k
+
+Total Spent: $5958
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 5: You are the director of your school’s annual play. This year, your team is performing Romeo and Juliet. Everyone is busy rehearsing, but it’s your job to prepare the stage for the big night. The school has allotted you $800 to make the play a success. 
+
+Budget: $800
+
+Things to consider:
+	•	Stage Background/Backdrop
+	•	Special Effects
+	•	Costumes
+	•	Makeup
+	•	Props
+	•	Lights
+	•	Curtains
+	•	Music
+
+Purchases:
+	•	
+
+Total Spent: 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 6: You were recently accepted into a 4-year university. How will you spend your $50,000 budget on your first year?
+
+Budget: $50,000
+
+Things to consider:
+	•	College tuition (Your desired college, or if you don’t have the desired college, pick a random college)
+	•	Housing/Dorms 
+	•	Food
+	•	Textbooks
+	•	Fees (water, electricity, phone, etc.)
+
+Purchases:
+	•	
+
+Total Spent: 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 7: It’s Christmas! You want to buy gifts for your entire family to celebrate.
+
+Budget: $100 per person (budget will vary based on the number of people in your family)
+
+Total Budget (ex: If you have four family members, your total budget will be $400): 
+*Note: You can spend more than $100 on a single family member, but the total of all your gifts must be within the amount specified in your total budget.
+
+Things to consider:
+	•	Gifts for mom, dad, sibling(s), grandma(s), grandpa(s), aunt(s), uncle(s), cousin(s), etc.
+	•	Gifts for mom, dad, and my sister.
+Purchases:
+	•	Sister- Chainsaw Man Vol. 1, Vol. 2, etc. Vol 1-5 $40.94
+	•	Dad- Phone Case $44.99
+	•	Mom-AirPods $199.00
+Total Spent: 284.93$
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 8: You are an artist and you are planning to work on your next masterpiece.
+
+Budget: $200
+
+Medium (ex: painting, sculpture, mural, graffiti, etc): 
+
+Things to consider:
+	•	Art Supplies (canvas, paint, clay, pencils, etc)
+
+Purchases:
+	•	Pencils 9.95$
+	•	Clay 49.00$
+	•	Paintbrushes 20.99$
+	•	Paint for clay 31.99$
+
+Total Spent: 111.93$
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 9: You have incoming triplet newborn babies, two are female and one is a male. You have to buy the items necessary to take care of the babies when they come home. You have $3000 to spend for the first month. 
+
+Budget: $3000
+
+Things to consider:
+	•	Cribs
+	•	Bibs
+	•	Blankets
+	•	Feeding Bottles
+	•	Clothes
+	•	Walkers
+
+Purchases:
+	•	
+
+Total Spent: 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 10: Your friend owns two pet otters named Hana and Kotaro. Your friend wants you to take care of them for a month in exchange for a couple of hundred dollars. You will be living in your friend's house, which includes a swimming pool and equipment necessary for the otters. 
+
+Budget: $2000
+
+Things to consider:
+	•	Food
+	•	Playtime items
+
+Purchases:
+	•	
+
+Total Spent: 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 11: You are entering a cooking contest. You are making your favorite dish (or a dish you are craving). This needs to serve at least six people. Buy the ingredients to prepare your dish:
+
+Budget: $200
+
+Dish: 
+
+Things to consider:
+	•	How much of the ingredients you need (how many ounces/pounds/etc)
+	•	Where you are going to buy the ingredients 
+
+Purchases:
+	•	How to make lasagna -
+	•	Barilla Classic Blue Box Oven Pasta Wavy Lasagne - 16 oz 2.05$
+	•	Kraft Mozzarella Shredded Cheese - 8 oz$2.78Instacart 2.78$
+	•	Organic Shredded Parmesan - Marin Cheese Co. - 5 oz 5.99$
+	•	Tomato Sauce 9.99$
+
+Total Spent: 20.81$
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 12: You are participating in a 1-year survival challenge. You will live in a tropical forest, where it is extremely hot and humid, for half the year. The other half of the year, you will live in Antarctica, where it is freezing and full of snowstorms. You need to purchase the necessary items/tools to survive successfully. 
+
+Budget: $1500
+
+Things to consider:
+	•	Items that correspond to each half of the year
+	•	Tent
+	•	Sleeping Bag
+	•	Water bottle
+	•	Survival Tools (Knife, first aid kit, etc)
+	•	Rations
+
+Purchases:
+	•	
+
+Total Spent: 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 13: You and four friends decide to spend a day at the movies. You are put in charge of ordering tickets and food. 
+
+Budget: $150
+
+Things to consider:
+	•	Tickets (include which theater and movie) 
+	•	Food & Drink
+
+Purchases:
+	•	Disney Plus Subscription 9.99$
+	•	Garrett Popcorn here 20.00$
+	•	Coke 9.73
+
+Total Spent: 39.73$
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 14: You and six friends decide to have a picnic. 
+
+Budget: $150
+
+Things to consider:
+	•	Location of the picnic (You may need to bring a big umbrella if it is too sunny for your likings)
+	•	Food/Drink
+	•	Picnic Blanket
+
+Purchases:
+	•	
+
+Total Spent: 
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Scenario 15:  Since your family owns a barbeque grill, you decide to host a barbeque to celebrate finishing the school year. There will be around 20 people. You are in charge of buying the necessary items. 
+
+Budget: $300
+
+Things to consider:
+	•	Hot Dogs
+	•	Hot Dog Buns
+	•	Hamburger Buns
+	•	Hamburger Patties
+	•	Condiments: ketchup, mustard, relish, etc.
+	•	Popsicles
+	•	Drink(s)
+	•	Charcoal for the grill
+	•	Lettuce, tomatoes, etc
+
+
+Purchases:
+	•	
+
+Total spent: 

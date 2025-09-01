@@ -1,0 +1,475 @@
+(based on previous piqs) 
+
+Investment Club
+
+Summer Job – OCR/bookkeeping 
+
+English
+
+Math
+Third Drafts: 
+
+1: Leadership: Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes, or contributed to group efforts over time. 
+
+After witnessing the financial chaos of the pandemic, I decided to start an Investment Club to promote financial literacy with the aim of gaining knowledge and sharing it with others.
+
+Weeks before the school year started, I began planning. I reached out to friends who might share my interest and convinced them to join the team. I created a list of potential club sponsors, a mission statement and a logo, and planned topics for the first few meetings.
+As the school year began, I approached my registry and economics teacher to become the club sponsor. To my surprise, he declined, citing a lack of time.
+	
+Undeterred, I showcased my extensive preparations during a subsequent meeting with him.
+Impressed, he referred me to another teacher who ultimately became our club sponsor. With
+this hurdle overcome, our club flourished, attracting a healthy membership of approximately 30
+enthusiastic members. 
+
+After one semester running smoothly, a significant challenge arose during a club leadership
+meeting. We were deliberating the topic for an upcoming meeting when one officer proposed discussing “option trading.” Some members expressed reservations, considering it likely to
+cause substantial losses if pursued without proper knowledge. A heated debate ensued. Sensing the need for a resolution, I called for a temporary pause in the discussion. The following day, I devised a creative solution: our club would host a “trading” competition on a paper trade platform, and we would also include a seminar on option trading in our upcoming meetings. In this way, we could learn about options without exposing our members to the downside risk. Participants with the highest gains by the end of the semester would receive a $50 award. 
+
+The competition proved to be a resounding success, with our club continuing to attract the interests of those even outside of school. I gained invaluable experience in leading officers and my leadership skills for larger groups, being able to apply that to my future endeavors as I hope to utilize my leadership and knowledge about financial literacy to contribute to a new community.
+(340)
+–
+
+Now, I am now partnering with finance clubs outside of our school in our district to create a group based investment competition, not just based on the highest gains, but based on research and the diversity of each group's portfolios. 
+
+6. Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.
+My earliest memory involving math was my parents drilling the multiplication table into me at the
+age of six. I returned home with an unsatisfactory diagnostic test, so mom wrote equations
+down for me to solve, only allowing me to watch television after getting ten consecutive
+questions correct. After several hours of writing equations in a notebook, I realized multiplication
+is analogous to repeated addition, thereby achieving my goal of television access and beginning my life as a mathematician.
+
+Continuing with rigorous algebra practice in middle school, 
+
+I dived into Geometry as a freshman, a journey that ignited my passion for mathematics, fostering a deep appreciation for the beauty of logical reasoning and problem-solving. 
+
+At the end of the semester I had finished the textbook and our teacher dived into a geometric term called Locus (we had a running joke similar to locust) , a set of all points that are determined by other conditions in a plane -- an exciting hint towards conic sections in pre-calculus and differentiation in calculus, which I hadn’t realized at the time. 
+
+At the end of my sophomore year, I was reintroduced to geometry during my
+Advanced Placement Computer Science class through intricate geometric figures called
+fractals, which are infinitely self-similar shapes like snowflakes. My teacher introduced me to
+the “Dragon Curve” through folding pieces of paper, where he would fold a slip of paper in half, unfolding into a 90 degree angle,then folding recursively for more iterations to create an infinitely replicating dragon-shape (though we would run out of paper to fold). I was determined to illustrate its simplicity and elegance through code. 
+
+An hour in, I was stumped, staring at two lines drawn on the screen, wrestling with the
+intricacies of angle calculations in my code. Suddenly, I realized the formula for calculating
+the next coordinate of each line and angle were were not adjusted properly after
+each iteration, causing the segments to overlap chaotically. Meticulously, I divided the logic of
+the code, implementing an angle adjustment mechanism which successfully tamed the once-chaotic fractal. Motivated by this victory, I approached the rest of the mathematical challenges in the code with newfound confidence. 
+
+As I gazed upon the “Dragon Curve” I felt thrilled to have translated my knowledge of mathematics into a tangible achievement. Solving complicated math problems fills me with a grand feeling of accomplishment. 
+
+Now, in AP Calculus BC, I delve into mathematical concepts that expand my horizons for more complex problem-solving. I envision using advanced mathematical models and algorithms to unravel complex patterns within data. Just as I once deciphered the intricacies of the "Dragon Curve" by refining code and understanding mathematical principles, I want to apply the same meticulous approach to analyze and visualize data, extracting meaningful insights and patterns that may be hidden within the chaos. 
+(460!) 
+
+—----
+Diving into Geometry freshman year ignited my passion for mathematics, and fostered a deep appreciation for the beauty of logical reasoning and problem-solving. After finishing the textbook, our teacher introduced us to the concept of Locus, an exciting hint towards conic sections in pre-calculus and differentiation in calculus that blew my mind.
+
+Sophomore year, AP Computer Science brought intricate geometric figures called fractals, which are infinitely self-similar shapes like snowflakes. My teacher introduced me to the “Dragon Curve” through folding pieces of paper, where he would fold a slip of paper in half, unfolding into a 90 degree angle, then folding recursively for more iterations to create an infinitely replicating dragon-shape given enough paper. I was determined to illustrate the elegance of this example through code. 
+
+An hour in, I was stumped, staring at just two lines drawn on the screen, wrestling with the
+intricacies of angle calculations in my code. Suddenly, I realized the formula for calculating
+the next coordinate of each line and angle were were not adjusted properly after
+each iteration, causing the segments to overlap chaotically. I divided the logic of
+the code, implementing an angle adjustment mechanism which successfully tamed the once-chaotic fractal. Motivated by this victory, I approached the rest of the mathematical challenges in the code with newfound confidence. 
+
+As I gazed upon the “Dragon Curve” I felt thrilled to have translated my knowledge of mathematics into a tangible achievement. Solving complicated math problems fills me with a grand feeling of accomplishment. 
+
+In both the realm of mathematics and the world of coding, I have found myself utterly captivated. Just as I once deciphered the intricacies of the "Dragon Curve" by refining code and understanding mathematical principles, I want to apply the same meticulous approach to analyze and visualize data, extracting meaningful insights and patterns that may be hidden within the chaos. When I seek to learn more, I turn to the endless resources and challenges that these fields offer, forever captivating my imagination.
+
+
+
+(324)
+
+
+
+
+2. Creativity: Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+
+
+
+Two summers ago, I interned at Dumpling Depot, a local restaurant where I innovated new solutions to the problems of their back office.
+
+I spent weeks making the menu easier to use, before updating the website UI and setting up a new online catering feature. 
+
+But the problematic piles of unmanaged invoices in the back office cried out most to me. I needed to create a way to save time over manual organization and filing.
+
+Initially, I decided to use my AP Computer Science and Java background. I browsed Internet resources and learned databases Printwriter and Bufferedreader, before realizing I could use an Optical Character Recognition module to streamline the process. I implemented what I learned into a collage of code, creating a successful prototype that parses pictures from my scanner into legible numbers, before sorting them in chronological order. 
+
+However, when testing further I realized that the OCR module only accepted PNG images as input, while the invoices were scanned in batches of PDFs by default. 
+
+Once again I was determined to find a faster way in my work. I combined my existing knowledge of file management and introduced Ghostscript to the equation, allowing me to transform large PDFs into individual PNG images as input, enabling the program to finally function seamlessly. I was proud to see my program work, and it felt as if I had outsmarted my job. Now, the piles of paper have disappeared, and they made more space in the office by removing the massive metal filing cabinets that used to stand around the room. 
+
+While finding and utilizing new information from complex OCR resources online was initially daunting, with persistent practice and the application of my creative side, I was able to create a program to automate the intricacies of managing files by hand. These experiences introduced me to a new resource, computer programming. With this new resource, I tinkered with programs with entirely new programming language databases to expedite other processes, including learning HttpClient to quickly download songs off websites. To me, creativity means using all my resources to overcome obstacles I encounter. (350)
+
+Second Drafts (need to finish others)
+330 words
+
+Two summers ago, I interned at Dumpling Depot, a local restaurant where I found new and innovative ways to solve problems in their back office.
+
+I initially spent a couple of weeks redesigning the menu to make it easier to use, before working on the website to update its UI and set up a way to order catering online. 
+
+But the problem that cried out most to me was the overwhelming piles of invoices waiting to be managed. My desk was inundated by unscanned documents – papers that I needed to manually organize and file. I was determined to find a way to find a faster way to progress in my work.
+
+My initial thought was to use my prior AP computer science knowledge, which had taught me the basics of Java, but nothing practical in real scenarios was of use. By browsing accessible Internet resources and learning databases Printwriter and Bufferedreader, I could use an optical character recognition module to streamline the process. By accessing the command prompt through code, I was able to make a functioning prototype for sample files. 
+
+Unfortunately, what I coded did not account for the file types I was inputting into the OCR. The OCR only allowed PNG photos to be inputted, and these files were scanned in batches of PDFs by default. 
+
+I added another helper called Ghostscript to unpackage large PDFs in singular PNG images as input. I was proud to see my program work, and it felt as if I had outsmarted my job. Now, the piles of paper have disappeared, and they made more space in the office by removing the massive metal filing cabinets that used to stand around the room. 
+
+While finding and utilizing new information from complex OCR resources online was initially daunting, with persistent practice and the application of my creative side, I . ..  [active summary of what you did ]. To me, creativity means using all my resources to overcome obstacles I encounter. These experiences introduced me to a new resource, computer programming. 
+
+Ethan’s Edit:   Two summers ago, I interned at Dumpling Depot, a local restaurant where I found new and innovative ways to solve problems in their back office.
+
+I initially spent a couple of weeks redesigning the menu to make it easier to use, before working on the website to update its UI and set up a way to order catering online. 
+
+But the problem that cried out most to me was the overwhelming piles of invoices waiting to be managed. My desk was inundated by unscanned documents – papers that I needed to manually organize and file. I was determined to find a way to find a faster way to progress in my work.
+
+My initial thought was to use my prior Advanced Placement Computer Science knowledge, which had taught me the basics of Java, but little application in real scenarios. However, by browsing accessible Internet resources and learning databases Printwriter and Bufferedreader, I realized that I could use an Optical Character Recognition module to streamline the process. I implemented what I learned into a collage of code, creating a successful prototype that would parse pictures taken by my scanner into legible numbers, sorting them in chronological order. 
+
+Unfortunately, what I coded did not account for the file types I was inputting into the OCR. The OCR only allowed PNG photos to be inputted, and these files were scanned in batches of PDFs by default. 
+
+Once again I was determined to find a faster way in my work. This time I combined what I had already learned about file management to circumvent the problem.  The only addition I needed was Ghostscript, which finally allowed me to unpackage large PDFs in singular PNG images as input. I was proud to see my program work, and it felt as if I had outsmarted my job. Now, the piles of paper have disappeared, and they made more space in the office by removing the massive metal filing cabinets that used to stand around the room. 
+
+While finding and utilizing new information from complex OCR resources online was initially daunting, with persistent practice and the application of my creative side, I was able to create a program to automate the intricacies of managing files by hand. To me, creativity means using all my resources to overcome obstacles I encounter. These experiences introduced me to a new resource, computer programming. 
+
+
+
+Edit:
+
+Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+
+Two summers ago, I interned at Dumpling Depot, a local restaurant where I innovated new solutions to the problems of their back office.
+
+I spent weeks making the menu easier to use, before updating the website UI and setting up a new online catering feature. 
+
+But the problematic piles of unmanaged invoices in the back office cried out most to me. I needed to create a way to save time over manual organization and filing.
+
+Initially, I decided to use my AP Computer Science and Java background. I browsed Internet resources and learned databases Printwriter and Bufferedreader, before realizing I could use an Optical Character Recognition module to streamline the process. I implemented what I learned into a collage of code, creating a successful prototype that parses pictures from my scanner into legible numbers, before sorting them in chronological order. 
+
+Unfortunately, what I coded did not account for the file types I was inputting into the OCR. The OCR only allowed PNG photos to be inputted, and these files were scanned in batches of PDFs by default. 
+
+Once again I was determined to find a faster way in my work. This time I combined what I had already learned about file management to circumvent the problem.  The only addition I needed was Ghostscript, which finally allowed me to unpackage large PDFs in singular PNG images as input. I was proud to see my program work, and it felt as if I had outsmarted my job. Now, the piles of paper have disappeared, and they made more space in the office by removing the massive metal filing cabinets that used to stand around the room. 
+
+While finding and utilizing new information from complex OCR resources online was initially daunting, with persistent practice and the application of my creative side, I was able to create a program to automate the intricacies of managing files by hand. To me, creativity means using all my resources to overcome obstacles I encounter. These experiences introduced me to a new resource, computer programming. 
+
+
+
+-----
+
+Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.
+
+My earliest memory involving math was my parents drilling the multiplication table into me. Six year old me, who after returning home with an unsatisfactory diagnostic test from my third grade teacher, felt a mix of disappointment and confusion. I watched as my mom wrote equations down for me to solve, only allowing me to watch television after getting ten consecutive questions correct. After not knowing how to multiply for hours, staring at a notebook with multiple pages filled with writing, it dawned on me that multiplication was simply repeated addition. I achieved my goal at last: access to television, accompanied by an unexpectedly overwhelming sense of achievement.
+
+This feeling inspired me through rigorous practice of algebra in middle school and allowing me to skip into sophomore geometry class my freshman year. This immersive journey into geometry not only fueled my passion for mathematics but also instilled in me a deep appreciation for the beauty of logical reasoning and problem-solving.
+
+Come the end of my sophomore year, I was reintroduced to trigonometry during my Advanced Placement Computer Science class through intricate geometric figures called fractals. My teacher introduced me to the “Dragon’s curve” through folding pieces of paper, and I was determined to bring that simple idea to a more complex level through code.
+
+An hour in, I got stumped, staring at two lines drawn on the screen, wrestling with the intricacies of angle calculations in my code. Suddenly, I realized my formula for calculating the next coordinate of each line and angle were not properly being adjusted after each iteration, causing the segments to overlap chaotically. Meticulously, I divided the logic of the code, implementing an angle adjustment mechanism which successfully tamed the once chaotic fractal. Motivated by this victory, I approached the rest of the mathematical challenges in this code with newfound confidence. 
+
+At the end of every complicated math problem, I experience a feeling of accomplishment. 
+As I gazed upon the “Dragon curve” that now appeared before me as a result of problem solving and hard work, I was satisfied in knowing that I was able to translate my knowledge of mathematics into a tangible achievement. 
+
+Now, taking Calculus, I find myself delving into a world of mathematical concepts that expands my horizons for more complex problem-solving. As I look to the future, I am reminded of the challenges, but also the satisfaction, that await as I continue to dive deeper into mathematics.
+
+(406)
+
+—---
+D Edit
+
+My earliest memory involving math was my parents drilling the multiplication table into me at the age of six. I’d returned home with an unsatisfactory diagnostic test, so mom wrote equations down for me to solve, only allowing me to watch television after getting ten consecutive questions correct. After several hours of writing equations in a notebook, I realized multiplication is actually like repeated addition, achieving my goal of television access and the beginning of my life as a mathematician.
+
+I continued with rigorous practice of algebra in middle school and was able to start with Geometry as a freshman. 
+
+This immersive journey into geometry not only fueled my passion for mathematics but also instilled in me a deep appreciation for the beauty of logical reasoning and problem-solving.
+
+Come the end of my sophomore year, I was reintroduced to trigonometry during my Advanced Placement Computer Science class through intricate geometric figures called fractals. My teacher introduced me to the “Dragon Curve” 
+
+
+ through folding pieces of paper, and I was determined to bring that simple idea to a more complex level through code. 
+
+An hour in, I got stumped, staring at two lines drawn on the screen, wrestling with the intricacies of angle calculations in my code. Suddenly, I realized my formula for calculating the next coordinate of each line and angle were not properly being adjusted after each iteration, causing the segments to overlap chaotically. Meticulously, I divided the logic of the code, implementing an angle adjustment mechanism which successfully tamed the once chaotic fractal. Motivated by this victory, I approached the rest of the mathematical challenges in this code with newfound confidence. 
+
+As I gazed upon the “Dragon Curve” I felt thrilled to have translated my knowledge of mathematics into a tangible achievement. 
+
+Solving complicated math problems fills me with a grand feeling of accomplishment. Now, in AP Calculus BC, I delve into mathematical concepts that expand my horizons for more complex problem-solving. As I look to the future, I am reminded of the challenges, but also the satisfaction, that await as I continue to dive deeper into mathematics.
+
+
+Leadership:
+
+After witnessing the financial market instability during the epidemic 
+
+and finally gaining enough courage and experience to lead, I wanted to share my passion for business and promote financial literacy.
+
+ I founded an Investment Club and invited one of my previous co-workers to work with me as vice-president, where we previously worked together over the summer of my freshman year at our local church, planning and leading activities for children. I was inspired by his unrelenting surge towards optimism and also his vibrant energy even as a senior.
+
+I started planning weeks before school started. We created a team and assigned responsibilities. I drafted a list of potential club sponsors, a mission statement, and a logo, as well as agenda items for the first few meetings. 
+
+As the school year started, our club was forming well and gained a healthy membership with on average 30 eager listeners. I led our first informational meeting and I was able to speak louder and more enthusiastically than ever, being able to raise my voice and bring attention to the crowd that had gathered in our club room. 
+
+After a few weeks, with our club running smoothly, I began to notice other finance clubs appear on fliers. One specific club named ‘The Intelligent Investors’ had a suspiciously similar design and flier as ours, concerning me and my cofounder. We took an opportunity to visit them and realized that their club wanted to teach an in-depth analysis on potential stocks on the stock market, whilst our club dealt with more broader topics for a more general audience. We reached a mutual agreement with the officers to stay within our specific range of topics and decided to stay in contact. 
+
+My mind was put at ease with the resolution of this potential dispute. The rest of the year went by without any other bumps. I gained invaluable experience in leading officers and my leadership skills for larger groups, being able to apply that to my future endeavors. Now, I’m looking forward to being able to share my knowledge about business and finance with seniors and underclassmen in my final year with enthusiasm.  
+
+4. Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.
+
+After successful essays on 1984 and Persepolis books which I’d genuinely enjoyed, I felt ready for the next step of my English education. I was warned by upperclassmen not to take AP Language and Composition due to the pressure, but I trudged forward. 
+
+To prepare, I became obsessed with increasing my vocabulary. I pre-read in-class books such as Brave New World and Devil in the White City, creating documents with pages of words that I tracked down in a trance-like fervor. 
+
+I hijacked our family trip forcing us to attend Ashland, Oregon’s famed Shakespeare Festival while utilizing every second of my spare time to read and jot down interesting words.  
+
+To my dismay, I didn’t understand The Tempest very well. I recognized many words recently added to my lexicon, but still had trouble appreciating the subtleties of the play. I began to realize that a vast vocabulary wasn’t the answer to all of my linguistic challenges. 
+
+After understanding the problem, I wanted to change my perspective on English. I realized that it was not the vocabulary or the grade for the class that I needed to grasp, but the appreciation of literature and improvement of comprehension. I read other books without even thinking about adding to my vocabulary list, starting with Lord of the Flies. As I delved deeper, I began to appreciate the power of storytelling to convey profound messages about the human condition. The imagery of the island, symbolism of the conch shell, and haunting presence of the ‘Lord of the Flies’ all took on deeper significance as I sought to understand the underlying commentary on society and human nature.
+
+When the time came to begin the dreaded AP Lang, I rose to the occasion. While the pace of some in-class essays overwhelmed me, my preparation had equipped me with the tools I needed to successfully grasp the context, strategies, tone and message of important authors like Ralph Ellison and Franz Kafka. I prospered in the dreaded course and learned to love even timed writing challenges, my every pen stroke exuding my love of the literary arts. (349)
+
+
+
+Outline
+Second Drafts
+
+1: Leadership: Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes, or contributed to group efforts over time. (revised)
+
+After witnessing the financial market instability during the epidemic 
+
+and finally gaining enough courage and experience to lead, I wanted to share my passion for business and promote financial literacy.
+
+ I founded an Investment Club and invited one of my previous co-workers to work with me as vice-president, where we previously worked together over the summer of my freshman year at our local church, planning and leading activities for children. I was inspired by his unrelenting surge towards optimism and also his vibrant energy even as a senior.
+
+I started planning weeks before school started. We created a team and assigned responsibilities. I drafted a list of potential club sponsors, a mission statement, and a logo, as well as agenda items for the first few meetings. 
+
+As the school year started, our club was forming well and gained a healthy membership with on average 30 eager listeners. I led our first informational meeting and I was able to speak louder and more enthusiastically than ever, being able to raise my voice and bring attention to the crowd that had gathered in our club room. 
+
+After a few weeks, with our club running smoothly, I began to notice other finance clubs appear on fliers. One specific club named ‘The Intelligent Investors’ had a suspiciously similar design and flier as ours, concerning me and my cofounder. We took an opportunity to visit them and realized that their club wanted to teach an in-depth analysis on potential stocks on the stock market, whilst our club dealt with more broader topics for a more general audience. We reached a mutual agreement with the officers to stay within our specific range of topics and decided to stay in contact. 
+
+My mind was put at ease with the resolution of this potential dispute. The rest of the year went by without any other bumps. I gained invaluable experience in leading officers and my leadership skills for larger groups, being able to apply that to my future endeavors. Now, I’m looking forward to being able to share my knowledge about business and finance with seniors and underclassmen in my final year with enthusiasm.  
+
+
+D’s edits
+After witnessing the financial market instability during the pandemic, I felt driven to learn more about the field of finance and economics.
+
+Sophomore year, I founded my school’s first Investment Club to continue to explore and share my passion for financial literacy. I was also determined to do important work and leave a lasting legacy.
+
+I co-founded the club with a friend I’d spent the previous summer volunteering with at our church. During all of our planning and leading activities for children, Jason’s unrelenting optimism and vibrant energy inspired me. In the weeks before school started, we planned our leadership structure and responsibilities, and agenda items for the first few meetings. I also drafted a list of potential sponsors, mission statement, and our logo. 
+
+As the school year started, I led our first informational meeting for our new membership of over 30 students representing all classes. I was able to speak up, more loudly and enthusiastically than ever. 
+
+After a few weeks, with our club running smoothly, I began to notice other finance clubs appear on fliers. One specific club named ‘The Intelligent Investors’ had a suspiciously similar design and flier as ours, concerning me and my cofounder. We took an opportunity to visit them and realized that their club wanted to teach an in-depth analysis on potential stocks on the stock market, whilst our club dealt with more broader topics for a more general audience. We reached a mutual agreement with the officers to stay within our specific range of topics and decided to stay in contact. 
+
+My mind was put at ease with the resolution of this potential dispute and the rest of the year went on without a hitch. 
+
+I gained invaluable experience in leading officers and my leadership skills for larger groups, being able to apply that to my future endeavors. 
+
+
+
+
+2. Creativity: Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+
+Two summers ago, I interned at Dumpling Depot, a local restaurant, finding new and innovative ways to solve problems in their back office.
+
+I initially spent a couple of weeks redesigning the menu to make it easier to use, before working on the website to update its UI and set up a way to order catering online. 
+
+But the problem that cried out most to me was the overwhelming piles of invoices waiting to be managed. My desk was inundated by unscanned documents – papers that I needed to manually organize and file. I was determined to find a way to find a faster way to progress in my work.
+
+In order to expedite the process of managing the files, I decided to sort each document by month after physically scanning all of them through my printer. My initial thought was to use my prior AP computer science knowledge, which had taught me the basics of Java, but nothing practical in real scenarios. However, by browsing the internet with tutorials, online coding forums such as stackoverflow and learning about other programming language databases Printwriter and Bufferedreader, I found that I could use an OCR, named Tesseract – an optical character recognition module– in conjunction with newfound knowledge to streamline the process. 
+
+I created a procedure: starting with executing commands through command prompt through code, which was how the OCR was required to work, creating new folders based on the multiple text files the OCR would output and moving the final documents to their destination. 
+
+
+On paper this idea would work, but I encountered other problems that I did not foresee. 
+
+Unfortunately, what I coded did not account for what type of file I was inputting into the OCR. 
+
+
+The OCR only allowed the form of PNG photos to be inputted, and the files that were scanned were always in batches of PDFs, the default for the restaurant’s scanner. 
+
+To circumvent this, I added another helper called Ghostscript, which allowed me to unpackage large PDFs in singular PNG images as input. I was proud to see my program work, and it felt as if I had outsmarted my job. 
+
+Now the piles of paper have disappeared, and they made more space in the office by removing the massive metal filing cabinets that used to stand around the room. By analyzing and learning to apply new information to overcome obstacles, I was able to optimize my time over the summer while doing my job in the background. As junior year kicked in, I felt relieved that I was able to finish my job on time, sidestepping what could have been an insurmountable manual process. 
+
+
+
+
+
+First Drafts
+
+
+
+	•	Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes, or contributed to group efforts over time.
+
+It was the summer of my freshman year, right after the pandemic. I was quiet and always soft spoken, yet I had landed a job at a summer camp where I was required to lead and step out of my comfort zone with campers. I initially had trouble raising my taut-sounding voice, but throughout the weeks of camp I learned from and grew by observing my older co-workers who have had a lot more experience than me in leading. After this summer's camp had ended, I was determined to make a mark on the school grounds that could utilize what I had learned in my first year. 
+
+After witnessing the financial market instability during the epidemic and finally being able to set up a parental-brokerage account with my family, I wanted to share my passion for business and promote financial literacy. I founded an Investment Club and invited one of my previous co-workers to work with me as vice-president.
+
+I started planning weeks before school started. We created a team – though I had never met them in person – and assigned responsibilities. I drafted a list of potential club sponsors, a mission statement, and a logo, as well as agenda items for the first few meetings. As the school year started, our club was forming well and gained a healthy membership with eager listeners. Our first informational meeting was co-led by me and my vice-president, and I began to speak louder than ever, being able to raise my voice and bring attention to the crowd that had gathered in our club room. 
+
+After a few weeks, with our club running smoothly, I began to notice other finance clubs appear on fliers. One specific club named ‘The Intelligent Investors’ had a suspiciously similar design and flier as ours, concerning me and my cofounder. We took an opportunity to visit them and realized that their club wanted to teach an in-depth analysis on potential stocks on the stock market – an example being a “specific stock-of-the-day”--, whilst our club dealt with more broader topics for a more general audience. We reached a mutual agreement with the officers to stay within our specific range of topics and decided to stay in contact.  
+My mind was put at ease with the resolution of this potential dispute. The rest of the year went by without any other bumps. I gained invaluable experience in leading officers and my leadership skills for larger groups, being able to apply that to my future endeavors. I felt glad to be able to share my knowledge about business and finance with others before it was too late, even if it only nudged my peers a little. 
+
+449 
+
+After witnessing the financial market instability during the epidemic 
+
+
+and finally being able to set up a parental-brokerage account with my family, I wanted to share my passion for business and promote financial literacy.
+
+ I founded an Investment Club and invited one of my previous co-workers to work with me as vice-president, who was a senior with an energetic energy I aspired to have. 
+
+I started planning weeks before school started. We created a team and assigned responsibilities. I drafted a list of potential club sponsors, a mission statement, and a logo, as well as agenda items for the first few meetings. As the school year started, our club was forming well and gained a healthy membership with eager listeners. Our first informational meeting was co-led by me and my vice-president, and I began to speak louder than ever, being able to raise my voice and bring attention to the crowd that had gathered in our club room. 
+
+After a few weeks, with our club running smoothly, I began to notice other finance clubs appear on fliers. One specific club named ‘The Intelligent Investors’ had a suspiciously similar design and flier as ours, concerning me and my cofounder. We took an opportunity to visit them and realized that their club wanted to teach an in-depth analysis on potential stocks on the stock market, whilst our club dealt with more broader topics for a more general audience. We reached a mutual agreement with the officers to stay within our specific range of topics and decided to stay in contact. 
+
+My mind was put at ease with the resolution of this potential dispute. The rest of the year went by without any other bumps. I gained invaluable experience in leading officers and my leadership skills for larger groups, being able to apply that to my future endeavors. Now I’m looking forward to being able to share my knowledge about business and finance with seniors and underclassmen. 
+
+
+
+[other idea here related to leadership] 
+ The rest of the year went by and I became more and more comfortable leading, coming in contact with other club presidents after meetings and discussing further the ideas I had during presentations and what other topics I had planned for prospective meetings. I came across a peculiar guy named Mark, who had been the president of the Real Estate Club and I decided to attend one of his meetings out of curiosity. I was intrigued with his mindset, that no matter what he was doing – presenting  (potential idea for common app)
+
+[conclusion - president of real estate club, new experiences new goals] 
+
+
+ … 
+
+
+
+	•	Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+
+439 word count
+
+During my sophomore summer, I had been working at a local restaurant as their invoice manager and had redesigned their website to take on a new modern look while also serving as a way to open up their catering services for online use. I was overwhelmed by the sheer piles and piles of invoices that needed to be managed. My desk was inundated by the unscanned documents that I needed to manually organize and I was determined to find a way to find a faster way to progress in my work.  In order to expedite the process of managing the files, I decided to sort each document by month after physically scanning all of them through my printer. My first initial thought was to use my prior AP computer science knowledge, which had taught me the basics of Java, but nothing practical or useful in real scenarios. However, by browsing the internet with tutorials, online coding forums such as stackoverflow and learning about other programming language databases Printwriter and Bufferedreader, I found that I could use an OCR, named Tesseract – an optical character recognition module– in conjunction with newfound knowledge to streamline the process. I figured out how to execute commands through command prompt, which was how the OCR was required to work, and create new folders based on the slew of words that the OCR would spew out in a , moving individual documents to their new locations. On paper this idea would work, but I encountered other problems that I did not foresee. 
+
+ Unfortunately, what I coded did not account for what type of file I was inputting into the OCR. The OCR only allowed the form of png photos to be inputted which was odd, and the files that were scanned were always in batches of PDFs, because they were in the  highest resolution. To circumvent this, I added another helper called Ghostscript, which was conceptually similar to the OCR – taking in command prompt lines while outputting new files. It allowed me to unpackage large PDFs in singular png images and after rearranging them with my original code, repackage each folder into a singular PDF. I was proud to see my program work, and it felt as if I had outsmarted my job.   By analyzing and learning to apply new information to overcome obstacles, I was able to optimize my time over the summer by being able to intermittently study or work out while doing my job in the background. As junior year kicked in, I felt relieved that I was able to finish my job on time, sidestepping what could have been an insurmountable manual process. overcoming what I thought was going to be insurmountable, with a process that manually seemed to take forever.   —-  Two summers ago, I interned at Dumpling Depot, finding new and innovative ways to solve problems in their back office.
+
+I initially spent a couple of weeks redesigning the menu to make it more beautiful and easier to use, before working on the website to give it a modern look and set up a way to order catering online. 
+
+But the problem that cried out most to me to be solved was the overwhelming piles of invoices waiting to be managed. My desk was inundated by unscanned documents – papers that I needed to manually organize and file. I was determined to find a way to find a faster way to progress in my work.
+ In order to expedite the process of managing the files, I decided to sort each document by month after physically scanning all of them through my printer. My initial thought was to use my prior AP computer science knowledge, which had taught me the basics of Java, but nothing practical in real scenarios. However, by browsing the internet with tutorials, online coding forums such as stackoverflow and learning about other programming language databases Printwriter and Bufferedreader, I found that I could use an OCR, named Tesseract – an optical character recognition module– in conjunction with newfound knowledge to streamline the process. 
+
+I created a procedure: starting with executing commands through command prompt through code, which was how the OCR was required to work, and creating new folders based on the multiple text files the OCR would output, moving the final documents to their destination. On paper this idea would work, but I encountered other problems that I did not foresee. 
+
+Unfortunately, what I coded did not account for what type of file I was inputting into the OCR. The OCR only allowed the form of png photos to be inputted, and the files that were scanned were always in batches of PDFs, because they were in the highest resolution. To circumvent this, I added another helper called Ghostscript, which was conceptually similar to the OCR by taking in command prompt lines while outputting new files. It allowed me to unpackage large PDFs in singular png images and after repackage each folder into a singular PDF. I was proud to see my program work, and it felt as if I had outsmarted my job.   Now the piles of paper have disappeared, and they made more space in the office by removing the massive metal filing cabinets that used to stand around the room. By analyzing and learning to apply new information to overcome obstacles, I was able to optimize my time over the summer by being able to intermittently study or work out while doing my job in the background. As junior year kicked in, I felt relieved that I was able to finish my job on time, sidestepping what could have been an insurmountable manual process.  
+
+
+
+
+
+—  Uc cosmos app below (terrible) 
+
+I am deeply passionate about the field of computer science and the application of logical thinking in problem-solving.
+
+After taking AP Computer Science in my sophomore year, I took a summer job at a restaurant managing their physical invoices and paperwork. I was tasked with organizing files into separate folders on the cloud based on their date. I took the opportunity to automate this task using Java by implementing an OCR (optical character recognition) to convert each file into a text file and then sort the files appropriately into OneDrive. This experience further solidified my passion for computer science and the technology’s potential to streamline and improve various processes.
+
+ 
+	•	What would you say is your greatest talent or skill? How have you developed and demonstrated that talent over time? Talent could be teamwork - team stuff (jason talked about some stuff)
+
+
+
+	•	Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.  I was not new to the concept of literary analysis in English classes, as I had written a multitude of essays over the course of my middle school to high school years. I was given time to delve into a plethora of books and come up with cohesive plans to tackle them, one by one. I was given resources during the writing processes which came in the form of peers and teacher office hours. After a couple successful essays with my sophomore English teacher on ‘1984 and Persepolis’; books which I had genuinely enjoyed, I felt ready for the next step of my English education. I was warned by my upperclassmen – who have succeeded with getting good scores on their essays and tests–to not take AP Language and composition due to the high amount of pressure I would take, but I trudged forward anyway.   Near the end of the school year and over the summer I became obsessed with increasing my vocabulary, inspired by my older peers who have also succeeded and prospered. I read their in-class books such as Brave-New World and Devil in the White city, creating documents with pages of words that I would track down almost in a trance-like state. I believed that this was the only way to achieve high praise among my peers and parents.  
+ After a few weeks, I went on a road trip where I read while frantically writing down interesting words that I thought would eventually become useful in AP Lang. A few weeks later I went on a family trip, utilizing every second of spare time to read and jot down interesting words. We had eventually stumbled on a Shakespearean Festival in Oregon, and my family decided to buy tickets for a play, seeing that I became infatuated with reading.   To my dismay, I did not understand anything at all. I was able to recognize words that I had learned over the few weeks, but was not able to appreciate the play that was happening in front of me. Not being able to understand the archaic syntax at all, I realized that a vast vocabulary was not the answer to my problems, but rather the skill to understand the context and apply that to my surrounding situation was another part of English. 
+
+Draft paragraph to conclude (figuring out larger point)
+
+I struggled to stay afloat in AP Lang, barely scratching to an A in the first semester. I was completely overwhelmed with the speed of the essays. [getting a 4 which was equivalent to a B on my first practice in-class rhetorical analysis essay with a barrage of multiple choice questions on every quiz that required speed and an attention to detail.](irrelevant) I was so focused on the grade I was getting on each assignment that I realized that I was becoming more and more methodical with my writing (elaborate or just rewrite, confusing what this means), attempting to almost solve it just like my vocabulary. For the second time, I realized that once again I needed to apply more context to certain situations, such as the author’s rhetorical strategies, tone, and the overarching message. I felt excited for the first time as we hopped onto our final in-class essay, caring for each of the requirements, but also being confident with every stroke of my pen. The semester ended as fast as the test did, and I had barely realized the improvement in my overall grade from last semester. —- Outline: Taking Up the Gauntlet of AP Lang
+ I’d been warned: don’t take AP Language & Composition. Upperclassmen had repeatedly tried to scare me off the idea due to the hundreds of pages of weekly reading and high-pressure in-class essays, but I trudged forward anyway.   To prepare I . . . .studied lists and attended Shakespeare
+[Near the end of the school year and over the summer I became obsessed with increasing my vocabulary, inspired by my older peers who have also succeeded. I read their in-class books such as Brave-New World and Devil in the White city, creating documents with pages of words that I would track down almost in a trance-like state. I believed that this was the only way to achieve high praise among my peers and parents.   A few weeks later, I went on a road trip where I read while frantically writing down interesting words that I thought would eventually become useful in AP Lang. A few weeks later I went on a family trip, utilizing every second of spare time to read and jot down interesting words. We had eventually stumbled on a Shakespeare Festival in Ashland, Oregon, and my family decided to buy tickets for a play seeing that I became infatuated with reading.   To my dismay, I did not understand The Tempest very well at all. I was able to recognize words that I had learned over the few weeks, but was not able to appreciate the play that was happening in front of me. Not being able to understand the archaic syntax at all, I realized that a vast vocabulary was not the answer to my problems, but rather the skill to understand the context and apply intuition, with the right vocabulary, to my surrounding situation was another important factor of English.] 
+
+I struggled to stay afloat in AP Lang, barely scratching to an A in the first semester. I was completely overwhelmed with the speed of the essays. I was so focused on the grade I was getting on each assignment that I realized that I was becoming more and more methodical with my writing, attempting to almost solve it just like my vocabulary. For the second time, I realized that once again I needed to apply more context to certain situations, such as the author’s rhetorical strategies, tone, and the overarching message. I felt excited for the first time as we hopped onto our final in-class essay, caring for each of the requirements but not being overwhelmed by them. I felt confident with every stroke of my pen. The semester ended as fast as the test did, and I had barely realized the improvement in my overall grade from last semester. 
+
+529 words
+
+
+Shorten:
+
+I was not new to the concept of literary analysis in English classes, as I had written a multitude of essays over the course of my middle school to high school years. I was given time to delve into a plethora of books and come up with cohesive plans to tackle them, one by one. I was given resources during the writing processes which came in the form of peers and teacher office hours. After a couple successful essays with my sophomore English teacher on ‘1984 and Persepolis’; books which I had genuinely enjoyed, I felt ready for the next step of my English education. I was warned by my upperclassmen – who have succeeded with getting good scores on their essays and tests–to not take AP Language and Composition due to the high amount of pressure I would take, but I trudged forward anyway.   Near the end of the school year and over the summer I became obsessed with increasing my vocabulary, inspired by my older peers who have also succeeded. I read their in-class books such as Brave-New World and Devil in the White city, creating documents with pages of words that I would track down almost in a trance-like state.
+ A few weeks later, I went on a road trip where I read while frantically writing down interesting words that I thought would eventually become useful in AP Lang. A few weeks later I went on a family trip, utilizing every second of spare time to read and jot down interesting words. We had eventually stumbled on a Shakespeare Festival in Ashland, Oregon, and my family decided to buy tickets for a play seeing that I became infatuated with reading.   To my dismay, I did not understand The Tempest very well at all. I was able to recognize words that I had learned over the few weeks, but was not able to appreciate the play that was happening in front of me. Not being able to understand the archaic syntax at all, I realized that a vast vocabulary was not the answer to my problems, but rather the skill to understand the context and apply intuition, with the right vocabulary, to my surrounding situation was another important factor of English. 
+
+I struggled to stay afloat in AP Lang, barely scratching to an A in the first semester. I was completely overwhelmed with the speed of the essays. I was so focused on the grade I was getting on each assignment that I realized that I was becoming more and more methodical with my writing, attempting to almost solve it just like my vocabulary. For the second time, I realized that once again I needed to apply more context to certain situations, such as the author’s rhetorical strategies, tone, and the overarching message. I felt excited for the first time as we hopped onto our final in-class essay, caring for each of the requirements but not being overwhelmed by them. I felt confident with every stroke of my pen. The semester ended as fast as the test did, and I had barely realized the improvement in my overall grade from last semester. 
+
+— 
+
+
+D’s edit:
+
+After a couple successful essays with my sophomore English teacher on ‘1984 and Persepolis’; books which I had genuinely enjoyed, I felt ready for the next step of my English education. I was warned by upperclassmen not to take AP Language and Composition due to the high amount of pressure, but I trudged forward.   To prepare, I became obsessed with increasing my vocabulary. I pre-read in-class books such as Brave-New World and Devil in the White City, creating documents with pages of words that I tracked down in a trance-like fervor.
+ I hijacked our family trip forcing us to attend Ashland, Oregon’s famed Shakespeare Festival while utilizing every second of my spare time to read and jot down interesting words.    To my dismay, I didn’t understand The Tempest very well. I recognized many words recently added to my lexicon, but still had trouble appreciating the subtleties of the play. I began to realize that a vast vocabulary wasn’t the answer to all of my linguistic challenges. 
+
+When the time came to begin the dreaded AP Lang, I rose to the occasion. While the pace of some in-class essays overwhelmed me, my preparation had equipped me with the tools I needed to successfully grasp the context, strategies, tone and message of important authors like Ralph Ellison and Franz Kafka. So I survived the dreaded course and learned to love even timed writing challenges, my every pen stroke exuding my love of the literary arts. (243)
+
+
+
+
+
+	•	Describe the most significant challenge you have faced and the steps you have taken to overcome this challenge. How has this challenge affected your academic achievement?
+
+	Idea: Team idea other prompt 
+
+Before joining dragon-boat, I was barely in shape and could not manage a single      push-up, even at times faking them for zoom meetings for physical education. In my sophomore year, I had started making friends and occasionally saw them join some type of run afterschool. Intrigued, I joined them in an off-season workout which was way out of my comfort zone: doing ten of the push-ups in which I could not do one at all, a one mile run, jump squats and a deluge of other exercises, all for a warm-up. I struggled to keep up with the group, falling behind at times, but I managed to pick myself up every time and try again. I familiarized myself with the routine and began making progress. I was able to do the ten warm-up push-ups with correct form, run faster than I have ever before and before I knew it, on-season try-outs had started.   The try-outs included three days of intense work and it was a seemingly insurmountable task to take. My calves, arms, and chest were inundated by the constant switch between physical tasks and cardiovascular. Every day would consist of a sprint, a hill sprint, wind-sprints – which were the flatter, but longer distanced sprints – and suicides, as well as a set of pushups and jump squats. I had dots in my eyes from the lack of hydration and found myself once again struggling exactly like I had restarted again. My breath was heavy as I struggled indefatigable for every repetition of push-up; every set of hill-sprints that came after. Eventually, I was selected as one of the twenty who had also made it. 
+
+ The initial euphoria caused me to plateau in my work ethic, in turn my dedication to the team. I dealt with clubs and grades, without focusing about the sport I was s
+
+
+
+Dragonboat? Possibly - “has potential”
+
+Outline:
+
+Freshman year: really not in shape
+Sophomore year: joined offseason dragonboat workouts with friends, attempted to get in shape with those intense workouts,
+	•	 unable to do a pullup or pushup in any way - when first started. 
+	•	Unable to keep up at first but got better with time 
+	•	Tryouts arrive, hillsprints, suicides that seemed to last forever, a full three days of intensity with pushups and v-ups in between each set. First memory: blurred vision with dots in my eyes
+	•	Highly competitive with only a selection of 10 new boys for the season.
+	•	Made it in but still seemingly behind with the others selected
+	•	Put in a boat with generally new people 
+ 	Junior year: (Lots of effect with academic achievement) 
+	•	Decided to take things in my own hands - grab a gym membership 
+	•	Made slow progress but not substantial, was not dedicated enough 
+	•	Dragonboat season arrives, still in similar position for racing (boat 2-3)
+	•	Disappointment 
+	•	Affected academic achievement (one B in precalculus, struggling in ap lang eng) 
+	•	Tired after each practice that I would just lay in bed, doing work late at night. 
+Senior year: (summer) 
+	•	Decided this was my last year and I would commit a lot more to working out aiming for the top boat. 
+	•	Wanted to run everyday in the summer (2 or more miles to improve cardio)
+	•	Started slow with an average of 9:30 average pace for 2-3 miles, my shins hurt after each run, I realized my form was completely wrong.
+	•	Ran everywhere everyday, started around my house, then to the beachfront (wet sand) 
+	•	A total of 70 miles of running the first month of summer
+	•	Got a lot better at running setting a new Personal Best of 8:30 average pace for 2.5 miles. 
+	•	Found a running partner during this summer camp (Jason) and we pushed each other to get a 7:11 average pace for exactly 2 miles on the great highway, another personal best. 
+	•	Worked out at the local YMCA, running 2 miles towards the gym at times. 
+	•	I finally was able to bench a plate 135 lbs breaking another personal best
+	•	Treadmill personal best etc etc.
+	•	Encouraged Jason to get a Y membership (as we speak) 
+	•	Dragonboat season has started again and I regularly get sub 8 minute/mile time for 2 miles even after intense workouts. (increased in cardiovascular, recent) 
+	•	Desc of workout: Hill sprints, pushups each set, v ups, + 2 mile loop run with initial practice on the boat.
+	•	Faster than a lot of dragonboat members now
+	•	TBD 
+
+	•	Think about an academic subject that inspires you. Describe how you have furthered this 
+interest inside and/or outside of the classroom.
+
+Brainstorm:
+  
+Listing any and all math-related classes, activities, experiences, ideas, thoughts, plans, favorites. . .
+	•	Elementary school - drilling multiplication by parents?? Could be humorous 
+	•	Algebra 1-2, Precalc h, calc bc
+	•	Science/math apcs: intro?
+	•	Struggled with some basic concepts with logic on first test - limited knowledge 
+	•	Dragons curve fractal final project- used a little math to figure out the rotation of each line.
+	•	Precalculus h: main point, 
+	•	Developed math skills ready for calculus 
+	•	Obsession over cheat sheets to study before tests?
+	•	Precalc teacher absent on many days -> self study on many occasions
+
+	•	Calculus bc
+	•	Tbd
+
+
+
+
+	•	What have you done to make your school or your community a better place?
+
+	•	Beyond what has already been shared in your application, what do you believe makes you a strong candidate for admissions to the University of California?
+
+List of extracurriculars (activity list, 350 words each, 150 initial description)
