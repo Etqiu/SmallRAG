@@ -4,10 +4,10 @@ A lightweight RAG system with Latent Dirichlet Allocation (LDA) topic modeling c
 
 ## Features
 
+- **Currently trying out RAG**: experimental (small implementation)
 - **LDA Topic Modeling**: Automatic topic discovery and visualization
 - **Topic Visualization/Clustering**: Interactive topic exploration
 - **Vector Database**: Using ChromaDB 
-- **Web Interface**: Streamlit-based demo app
 
 ## Quick Start - LDA Only
 
