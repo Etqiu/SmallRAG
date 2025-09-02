@@ -497,12 +497,10 @@ def main():
         save_path="./models/visualizations/cluster_analysis.html"
     )
     
-    # Save model
-    lda.save_model()
+    lda.save_model() # save the model with topic keywords and document names
     
-    # Show cluster summary
     if cluster_results is not None:
-        lda.save_cluster_results(cluster_results)
+        lda.save_cluster_results(cluster_results) 
         print(f"\nCluster Analysis Summary:")
         print("=" * 50)
         print(f"Number of clusters: {n_clusters}")
@@ -517,7 +515,7 @@ def main():
                 for doc in sample_docs:
                     print(f"   - {doc}")
     
-    print(f"\n Enhanced LDA analysis complete!")
+    print(f"\n Enhanced LDA analysis complete!!")
     print(f" Visualizations saved to: ./models/visualizations/")
 
 if __name__ == "__main__":
