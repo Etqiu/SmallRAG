@@ -27,7 +27,7 @@ try:
 except LookupError:
     nltk.download('wordnet')
 
-
+ 
 def setup_logging(name: str, level: int = logging.INFO) -> logging.Logger:
     """
     Setup logging configuration

@@ -154,7 +154,7 @@ class EnhancedLDA:
             self.document_names = [f"Document_{i}" for i in range(len(processed_docs))]
         
         # Train LDA model
-        print(f"Training LDA with {self.n_topics} topics...")
+        print(f"Training LDA with {self.n_topics} topics.")
         self.lda_model = LdaModel(
             corpus=self.corpus,
             id2word=self.dictionary,

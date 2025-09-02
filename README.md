@@ -1,14 +1,13 @@
 # SmallRAG with LDA Support
 
-A lightweight Retrieval-Augmented Generation (RAG) system with Latent Dirichlet Allocation (LDA) topic modeling capabilities.
+A lightweight RAG system with Latent Dirichlet Allocation (LDA) topic modeling capabilities.
 
 ## Features
 
-- **RAG Pipeline**: Document ingestion, embedding, and retrieval
 - **LDA Topic Modeling**: Automatic topic discovery and visualization
-- **Vector Database**: ChromaDB for efficient similarity search
-- **Web Interface**: Streamlit-based demo application
-- **Topic Visualization**: Interactive topic exploration
+- **Topic Visualization/Clustering**: Interactive topic exploration
+- **Vector Database**: Using ChromaDB 
+- **Web Interface**: Streamlit-based demo app
 
 ## Quick Start - LDA Only
 

@@ -2,7 +2,7 @@
 Streamlit web interface for SmallRAG with LDA
 """
 
-import streamlit as st
+import streamlit as st 
 import os
 import tempfile
 from pathlib import Path
