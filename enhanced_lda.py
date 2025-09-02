@@ -14,7 +14,7 @@ import seaborn as sns
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-
+import re
 import gensim
 from gensim import corpora, models
 from gensim.models import LdaModel
@@ -62,16 +62,43 @@ def load_documents(directory: str) -> List[str]:
     
     return documents
 
+def load_documents_with_names(directory: str) -> (List[str], List[str]):
+    """Load documents and their original filenames from directory and subdirectories"""
+    documents = []
+    doc_names = []
+    
+    if not os.path.exists(directory):
+        print(f"Directory not found: {directory}")
+        return documents, doc_names
+    
+    # Search recursively in directory and subdirectories
+    for root, dirs, files in os.walk(directory):
+        for file in files:
+            if file.endswith(('.txt', '.md')):  # Only load text files
+                try:
+                    file_path = os.path.join(root, file)
+                    content = ""
+                    
+                    # Handle text files
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        content = f.read()
+                    
+                    if content.strip():  # Only add if content is not empty
+                        documents.append(content)
+                        doc_names.append(file)  # Store the original filename
+                        # Show relative path from data directory
+                        rel_path = os.path.relpath(file_path, directory)
+                        print(f"Loaded: {rel_path}")
+                    
+                except Exception as e:
+                    print(f"Error loading {file}: {e}")
+    
+    return documents, doc_names
+
 def preprocess_text(text: str) -> List[str]:
     """Simple text preprocessing"""
-    # Convert to lowercase
     text = text.lower()
-    
-    # Remove special characters but keep words
-    import re
     text = re.sub(r'[^a-zA-Z\s]', ' ', text)
-    
-    # Split into words
     words = text.split()
     
     # Remove stopwords
@@ -103,17 +130,13 @@ class EnhancedLDA:
             if words:  # Only add if we have words
                 processed_docs.append(words)
         
-        if not processed_docs:
-            print("No valid documents after preprocessing!")
-            return
-        
         print(f"Processed {len(processed_docs)} documents")
         
         # Create dictionary
         self.dictionary = corpora.Dictionary(processed_docs)
         
         # Filter extreme values
-        self.dictionary.filter_extremes(no_below=1, no_above=0.8)
+        self.dictionary.filter_extremes(no_below=2, no_above=0.5)
         
         if len(self.dictionary) == 0:
             print("Dictionary is empty after filtering!")
@@ -124,7 +147,7 @@ class EnhancedLDA:
         # Create corpus
         self.corpus = [self.dictionary.doc2bow(doc) for doc in processed_docs]
         
-        # Store document names
+        # Store names if possible
         if document_names:
             self.document_names = document_names[:len(processed_docs)]
         else:
@@ -170,7 +193,7 @@ class EnhancedLDA:
         
         return topics
     
-    def cluster_documents(self, n_clusters: int = 5):
+    def cluster_documents(self, n_clusters: int = 10):
         """Cluster documents based on topic distributions"""
         if self.topic_distributions is None:
             print("No topic distributions available!")
@@ -238,8 +261,8 @@ class EnhancedLDA:
         
         # 3. Document clusters (if available)
         if self.topic_distributions:
-            # Use PCA for dimensionality reduction
-            pca = PCA(n_components=2)
+
+            pca = PCA(n_components=2) # PCA for dimensionality reduction
             topic_matrix = np.array(self.topic_distributions)
             reduced_data = pca.fit_transform(topic_matrix)
             
@@ -395,9 +418,16 @@ class EnhancedLDA:
         return cluster_results
     
     def save_model(self, path: str = "./models/enhanced_lda_model.pkl"):
-        """Save the trained model"""
+        """Save the trained model with topic keywords and document names"""
         os.makedirs(os.path.dirname(path), exist_ok=True)
-        
+
+        # Get topic keywords
+        topic_keywords = []
+        if self.lda_model:
+            for topic_id in range(self.n_topics):
+                topic_words = self.lda_model.show_topic(topic_id, topn=15)
+                topic_keywords.append([word for word, _ in topic_words])
+
         model_data = {
             'n_topics': self.n_topics,
             'random_state': self.random_state,
@@ -405,20 +435,28 @@ class EnhancedLDA:
             'dictionary': self.dictionary,
             'corpus': self.corpus,
             'document_names': self.document_names,
-            'topic_distributions': self.topic_distributions
+            'topic_distributions': self.topic_distributions,
+            'topic_keywords': topic_keywords  
         }
-        
+
         with open(path, 'wb') as f:
             pickle.dump(model_data, f)
-        
+
         print(f"Model saved to {path}")
+    
+    def save_cluster_results(self, cluster_results, path: str = "./models/visualizations/cluster_results.pkl"):
+        """Save cluster results DataFrame as a pickle file"""
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, 'wb') as f:
+            pickle.dump(cluster_results, f)
+        print(f"Cluster results saved to {path}")
 
 def main():
-    print("🚀 Enhanced LDA with Cluster Analysis")
+    print("Enhanced LDA with Cluster Analysis")
     print("=" * 50)
     
     # Load documents
-    documents = load_documents("./data")
+    documents, document_names = load_documents_with_names("./data")
     
     if not documents:
         print("No documents found!")
@@ -430,23 +468,22 @@ def main():
     
     # Get parameters
     n_topics = int(input(f"\nNumber of topics (default: 10): ") or "10")
-    n_clusters = int(input(f"Number of clusters (default: 5): ") or "5")
+    n_clusters = int(input(f"Number of clusters (default: 10): ") or "10")
     
-    # Train LDA
     lda = EnhancedLDA(n_topics=n_topics)
-    lda.fit(documents)
+    lda.fit(documents, document_names=document_names)
     
     if not lda.lda_model:
         print("Failed to train LDA model!")
         return
     
     # Display topics
-    print(f"\n📋 Discovered Topics:")
+    print(f"\n Discovered Topics:")
     print("=" * 50)
     
     topics = lda.get_topics()
     for topic in topics:
-        print(f"\n🔍 Topic {topic['topic_id']}:")
+        print(f"\n Topic {topic['topic_id']}:")
         print("-" * 30)
         for word, weight in zip(topic['words'][:10], topic['weights'][:10]):
             print(f"  • {word}: {weight:.4f}")
@@ -465,6 +502,7 @@ def main():
     
     # Show cluster summary
     if cluster_results is not None:
+        lda.save_cluster_results(cluster_results)
         print(f"\nCluster Analysis Summary:")
         print("=" * 50)
         print(f"Number of clusters: {n_clusters}")
@@ -472,7 +510,7 @@ def main():
         
         for cluster_id in range(n_clusters):
             cluster_docs = cluster_results[cluster_results['cluster'] == cluster_id]
-            print(f"\n🔸 Cluster {cluster_id}: {len(cluster_docs)} documents")
+            print(f"\n- Cluster {cluster_id}: {len(cluster_docs)} documents")
             if len(cluster_docs) > 0:
                 # Show sample documents
                 sample_docs = cluster_docs['document'].head(3).tolist()
@@ -483,4 +521,4 @@ def main():
     print(f" Visualizations saved to: ./models/visualizations/")
 
 if __name__ == "__main__":
-    main() 
+    main()

@@ -8,3 +8,5 @@ matplotlib
 seaborn
 plotly
 python-docx 
+docx2pdf
+PyMuPDF
