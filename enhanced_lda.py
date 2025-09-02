@@ -144,7 +144,7 @@ class EnhancedLDA:
         
         print(f"Dictionary size: {len(self.dictionary)}")
         
-        # Create corpus
+        # Create corpus (bow rep)
         self.corpus = [self.dictionary.doc2bow(doc) for doc in processed_docs]
         
         # Store names if possible
@@ -318,13 +318,9 @@ class EnhancedLDA:
             print("No topic distributions available!")
             return
         
-        # Get clustering results
         cluster_results = self.cluster_documents(n_clusters)
         
-        if cluster_results is None:
-            return
-        
-        # Create visualization
+        # Create visualization (4 subplots with plotly)
         fig = make_subplots(
             rows=2, cols=2,
             subplot_titles=('Document Clusters', 'Cluster Sizes', 'Topic Distribution by Cluster', 'Cluster Characteristics'),
@@ -452,18 +448,11 @@ class EnhancedLDA:
         print(f"Cluster results saved to {path}")
 
 def main():
-    print("Enhanced LDA with Cluster Analysis")
+    print("Enhanced LDA (different paramaters) with Cluster Analysis")
     print("=" * 50)
     
     # Load documents
-    documents, document_names = load_documents_with_names("./data")
-    
-    if not documents:
-        print("No documents found!")
-        print("\n💡 To convert DOCX files to text:")
-        print("   python simple_docx_converter.py")
-        return
-    
+    documents, document_names = load_documents_with_names("./data") 
     print(f"Loaded {len(documents)} documents")
     
     # Get parameters
@@ -472,10 +461,6 @@ def main():
     
     lda = EnhancedLDA(n_topics=n_topics)
     lda.fit(documents, document_names=document_names)
-    
-    if not lda.lda_model:
-        print("Failed to train LDA model!")
-        return
     
     # Display topics
     print(f"\n Discovered Topics:")
@@ -497,7 +482,7 @@ def main():
         save_path="./models/visualizations/cluster_analysis.html"
     )
     
-    lda.save_model() # save the model with topic keywords and document names
+    lda.save_model() # save the model with topic keywords and document names/filenames
     
     if cluster_results is not None:
         lda.save_cluster_results(cluster_results) 
@@ -515,7 +500,7 @@ def main():
                 for doc in sample_docs:
                     print(f"   - {doc}")
     
-    print(f"\n Enhanced LDA analysis complete!!")
+    print(f"\n Enhanced LDA analysis complete!!!!!!")
     print(f" Visualizations saved to: ./models/visualizations/")
 
 if __name__ == "__main__":
